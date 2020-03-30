@@ -1,0 +1,3010 @@
+
+#### Red World ####
+
+music = {
+	name = "advance_australia_fair"
+	file = "advance_australia_fair.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "aegukka"
+	file = "aegukka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "afghan_anthem"
+	file = "afghan_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "african_union_anthem"
+	file = "african_union_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "against_the_cold_morning"
+	file = "against_the_cold_morning.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ageyo_hinomaru"
+	file = "ageyo_hinomaru.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "aikoku_koshinkyoku"
+	file = "aikoku_koshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "aj_karmela"
+	file = "aj_karmela.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "akatsukiniInoru"
+	file = "akatsukiniInoru.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "albanian_communist_anthem"
+	file = "albanian_communist_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ali_baba"
+	file = "ali_baba.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "allahu_akbar"
+	file = "allahu_akbar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "alle_waffen_gegen_hitler"
+	file = "alle_waffen_gegen_hitler.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "america_the_beautiful"
+	file = "america_the_beautiful.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "american_communist_party"
+	file = "american_communist_party.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "arawashi_no_uta"
+	file = "arawashi_no_uta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "auferstanden_aus_ruinen"
+	file = "auferstanden_aus_ruinen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "avante"
+	file = "avante.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "aye_mere_watan_ke_logon"
+	file = "aye_mere_watan_ke_logon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bakudan_sanyushi"
+	file = "bakudan_sanyushi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "banzai_hitora_yuugento"
+	file = "banzai_hitora_yuugento.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "battle_hymn_of_the_republic"
+	file = "battle_hymn_of_the_republic.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "battoutai"
+	file = "battoutai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "becsi_munkasindulo"
+	file = "becsi_munkasindulo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "beiei_gekimetsu"
+	file = "beiei_gekimetsu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bella_ciao"
+	file = "bella_ciao.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bella_ciao_red_army"
+	file = "bella_ciao_red_army.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bjorneborgarnasmarsch"
+	file = "bjorneborgarnasmarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "boze_pravde"
+	file = "boze_pravde.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "brothers_the_sun_of_freedom"
+	file = "brothers_the_sun_of_freedom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bulgarian_anthem"
+	file = "bulgarian_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ceddin_deden"
+	file = "ceddin_deden.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chant_du_depart"
+	file = "chant_du_depart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chilean_anthem"
+	file = "chilean_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chinese_anthem"
+	file = "chinese_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chit_phumisak"
+	file = "chit_phumisak.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cobra_desert"
+	file = "cobra_desert.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "columbia_gem_of_the_ocean"
+	file = "columbia_gem_of_the_ocean.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "comrade_in_arms"
+	file = "comrade_in_arms.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cranes"
+	file = "cranes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "czechoslovak_anthem"
+	file = "czechoslovak_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dai_toua_sensou_kaigunno_uta"
+	file = "dai_toua_sensou_kaigunno_uta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "darenntdiepostalischetroika"
+	file = "darenntdiepostalischetroika.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "das_lied"
+	file = "das_lied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "democratic_republic_of_afghanistan"
+	file = "democratic_republic_of_afghanistan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "densvenskeflygsoldaten"
+	file = "densvenskeflygsoldaten.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "der_offene_aufmarsch"
+	file = "der_offene_aufmarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "deutschalnd_uber_alles"
+	file = "deutschalnd_uber_alles.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "die_wacht_am_rhein"
+	file = "die_wacht_am_rhein.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dixie_land"
+	file = "dixie_land.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "do_you_hear_the_people_sing"
+	file = "do_you_hear_the_people_sing.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dokino_sakura"
+	file = "dokino_sakura.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "egypt_bilady"
+	file = "egypt_bilady.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "en_hilsen_til_jer_kammerater"
+	file = "en_hilsen_til_jer_kammerater.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ey_iran"
+	file = "ey_iran.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "farewell_of_slavianka"
+	file = "farewell_of_slavianka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "father_you_were_strong"
+	file = "father_you_were_strong.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "fe_sangre_victoria"
+	file = "fe_sangre_victoria.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "flags_of_freedom"
+	file = "flags_of_freedom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "flames"
+	file = "flames.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gens_du_pays"
+	file = "gens_du_pays.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "german_anthem_violin"
+	file = "german_anthem_violin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "getsu_getsu_ka_sui_moku_kin_kin"
+	file = "getsu_getsu_ka_sui_moku_kin_kin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "god_save_the_king"
+	file = "god_save_the_king.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "god_save_the_tsar"
+	file = "god_save_the_tsar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gong_jinou"
+	file = "gong_jinou.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gouchin"
+	file = "gouchin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "greek_army_march"
+	file = "greek_army_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "greek_internationale"
+	file = "greek_internationale.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "greek_partisans"
+	file = "greek_partisans.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "greek_song"
+	file = "greek_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gunkan_koushinkyoku"
+	file = "gunkan_koushinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hail_grenada"
+	file = "hail_grenada.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hail_to_the_chief"
+	file = "hail_to_the_chief.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "harvest_song"
+	file = "harvest_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hatikva"
+	file = "hatikva.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hej_sloveni"
+	file = "hej_sloveni.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hellenic_navy"
+	file = "hellenic_navy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hemvarnetsmarsch"
+	file = "hemvarnetsmarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "heroes_of_stalingrad"
+	file = "heroes_of_stalingrad.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hey_slovaks"
+	file = "hey_slovaks.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "himno_de_la_unidad_popular"
+	file = "himno_de_la_unidad_popular.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hino_da_proclamacao_da_republica"
+	file = "hino_da_proclamacao_da_republica.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hino_do_movimento_dos_trabalhadores_sem_terraa"
+	file = "hino_do_movimento_dos_trabalhadores_sem_terra.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hirose_chuusa"
+	file = "hirose_chuusa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hohei_no_honryo"
+	file = "hohei_no_honryo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hoi4mainthemeallies"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hold_the_fort"
+	file = "hold_the_fort.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "horst_wessel_lied"
+	file = "horst_wessel_lied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hos_gelisler_ola_mustafa_kemal_pasa"
+	file = "hos_gelisler_ola_mustafa_kemal_pasa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hungarian_bella_ciao"
+	file = "hungarian_bella_ciao.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hussars_march"
+	file = "hussars_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hymne_der_sowjetunion"
+	file = "hymne_der_sowjetunion.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "i_am_australian"
+	file = "i_am_australian.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ikoku_no_oka"
+	file = "ikoku_no_oka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "immortal_revolutionary_hymn_of_kim_il_sung"
+	file = "immortal_revolutionary_hymn_of_kim_il_sung.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "immortal_victims"
+	file = "immortal_victims.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "independencia_ou_morte"
+	file = "independencia_ou_morte.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "inno_dell_aeronautica_militare_italiana"
+	file = "inno_dell_aeronautica_militare_italiana.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "internationale_american"
+	file = "internationale_american.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "invincible_eagle_march"
+	file = "invincible_eagle_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "istiklal_marsi"
+	file = "istiklal_marsi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "italian_anthem"
+	file = "italian_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "italian_horst_wessel_lied"
+	file = "italian_horst_wessel_lied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "izmir_marsi"
+	file = "izmir_marsi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "jaakarimarssi"
+	file = "jaakarimarssi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "japanese_katyusha"
+	file = "japanese_katyusha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "japanese_warszawianka"
+	file = "japanese_warszawianka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "katjuscha"
+	file = "katjuscha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "katou_hayabusa_sentoutai"
+	file = "katou_hayabusa_sentoutai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "katyusha"
+	file = "katyusha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kesariya_balam"
+	file = "kesariya_balam.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kigenni_sen_roku_hyakunen"
+	file = "kigenni_sen_roku_hyakunen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kimigayo"
+	file = "kimigayo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kingdom_of_greece"
+	file = "kingdom_of_greece.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kingdom_of_yugoslavia_anthem"
+	file = "kingdom_of_yugoslavia_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "klin_runag_thong"
+	file = "klin_runag_thong.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "koniggratzer_marsch"
+	file = "koniggratzer_marsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kraisang_krai_liang"
+	file = "kraisang_krai_liang.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kustartillerietsdefileringsmarsch"
+	file = "kustartillerietsdefileringsmarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "labours_call"
+	file = "labours_call.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "las_barricadas"
+	file = "las_barricadas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lets_do_our_best"
+	file = "lets_do_our_best.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lied_der_volksfront"
+	file = "lied_der_volksfront.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "linker_marsch"
+	file = "linker_marsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "long_live_our_country"
+	file = "long_live_our_country.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "macedonia"
+	file = "macedonia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_chawna_thai"
+	file = "march_chawna_thai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_kammakorn"
+	file = "march_kammakorn.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_kong_tab_prod_ake"
+	file = "march_kong_tab_prod_ake.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_motherland"
+	file = "march_of_motherland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_the_preobrazhensky_regiment"
+	file = "march_of_the_preobrazhensky_regiment.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_the_workers_romania"
+	file = "march_of_the_workers_romania.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marche_lorraine"
+	file = "marche_lorraine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marciacarolusrex"
+	file = "marciacarolusrex.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marechal_nous_voila"
+	file = "marechal_nous_voila.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marines_hymn"
+	file = "marines_hymn.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marsz_gwardii_ludowej"
+	file = "marsz_gwardii_ludowej.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mawtini"
+	file = "mawtini.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "meadowlands"
+	file = "meadowlands.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mi_general_augusto_pinochet"
+	file = "mi_general_augusto_pinochet.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mon_rak_siang_kradung"
+	file = "mon_rak_siang_kradung.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "moscow_nights"
+	file = "moscow_nights.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mugito_heitai"
+	file = "mugito_heitai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "muistoja_pohjolasta"
+	file = "muistoja_pohjolasta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "my_army"
+	file = "my_army.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "narsolenlyserklart"
+	file = "narsolenlyserklart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nasheed_ilahi"
+	file = "nasheed_ilahi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "national_emblem_march"
+	file = "national_emblem_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nippon_kaigun"
+	file = "nippon_kaigun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nkosi_sikelel_iafrikan"
+	file = "nkosi_sikelel_iafrika.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "no_motherland_without_you"
+	file = "no_motherland_without_you.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "northwest_passage"
+	file = "northwest_passage.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ode_to_newfoundland"
+	file = "ode_to_newfoundland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "on_towards_the_red_morning"
+	file = "on_towards_the_red_morning.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "on_your_way"
+	file = "on_your_way.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ottoman_march"
+	file = "ottoman_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "our_director"
+	file = "our_director.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "pa_vikingtog"
+	file = "pa_vikingtog.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "paint_it_black"
+	file = "paint_it_black.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "partisans_song"
+	file = "partisans_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "peace_is_on_our_bayonet"
+	file = "peace_is_on_our_bayonet.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "peace_is_victory"
+	file = "peace_is_victory.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "peddlers"
+	file = "peddlers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "perb_khao"
+	file = "perb_khao.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "pierwsza_pancerna"
+	file = "pierwsza_pancerna.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "qadam_qadam_badhae_ja"
+	file = "qadam_qadam_badhae_ja.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "raise_your_flags"
+	file = "raise_your_flags.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "red_army_is_the_strongest"
+	file = "red_army_is_the_strongest.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "roei_no_uta"
+	file = "roei_no_uta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "romdiredom"
+	file = "romdiredom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rot_und_schwartz"
+	file = "rot_und_schwartz.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rota"
+	file = "rota.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rule_britannia"
+	file = "rule_britannia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "russian_military_march"
+	file = "russian_military_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "saddam_hussein_song"
+	file = "saddam_hussein_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sari_gelin"
+	file = "sari_gelin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "saudi_anthem"
+	file = "saudi_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "seglatforommasten"
+	file = "seglatforommasten.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "senyuu"
+	file = "senyuu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sfanta_tinerete_legionara"
+	file = "sfanta_tinerete_legionara.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "showa_ishin_koshinkyoku"
+	file = "showa_ishin_koshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "shussei_heishi_wo_okuru"
+	file = "shussei_heishi_wo_okuru.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "siang_priak_chak_matupum"
+	file = "siang_priak_chak_matupum.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "socialist_world_republic"
+	file = "socialist_world_republic.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "solidaritatslied"
+	file = "solidaritatslied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "solidarity_forever"
+	file = "solidarity_forever.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_cudgel"
+	file = "song_of_the_cudgel.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_red_flag"
+	file = "song_of_the_red_flag.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_volga_tractor"
+	file = "song_of_the_volga_tractor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "soviet_song"
+	file = "soviet_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "soviet_union_state_anthem"
+	file = "soviet_union_state_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ss_marschiert_infeindesland_estonian"
+	file = "ss_marschiert_infeindesland_estonian.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "star_spangled_banner"
+	file = "star_spangled_banner.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "stars_and_stripes_forever"
+	file = "stars_and_stripes_forever.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "suliko"
+	file = "suliko.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sultans_palace"
+	file = "sultans_palace.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "svealivgardesdefileringsmarsch"
+	file = "svealivgardesdefileringsmarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "swedish_national_anthem"
+	file = "swedish_national_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "syria_baath_song"
+	file = "syria_baath_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "taharn_prachachon_samakki"
+	file = "taharn_prachachon_samakki.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tairiku_koshinkyoku"
+	file = "tairiku_koshinkyoku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "talay_chivit"
+	file = "talay_chivit.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tear_the_fascists_down"
+	file = "tear_the_fascists_down.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "texas_o_texas"
+	file = "texas_o_texas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "thank_you_comrade_kim_jong_il"
+	file = "thank_you_comrade_kim_jong_il.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_afsharids"
+	file = "the_afsharids.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_amurian_waves"
+	file = "the_amurian_waves.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_banner_above"
+	file = "the_banner_above.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_blue_cloth"
+	file = "the_blue_cloth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_fire_burns"
+	file = "the_fire_burns.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_maple_leaf_forever"
+	file = "the_maple_leaf_forever.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_peronist_march"
+	file = "the_peronist_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_peronist_march"
+	file = "the_peronist_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_sacred_war"
+	file = "the_sacred_war.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_warsawien"
+	file = "the_warsawien.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "this_land_is_your_land"
+	file = "this_land_is_your_land.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "toi_toi_toi"
+	file = "toi_toi_toi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "trei_culori"
+	file = "trei_culori.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "uae_anthem"
+	file = "uae_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ume_to_heitai"
+	file = "ume_to_heitai.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "under_the_double_eagle"
+	file = "under_the_double_eagle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "underblagulfana"
+	file = "underblagulfana.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "undersveabaner"
+	file = "undersveabaner.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ungmonpakarringon"
+	file = "ungmonpakarringon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "unsere_panzerdivision"
+	file = "unsere_panzerdivision.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "uttoroindulo"
+	file = "uttoroindulo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vastkustensmarinkommandosmarsch"
+	file = "vastkustensmarinkommandosmarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "viddagensslut"
+	file = "viddagensslut.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "wakawashi_no_uta"
+	file = "wakawashi_no_uta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "waltzing_matilda"
+	file = "waltzing_matilda.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "warszawianka"
+	file = "warszawianka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "washington_post_march"
+	file = "washington_post_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_are_forging"
+	file = "we_are_forging.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_need_only_victory"
+	file = "we_need_only_victory.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "which_side_are_you_on"
+	file = "which_side_are_you_on.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "workers_from_vienna"
+	file = "workers_from_vienna.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ya_sidi"
+	file = "ya_sidi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "yankee_doodle"
+	file = "yankee_doodle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "yellow_rose_of_texas"
+	file = "yellow_rose_of_texas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "yukino_shingun"
+	file = "yukino_shingun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "annabelle"
+	file = "annabelle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bilgewater"
+	file = "bilgewater.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "blue_side_of_the_mountain"
+	file = "blue_side_of_the_mountain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bringin_home_the_rain"
+	file = "bringin_home_the_rain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cancion_mixteca"
+	file = "cancion_mixteca.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "corcovado"
+	file = "corcovado.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dap_prampi_mesa chokchey"
+	file = "dap_prampi_mesa chokchey.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "defend_the_headquarters_of_revolution"
+	file = "defend_the_headquarters_of_revolution.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "diggin_my_grave"
+	file = "diggin_my_grave.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dont_forget_the_salvation_front"
+	file = "dont_forget_the_salvation_front.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "einheitsfrontlied"
+	file = "einheitsfrontlied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "fire_in_the_blood"
+	file = "fire_in_the_blood.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gypsy"
+	file = "gypsy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hathor"
+	file = "hathor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "if_it_hadnt_been_for_love"
+	file = "if_it_hadnt_been_for_love.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_barca_de_oro"
+	file = "la_barca_de_oro.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marching_through_georgia"
+	file = "marching_through_georgia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "old_devils"
+	file = "old_devils.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rasputin"
+	file = "rasputin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_united_front"
+	file = "the_united_front.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_walk_the_path_of_tito"
+	file = "we_walk_the_path_of_tito.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ay_carmela"
+	file = "ay_carmela.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "venceremos"
+	file = "venceremos.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "anthem_of_whampoa_military_academy"
+	file = "anthem_of_whampoa_military_academy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "soldat"
+	file = "soldat.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "2049"
+	file = "2049.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "aint_i_right"
+	file = "aint_i_right.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "alas_rojas"
+	file = "alas_rojas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "amazing_grace"
+	file = "amazing_grace.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "baath_anthem"
+	file = "baath_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "auferstanden_aus_ruinen_instrumental"
+	file = "auferstanden_aus_ruinen_instrumental.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bandera_del_reino_de_albania"
+	file = "bandera_del_reino_de_albania.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bosnak_savas_sarkisi"
+	file = "bosnak_savas_sarkisi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cara_al_sol"
+	file = "cara_al_sol.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chester"
+	file = "chester.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "when_that_day_comes"
+	file = "when_that_day_comes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "come_all_you_bold_canadians"
+	file = "come_all_you_bold_canadians.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "czerwona_holota"
+	file = "czerwona_holota.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "das_banner_von_marx_und_lenin"
+	file = "das_banner_von_marx_und_lenin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "die_rote_front"
+	file = "die_rote_front.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "avante_camaradas"
+	file = "avante_camaradas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rote_flieger"
+	file = "rote_flieger.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "el_quinto_regimiento"
+	file = "el_quinto_regimiento.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "flight"
+	file = "flight.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "well_never_let_the_old_flag_fall"
+	file = "well_never_let_the_old_flag_fall.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "frente_al_cabo_de_palos"
+	file = "frente_al_cabo_de_palos.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "giovinezza"
+	file = "giovinezza.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "glorias_ao_brasil"
+	file = "glorias_ao_brasil.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gott_erhalte_franz_den_kaiser"
+	file = "gott_erhalte_franz_den_kaiser.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hall_fanan_hogt"
+	file = "hall_fanan_hogt.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_guerrillas"
+	file = "song_of_the_guerrillas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "himno_de_los_tercios"
+	file = "himno_de_los_tercios.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hino_a_internacional_comunista"
+	file = "hino_a_internacional_comunista.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "i_vow_to_thee_my_country"
+	file = "i_vow_to_thee_my_country.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "heil_dir_im_siegerkranz"
+	file = "heil_dir_im_siegerkranz.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "afrikaans_internationale"
+	file = "afrikaans_internationale.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mury"
+	file = "mury.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "joi"
+	file = "joi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kasatschok_loy_loy"
+	file = "kasatschok_loy_loy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kong_christian_stod_ved_hojen_mast"
+	file = "kong_christian_stod_ved_hojen_mast.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "royaume_de_france"
+	file = "royaume_de_france.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "november_uprising"
+	file = "november_uprising.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gruppa_krovi"
+	file = "gruppa_krovi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "krupp_und_krause"
+	file = "krupp_und_krause.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_ricciolina"
+	file = "la_ricciolina.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "land_of_hope_and_glory"
+	file = "land_of_hope_and_glory.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lbayka_ya_alam_al_orooba"
+	file = "lbayka_ya_alam_al_orooba.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "learn_from_lei_fengs_good_example"
+	file = "learn_from_lei_fengs_good_example.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lama_bada_yatathana"
+	file = "lama_bada_yatathana.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "negaraku"
+	file = "negaraku.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_the_belgian_paratroopers"
+	file = "march_of_the_belgian_paratroopers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_the_cuban_revolutionaries"
+	file = "march_of_the_cuban_revolutionaries.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "simona"
+	file = "simona.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "veronica"
+	file = "veronica.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "pla_anthem"
+	file = "pla_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "moi_buoc_ta_di"
+	file = "moi_buoc_ta_di.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nar_jeg_ser_et_rodt_flag_smaelde"
+	file = "nar_jeg_ser_et_rodt_flag_smaelde.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "brabanconne"
+	file = "brabanconne.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ethiopian_communist_anthem"
+	file = "ethiopian_communist_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_forward_dear_mother_ethiopia"
+	file = "march_forward_dear_mother_ethiopia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "god_defend_new_zealand"
+	file = "god_defend_new_zealand.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "azerbaycan_ssr_himni"
+	file = "azerbaycan_ssr_himni.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hail_columbia"
+	file = "hail_columbia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "99_luftballons"
+	file = "99_luftballons.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "a_cradle_on_the_barricade"
+	file = "a_cradle_on_the_barricade.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "leader_just_give_us_your_order"
+	file = "leader_just_give_us_your_order.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "o_canada"
+	file = "o_canada.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "united_front_piano"
+	file = "united_front_piano.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "punakaartin_marssi"
+	file = "punakaartin_marssi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "que_viva_espana"
+	file = "que_viva_espana.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lets_go"
+	file = "lets_go.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "troika"
+	file = "troika.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_homeland_defence"
+	file = "song_of_homeland_defence.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ode_to_the_fatherland"
+	file = "ode_to_the_fatherland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "wide_is_my_motherland"
+	file = "wide_is_my_motherland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "primavera"
+	file = "primavera.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_marcha_real"
+	file = "la_marcha_real.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "waltz_of_the_flowers"
+	file = "waltz_of_the_flowers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tears_in_the_rain"
+	file = "tears_in_the_rain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "british_grenadiers_march"
+	file = "british_grenadiers_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "stand_up_and_be_counted"
+	file = "stand_up_and_be_counted.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "armed_forces_medley"
+	file = "armed_forces_medley.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "uz_marsala_tita"
+	file = "uz_marsala_tita.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "was_ist_des_deutschen_vaterland"
+	file = "was_ist_des_deutschen_vaterland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_go_on_the_wide_fields"
+	file = "we_go_on_the_wide_fields.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "werin_barikadan"
+	file = "werin_barikadan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "westerwaldlied"
+	file = "westerwaldlied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "wir_wollen_unseren_alten_kaiser_wilhelm_wiederhaben"
+	file = "wir_wollen_unseren_alten_kaiser_wilhelm_wiederhaben.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "without_the_communist_party_there_would_be_no_new_china"
+	file = "without_the_communist_party_there_would_be_no_new_china.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_stalins_artillery"
+	file = "march_of_stalins_artillery.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_american_unemployed"
+	file = "song_of_the_american_unemployed.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "anthem_of_the_mongolian_pioneers"
+	file = "anthem_of_the_mongolian_pioneers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "under_the_balkan_stars"
+	file = "under_the_balkan_stars.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "thats_us_speaking"
+	file = "thats_us_speaking.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tenesa_teramed"
+	file = "tenesa_teramed.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_red_sun_must_illuminate_taiwan"
+	file = "the_red_sun_must_illuminate_taiwan.ogg"
+	volume = 0.65
+}
+
+#### APRIL UPDATE ####
+
+music = {
+	name = "united_front_russian"
+	file = "united_front_russian.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_beiyang_fleet"
+	file = "the_beiyang_fleet.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ambitions_to_the_sky"
+	file = "ambitions_to_the_sky.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "het_wilhelmus"
+	file = "het_wilhelmus.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "south_african_anthem"
+	file = "south_african_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rise_o_voices_of_rhodesia"
+	file = "rise_o_voices_of_rhodesia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "third_army_of_the_kla"
+	file = "third_army_of_the_kla.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mer_hayrenik"
+	file = "mer_hayrenik.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tavisupleba"
+	file = "tavisupleba.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hail_the_golden_dawn"
+	file = "hail_the_golden_dawn.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "to_serve_russia"
+	file = "to_serve_russia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "siberian_riflemens_march"
+	file = "siberian_riflemens_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "panzerlied"
+	file = "panzerlied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "el_abanderado_de_la_tradicion"
+	file = "el_abanderado_de_la_tradicion.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "honor_homeland_sincerity"
+	file = "honor_homeland_sincerity.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "humat_ad_diyar"
+	file = "humat_ad_diyar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "merck_toch_hoe_sterck"
+	file = "merck_toch_hoe_sterck.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "au_31_du_mois_d_aout"
+	file = "au_31_du_mois_d_aout.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_connaught_rangers"
+	file = "the_connaught_rangers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "god_save_the_south"
+	file = "god_save_the_south.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "dixie_union_verson"
+	file = "dixie_union_verson.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bragg_which_side_are_you_on"
+	file = "bragg_which_side_are_you_on.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "olur_my_boyle_olur_mu"
+	file = "olur_my_boyle_olur_mu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bonnie_blue_flag"
+	file = "bonnie_blue_flag.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "l_hymne_du_parti_socialiste_francais"
+	file = "l_hymne_du_parti_socialiste_francais.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chinese_republican_anthem"
+	file = "chinese_republican_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "wien_bleibt_wien_marsch"
+	file = "wien_bleibt_wien_marsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "korea_the_red_flag"
+	file = "korea_the_red_flag.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hwarang_march"
+	file = "hwarang_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "uar_anthem"
+	file = "uar_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "there_far_away_across_the_river"
+	file = "there_far_away_across_the_river.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "eu_te_amo_meu_brasil"
+	file = "eu_te_amo_meu_brasil.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "deus_patria_rei"
+	file = "deus_patria_rei.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "himno_del_cristo_rey"
+	file = "himno_del_cristo_rey.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "avante_camarada"
+	file = "avante_camarada.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rio_grande_do_sul_anthem"
+	file = "rio_grande_do_sul_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hino_da_independencia"
+	file = "hino_da_independencia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_marseillaise_de_la_commune"
+	file = "la_marseillaise_de_la_commune.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "erika_afrikaans"
+	file = "erika_afrikaans.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "solemn_march"
+	file = "solemn_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "its_a_long_way_to_mukumbura"
+	file = "its_a_long_way_to_mukumbura.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "die_kaplyn"
+	file = "die_kaplyn.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "de_la_rey"
+	file = "de_la_rey.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "afrikanerhart"
+	file = "afrikanerhart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "zx_dan"
+	file = "zx_dan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hail"
+	file = "hail.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "royal_anthem_of_france"
+	file = "royal_anthem_of_france.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "preussens_gloria"
+	file = "preussens_gloria.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sen_katarzyny_II"
+	file = "sen_katarzyny_II.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "jalta"
+	file = "jalta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_commonwealth_of_toil"
+	file = "the_commonwealth_of_toil.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "joe_hill"
+	file = "joe_hill.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "njet_molotoff"
+	file = "njet_molotoff.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sakkijarven_polkka"
+	file = "sakkijarven_polkka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "god_bless_the_usa"
+	file = "god_bless_the_usa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_battle_is_going_again"
+	file = "the_battle_is_going_again.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mecidiye_marsi"
+	file = "mecidiye_marsi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hava_nagila"
+	file = "hava_nagila.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "where_have_all_the_flowers_gone"
+	file = "where_have_all_the_flowers_gone.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lore_lore"
+	file = "lore_lore.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "greek_junta_anthem"
+	file = "greek_junta_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "skipper_klements_morgensang"
+	file = "skipper_klements_morgensang.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "and_am_i_born_to_die"
+	file = "and_am_i_born_to_die.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "saleel_sawarim"
+	file = "saleel_sawarim.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "das_sudwesterlied"
+	file = "das_sudwesterlied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "stalin_our_father"
+	file = "stalin_our_father.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "i_wish_i_was_a_blue_job"
+	file = "i_wish_i_was_a_blue_job.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "indomitable_spirit"
+	file = "indomitable_spirit.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_in_step"
+	file = "march_in_step.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "one_against_a_hundred"
+	file = "one_against_a_hundred.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_will_fly_our_red_flag_forever"
+	file = "we_will_fly_our_red_flag_forever.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "north_korean_army_march"
+	file = "north_korean_army_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "anthem_of_the_soviet_cosmonaut_program"
+	file = "anthem_of_the_soviet_cosmonaut_program.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "when_johnny_comes_marching_home"
+	file = "when_johnny_comes_marching_home.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_chant_des_girondins"
+	file = "le_chant_des_girondins.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "soldiers_road"
+	file = "soldiers_road.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_are_friends_forever"
+	file = "we_are_friends_forever.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hayalim_almonim"
+	file = "hayalim_almonim.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "patria_amada"
+	file = "patria_amada.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "transvaalse_volkslied"
+	file = "transvaalse_volkslied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vrystaatse_volkslied"
+	file = "vrystaatse_volkslied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_the_soviet_tankists"
+	file = "march_of_the_soviet_tankists.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_are_russians_god_is_with_us"
+	file = "we_are_russians_god_is_with_us.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chollima_on_the_wing"
+	file = "chollima_on_the_wing.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ceausescu_song"
+	file = "ceausescu_song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "we_know_nobody_but_you"
+	file = "we_know_nobody_but_you.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_south_shall_rise_again"
+	file = "the_south_shall_rise_again.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "danny_boy"
+	file = "danny_boy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "accept_the_best_wishes_of_the_people"
+	file = "accept_the_best_wishes_of_the_people.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "where_are_you_dear_general"
+	file = "where_are_you_dear_general.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ich_hab_mich_ergeben"
+	file = "ich_hab_mich_ergeben.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "never_cross_a_picket_line"
+	file = "never_cross_a_picket_line.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "thatcherites"
+	file = "thatcherites.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "down_the_river_mother_volga"
+	file = "down_the_river_mother_volga.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "warship_march"
+	file = "warship_march.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "come_all_ye_coal_miners"
+	file = "come_all_ye_coal_miners.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vatan_partisi_marsi"
+	file = "vatan_partisi_marsi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_marseillaise"
+	file = "la_marseillaise.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_prayer_of_russians"
+	file = "the_prayer_of_russians.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "march_of_zhukov"
+	file = "march_of_zhukov.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "a_sprengisandi_at_sprengisandur"
+	file = "a_sprengisandi_at_sprengisandur.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "eternal_glory_to_the_allied_veterans_of_the_pacific_theatre"
+	file = "eternal_glory_to_the_allied_veterans_of_the_pacific_theatre.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "jana_gana_mana"
+	file = "jana_gana_mana.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bandiera_rossa"
+	file = "bandiera_rossa.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "how_beautiful_is_cuba"
+	file = "how_beautiful_is_cuba.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "judgement_day"
+	file = "judgement_day.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_angry_river"
+	file = "the_angry_river.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_cancion_del_legionario"
+	file = "la_cancion_del_legionario.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "baviera"
+	file = "baviera.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "laissez_tomber_les_filles"
+	file = "laissez_tomber_les_filles.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ill_fly_away"
+	file = "ill_fly_away.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gospel_plow"
+	file = "gospel_plow.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lone_pine_hill"
+	file = "lone_pine_hill.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "pale_rider"
+	file = "pale_rider.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "drink_the_water"
+	file = "drink_the_water.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "devil_at_the_door"
+	file = "devil_at_the_door.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "waiting_around_to_die"
+	file = "waiting_around_to_die.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "my_least_favourite_life"
+	file = "my_least_favourite_life.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "parce_que_tu_crois"
+	file = "parce_que_tu_crois.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "a_l_appel_du_grand_lenine"
+	file = "a_l_appel_du_grand_lenine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "les_nouveaux_partisans"
+	file = "les_nouveaux_partisans.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "l_appel_du_komintern"
+	file = "l_appel_du_komintern.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "zimmerwald"
+	file = "zimmerwald.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "quand_fera_t_il_jour_camarade"
+	file = "quand_fera_t_il_jour_camarade.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "a_bas_l_etat_policie"
+	file = "a_bas_l_etat_policie.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_chiffon_rouge"
+	file = "le_chiffon_rouge.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "il_est_cinq_heures_paris_seveille"
+	file = "il_est_cinq_heures_paris_seveille.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "conseil_pour_le_maintien_des_occupations"
+	file = "conseil_pour_le_maintien_des_occupations.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cogne_en_nous_le_meme_sang"
+	file = "cogne_en_nous_le_meme_sang.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "greve_illimitee"
+	file = "greve_illimitee.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_french_volunteers"
+	file = "song_of_the_french_volunteers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_front_des_travailleurs"
+	file = "le_front_des_travailleurs.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_chant_des_partisans"
+	file = "le_chant_des_partisans.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "simply_irresistible"
+	file = "simply_irresistible.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hip_to_be_square"
+	file = "hip_to_be_square.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "blue_monday"
+	file = "blue_monday.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "der_kommissar"
+	file = "der_kommissar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "i_want_a_new_drug"
+	file = "i_want_a_new_drug.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "eddy_hungtington_ussr"
+	file = "eddy_hungtington_ussr.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sweet_dreams"
+	file = "sweet_dreams.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "take_my_breath_away"
+	file = "take_my_breath_away.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "should_i_stay_or_should_i_go"
+	file = "should_i_stay_or_should_i_go.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_final_countdown"
+	file = "the_final_countdown.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "al_kapone"
+	file = "al_kapone.ogg"
+	volume = 0.65
+}
