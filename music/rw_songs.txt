@@ -4719,36 +4719,6 @@ music = {
 }
 
 music = {
-	song = "lama_bada_yatathana"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			OR = {
-			    tag = UAR 
-				tag = EGY 
-				tag = SYR 
-				tag = PAL
-				tag = JOR 
-				tag = LEB
-				tag = IRQ 
-				tag = SAU 
-				tag = UAE 
-				tag = OMA 
-				tag = YEM 
-				tag = QAT
-				tag = LBA
-				tag = TUN
-				tag = ALG
-			}
-			
-			
-		}		
-	}	
-}
-
-music = {
 	song = "negaraku"
 	
 	chance = {
