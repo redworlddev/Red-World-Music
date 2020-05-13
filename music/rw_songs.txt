@@ -2948,20 +2948,6 @@ music = {
 }
 
 music = {
-	song = "soviet_song"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = SOV
-			
-			
-		}		
-	}	
-}
-
-music = {
 	song = "soviet_union_state_anthem"
 	
 	chance = {
@@ -8493,8 +8479,187 @@ music = {
 	}	
 }
 
+music = {
+	song = "baikalo_amurskaya"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+			
+			
+		}		
+	}	
+}
 
+music = {
+	song = "kompromiss"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			tag = UKR
+			}
+			
+			
+		}		
+	}	
+}
 
+music = {
+	song = "nash_sosed"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			tag = UKR
+			}
+			
+			
+		}		
+	}	
+}
+
+music = {
+	song = "trava_u_doma"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+			
+			
+		}		
+	}	
+}
+
+music = {
+	song = "ne_valyay_duraka_amerika"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+			
+			
+		}		
+	}	
+}
+
+music = {
+	song = "zharkoye_leto"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+			
+			
+		}		
+	}	
+}
+
+music = {
+	song = "zhuravli"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+			
+			
+		}		
+	}	
+}
+
+music = {
+	song = "drum_bun"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ROM
+			
+		}		
+	}	
+}
+
+music = {
+	song = "noi_iubim_partidul"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = ROM
+			
+		}		
+	}	
+}
+
+music = {
+	song = "katioucha_fr"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = FRA
+			
+		}		
+	}	
+}
+
+music = {
+	song = "yuve_yuve_yu"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			
+			tag = MON
+			
+		}		
+	}	
+}
+
+music = {
+	song = "red_skies"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			OR = {
+			    tag = USA
+				tag = NEA
+				tag = PCA
+			}
+		}		
+	}	
+}
 
 
 

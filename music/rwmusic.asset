@@ -500,7 +500,7 @@ music = {
 }
 
 music = {
-	name = "hino_do_movimento_dos_trabalhadores_sem_terraa"
+	name = "hino_do_movimento_dos_trabalhadores_sem_terra"
 	file = "hino_do_movimento_dos_trabalhadores_sem_terra.ogg"
 	volume = 0.65
 }
@@ -902,7 +902,7 @@ music = {
 }
 
 music = {
-	name = "nkosi_sikelel_iafrikan"
+	name = "nkosi_sikelel_iafrika"
 	file = "nkosi_sikelel_iafrika.ogg"
 	volume = 0.65
 }
@@ -1138,12 +1138,6 @@ music = {
 music = {
 	name = "song_of_the_volga_tractor"
 	file = "song_of_the_volga_tractor.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "soviet_song"
-	file = "soviet_song.ogg"
 	volume = 0.65
 }
 
@@ -1921,11 +1915,11 @@ music = {
 	volume = 0.65
 }
 
-music = {
-	name = "march_forward_dear_mother_ethiopia"
-	file = "march_forward_dear_mother_ethiopia.ogg"
-	volume = 0.65
-}
+#music = {
+#	name = "march_forward_dear_mother_ethiopia"
+#	file = "march_forward_dear_mother_ethiopia.ogg"
+#	volume = 0.65
+#}
 
 music = {
 	name = "god_defend_new_zealand"
@@ -1945,11 +1939,11 @@ music = {
 	volume = 0.65
 }
 
-music = {
-	name = "99_luftballons"
-	file = "99_luftballons.ogg"
-	volume = 0.65
-}
+#music = {
+#	name = "99_luftballons"
+#	file = "99_luftballons.ogg"
+#	volume = 0.65
+#}
 
 music = {
 	name = "a_cradle_on_the_barricade"
@@ -3007,4 +3001,76 @@ music = {
 	name = "al_kapone"
 	file = "al_kapone.ogg"
 	volume = 0.65
+}
+
+music = {
+	name = "baikalo_amurskaya"
+	file = "baikalo_amurskaya.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "drum_bun"
+	file = "drum_bun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "katioucha_fr"
+	file = "katioucha_fr.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kompromiss"
+	file = "kompromiss.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nash_sosed"
+	file = "nash_sosed.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ne_valyay_duraka_amerika"
+	file = "ne_valyay_duraka_amerika.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "noi_iubim_partidul"
+	file = "noi_iubim_partidul.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "red_skies"
+	file = "red_skies.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "trava_u_doma"
+	file = "trava_u_doma.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "yuve_yuve_yu"
+	file = "yuve_yuve_yu.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "zharkoye_leto"
+	file = "zharkoye_leto.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "zhuravli"
+	file = "zhuravli.ogg"
+	volume = 0.85
 }
