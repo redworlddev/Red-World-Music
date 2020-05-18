@@ -620,8 +620,8 @@ music = {
 }
 
 music = {
-	name = "italian_horst_wessel_lied"
-	file = "italian_horst_wessel_lied.ogg"
+	name = "horst_wessel_lied_italian"
+	file = "horst_wessel_lied_italian.ogg"
 	volume = 0.65
 }
 

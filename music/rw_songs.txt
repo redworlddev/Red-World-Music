@@ -1583,7 +1583,7 @@ music = {
 }
 
 music = {
-	song = "italian_horst_wessel_lied"
+	song = "horst_wessel_lied_italian"
 	
 	chance = {
 		modifier = {
