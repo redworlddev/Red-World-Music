@@ -236,8 +236,8 @@ music = {
 }
 
 music = {
-	name = "cranes"
-	file = "cranes.ogg"
+	name = "cranes_japanese"
+	file = "cranes_japanese.ogg"
 	volume = 0.65
 }
 
@@ -2968,7 +2968,7 @@ music = {
 }
 
 music = {
-	name = "eddy_hungtington_ussr"
+	name = "eddy_huntington_ussr"
 	file = "eddy_hungtington_ussr.ogg"
 	volume = 0.65
 }
@@ -3004,8 +3004,8 @@ music = {
 }
 
 music = {
-	name = "baikalo_amurskaya"
-	file = "baikalo_amurskaya.ogg"
+	name = "baikal_amur_mainline"
+	file = "baikal_amur_mainline.ogg"
 	volume = 0.65
 }
 
@@ -3022,20 +3022,20 @@ music = {
 }
 
 music = {
-	name = "kompromiss"
-	file = "kompromiss.ogg"
+	name = "compromise"
+	file = "compromise.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "nash_sosed"
-	file = "nash_sosed.ogg"
+	name = "our_neighbor"
+	file = "our_neighbor.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "ne_valyay_duraka_amerika"
-	file = "ne_valyay_duraka_amerika.ogg"
+	name = "america_dont_mess_around"
+	file = "america_dont_mess_around.ogg"
 	volume = 0.65
 }
 
@@ -3052,8 +3052,8 @@ music = {
 }
 
 music = {
-	name = "trava_u_doma"
-	file = "trava_u_doma.ogg"
+	name = "grass_from_home"
+	file = "grass_from_home.ogg"
 	volume = 0.65
 }
 
@@ -3064,13 +3064,13 @@ music = {
 }
 
 music = {
-	name = "zharkoye_leto"
-	file = "zharkoye_leto.ogg"
+	name = "hot_summer"
+	file = "hot_summer.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "zhuravli"
-	file = "zhuravli.ogg"
+	name = "cranes"
+	file = "cranes.ogg"
 	volume = 0.85
 }

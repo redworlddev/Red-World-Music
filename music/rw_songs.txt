@@ -625,7 +625,7 @@ music = {
 }
 
 music = {
-	song = "cranes"
+	song = "cranes_japanese"
 	
 	chance = {
 		modifier = {
@@ -8381,7 +8381,7 @@ music = {
 }
 
 music = {
-	song = "eddy_hungtington_ussr"
+	song = "eddy_huntington_ussr"
 	
 	chance = {
 		modifier = {
@@ -8480,7 +8480,7 @@ music = {
 }
 
 music = {
-	song = "baikalo_amurskaya"
+	song = "baikal_amur_mainline"
 	
 	chance = {
 		modifier = {
@@ -8496,24 +8496,7 @@ music = {
 }
 
 music = {
-	song = "kompromiss"
-	
-	chance = {
-		modifier = {
-			factor = 2
-		OR = {
-			tag = SOV
-			tag = RUS
-			tag = UKR
-			}
-			
-			
-		}		
-	}	
-}
-
-music = {
-	song = "nash_sosed"
+	song = "compromise"
 	
 	chance = {
 		modifier = {
@@ -8530,7 +8513,24 @@ music = {
 }
 
 music = {
-	song = "trava_u_doma"
+	song = "our_neighbor"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			tag = UKR
+			}
+			
+			
+		}		
+	}	
+}
+
+music = {
+	song = "grass_from_home"
 	
 	chance = {
 		modifier = {
@@ -8546,7 +8546,7 @@ music = {
 }
 
 music = {
-	song = "ne_valyay_duraka_amerika"
+	song = "america_dont_mess_around"
 	
 	chance = {
 		modifier = {
@@ -8562,7 +8562,7 @@ music = {
 }
 
 music = {
-	song = "zharkoye_leto"
+	song = "hot_summer"
 	
 	chance = {
 		modifier = {
@@ -8578,7 +8578,7 @@ music = {
 }
 
 music = {
-	song = "zhuravli"
+	song = "cranes"
 	
 	chance = {
 		modifier = {
