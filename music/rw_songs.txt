@@ -5,7 +5,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0.5
-		}		
+		}
 	}
 }
 
@@ -13,188 +13,158 @@ music = {
 
 music = {
 	song = "advance_australia_fair"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = AST
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "aegukka"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "afghan_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = AFG
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "african_union_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = africa }
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "against_the_cold_morning"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ageyo_hinomaru"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "aikoku_koshinkyoku"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "aj_karmela"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = YUG
 			NOT = {
 			    has_government = communist
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "akatsukiniInoru"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "albanian_communist_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ALB
 			has_government = communist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ali_baba"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = middle_east }
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "allahu_akbar"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = LBA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "alle_waffen_gegen_hitler"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			has_government = communist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "america_the_beautiful"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = NEA
 				tag = PCA
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "american_communist_party"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = NEA
 				tag = PCA
@@ -203,17 +173,15 @@ music = {
 			    has_government = communist 
 				has_government = revolutionary_socialist
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "annabelle"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -223,45 +191,39 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "arawashi_no_uta"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "auferstanden_aus_ruinen"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "avante"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BRA
 			OR = {
 			    has_government = fascist
@@ -269,56 +231,48 @@ music = {
 				has_government = monarchist
 				has_government = national_bolshevik
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "aye_mere_watan_ke_logon"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = RAJ
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "bakudan_sanyushi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "banzai_hitora_yuugento"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "battle_hymn_of_the_republic"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -329,8 +283,8 @@ music = {
 			factor = 2
 
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -339,64 +293,56 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = HUN
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "beiei_gekimetsu"
-	
 	chance = {
 		modifier = {
 			factor = 2
 
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "bella_ciao"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ITA
 			NOT = {
 			    has_government = fascist
 				has_government = nationalist
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "bella_ciao_red_army"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			has_government = communist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "bilgewater"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -406,29 +352,25 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "bjorneborgarnasmarsch"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "blue_side_of_the_mountain"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -438,17 +380,15 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "boze_pravde"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = YUG
 				tag = SER
@@ -456,17 +396,15 @@ music = {
 			NOT = {
 			    has_government = communist
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "bringin_home_the_rain"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -476,294 +414,246 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "brothers_the_sun_of_freedom"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "bulgarian_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BUL
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "cancion_mixteca"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = MEX
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ceddin_deden"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = TUR
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "chant_du_depart"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FRA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "chilean_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CHL
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "chinese_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRC
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "chit_phumisak"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "cobra_desert"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = middle_east }
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "columbia_gem_of_the_ocean"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "comrade_in_arms"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "corcovado"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BRA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "cranes_japanese"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "czechoslovak_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CZE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "dai_toua_sensou_kaigunno_uta"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "darenntdiepostalischetroika"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "das_lied"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "defend_the_headquarters_of_revolution"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "democratic_republic_of_afghanistan"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = AFG
 			has_government = communist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "densvenskeflygsoldaten"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "der_offene_aufmarsch"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "deutschalnd_uber_alles"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "die_wacht_am_rhein"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "diggin_my_grave"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -773,32 +663,28 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "dixie_land"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "do_you_hear_the_people_sing"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
@@ -806,117 +692,99 @@ music = {
 				has_government = new_democrat
 				has_government = national_bolshevik
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "dokino_sakura"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "dont_forget_the_salvation_front"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CMB
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "egypt_bilady"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = UAR
 				tag = EGY
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "einheitsfrontlied"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "en_hilsen_til_jer_kammerater"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = DEN 
 			has_government = communist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ey_iran"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PER
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "farewell_of_slavianka"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "father_you_were_strong"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "fe_sangre_victoria"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = MEX
 			OR = {
 			    has_government = fascist
@@ -924,17 +792,15 @@ music = {
 				has_government = national_bolshevik
 				has_government = monarchist
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "fire_in_the_blood"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -944,77 +810,65 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "flags_of_freedom"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "flames"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "gens_du_pays"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CAN
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "german_anthem_violin"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "getsu_getsu_ka_sui_moku_kin_kin"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "god_save_the_king"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ENG
 			tag = ULS
 			NOT = {
@@ -1026,70 +880,60 @@ music = {
 					has_government = national_bolshevik
 				}
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "god_save_the_tsar"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
 			has_government = monarchist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "gong_jinou"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = PRC
 				tag = CHI
 			}
 			has_government = monarchist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "gouchin"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "greek_army_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "greek_internationale"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = GRE
 				tag = CYP
@@ -1100,53 +944,45 @@ music = {
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "greek_partisans"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "greek_song"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "gunkan_koushinkyoku"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "gypsy"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -1156,161 +992,135 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hail_grenada"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GND
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hail_to_the_chief"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "harvest_song"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hathor"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = middle_east }
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hatikva"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PAL
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hej_sloveni"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = YUG
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hellenic_navy"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hemvarnetsmarsch"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "heroes_of_stalingrad"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			has_government = communist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hey_slovaks"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SLO
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "himno_de_la_unidad_popular"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CHL
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hino_da_proclamacao_da_republica"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BRA
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hino_do_movimento_dos_trabalhadores_sem_terra"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BRA
 			OR = {
 			    has_government = communist
@@ -1318,134 +1128,110 @@ music = {
 				has_government = moderate_socialist
 				has_government = national_bolshevik
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hirose_chuusa"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hohei_no_honryo"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hold_the_fort"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "horst_wessel_lied"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			has_government = fascist
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hos_gelisler_ola_mustafa_kemal_pasa"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = TUR
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hungarian_bella_ciao"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = HUN
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hussars_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "hymne_der_sowjetunion"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			has_government = communist
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "i_am_australian"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = AST
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "if_it_hadnt_been_for_love"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -1455,140 +1241,110 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ikoku_no_oka"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "immortal_revolutionary_hymn_of_kim_il_sung"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "immortal_victims"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "independencia_ou_morte"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BRA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "inno_dell_aeronautica_militare_italiana"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ITA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "internationale_american"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "invincible_eagle_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "istiklal_marsi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = TUR
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "italian_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ITA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "horst_wessel_lied_italian"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ITA
 			OR = {
 			    has_government = fascist
@@ -1596,435 +1352,345 @@ music = {
 				has_government = monarchist
 				has_government = national_bolshevik
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "izmir_marsi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = TUR
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "jaakarimarssi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FIN
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "japanese_katyusha"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "japanese_warszawianka"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "katjuscha"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "katou_hayabusa_sentoutai"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "katyusha"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV
 				has_government = communist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "kesariya_balam"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = RAJ
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "kigenni_sen_roku_hyakunen"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "kimigayo"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "kingdom_of_greece"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
 			has_government = monarchist
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "kingdom_of_yugoslavia_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = YUG
 			has_government = monarchist
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "klin_runag_thong"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "koniggratzer_marsch"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "kraisang_krai_liang"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "kustartillerietsdefileringsmarsch"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "la_barca_de_oro"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = MEX
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "labours_call"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "las_barricadas"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "lets_do_our_best"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "lied_der_volksfront"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			has_government = communist
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "linker_marsch"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "long_live_our_country"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV
 				has_government = communist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "macedonia"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "march_chawna_thai"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "march_kammakorn"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "march_kong_tab_prod_ake"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "march_of_motherland"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV
 				has_government = communist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "march_of_the_preobrazhensky_regiment"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "march_of_the_workers_romania"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ROM
 			OR = {
 			    has_government = communist
@@ -2032,60 +1698,48 @@ music = {
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "marche_lorraine"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FRA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "marching_through_georgia"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = NEA
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "marciacarolusrex"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "marechal_nous_voila"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FRA
 			OR = {
 			    has_government = fascist
@@ -2093,61 +1747,49 @@ music = {
 				has_government = national_bolshevik
 				has_government = monarchist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "marines_hymn"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = NEA
 				tag = PCA
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "marsz_gwardii_ludowej"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "mawtini"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = middle_east }
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "meadowlands"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
 			OR = {
 			    has_government = communist
@@ -2155,162 +1797,129 @@ music = {
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "mi_general_augusto_pinochet"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CHL
 			OR = {
 			    has_government = fascist
 				has_government = nationalist
 				has_government = monarchist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "mon_rak_siang_kradung"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "moscow_nights"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV
 				has_government = communist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "mugito_heitai"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "muistoja_pohjolasta"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FIN
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "my_army"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV
 				has_government = communist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "narsolenlyserklart"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "nasheed_ilahi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = middle_east }
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "national_emblem_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = NEA
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "nippon_kaigun"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "nkosi_sikelel_iafrika"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 			    has_government = communist
@@ -2322,61 +1931,49 @@ music = {
 				has_government = national_bolshevik
 				has_government = monarchist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "no_motherland_without_you"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "northwest_passage"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = CAN
 				tag = GRL
 				tag = ALA
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ode_to_newfoundland"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CAN
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "old_devils"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 				tag = MWA
 				tag = ILL
@@ -2386,86 +1983,68 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "on_towards_the_red_morning"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "on_your_way"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ottoman_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = TUR
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "our_director"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = NEA
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "pa_vikingtog"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			has_government = fascist
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "paint_it_black"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = NEA
@@ -2481,324 +2060,240 @@ music = {
 				tag = ULS
 			}
 			has_war = yes
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "partisans_song"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV
 				has_government = communist
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "peace_is_on_our_bayonet"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "peace_is_victory"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "peddlers"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "perb_khao"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "pierwsza_pancerna"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "qadam_qadam_badhae_ja"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = RAJ
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "raise_your_flags"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
 			OR = {
 			    has_government = fascist
 				has_government = nationalist
 				has_government = national_bolshevik
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "rasputin"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = europe }
 			has_war = no
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "red_army_is_the_strongest"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV
 				has_government = communist
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "roei_no_uta"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "romdiredom"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			has_government = fascist
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "rot_und_schwartz"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			has_war = yes
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "rota"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "rule_britannia"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ENG
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "russian_military_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "saddam_hussein_song"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = IRQ
 			has_government = nationalist
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "sari_gelin"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = middle_east }
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "saudi_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAU
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "seglatforommasten"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "senyuu"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "sfanta_tinerete_legionara"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ROM
 			OR = {
 			    has_government = fascist
@@ -2806,173 +2301,129 @@ music = {
 				has_government = monarchist
 				has_government = national_bolshevik
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "showa_ishin_koshinkyoku"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "shussei_heishi_wo_okuru"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "siang_priak_chak_matupum"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "socialist_world_republic"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "solidaritatslied"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "solidarity_forever"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = revolutionary_socialist
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "song_of_the_cudgel"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "song_of_the_red_flag"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "song_of_the_volga_tractor"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
 			has_government = communist
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "soviet_union_state_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
 			OR = {
 			    has_government = communist
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ss_marschiert_infeindesland_estonian"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = FIN
 				tag = SOV
@@ -2984,118 +2435,88 @@ music = {
 			    has_government = fascist
 				has_government = national_bolshevik
 			}
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "star_spangled_banner"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "stars_and_stripes_forever"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = USA
 				tag = NEA
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "suliko"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "sultans_palace"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			capital_scope = { is_on_continent = middle_east }
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "svealivgardesdefileringsmarsch"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "swedish_national_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SWE
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "syria_baath_song"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = UAR
 				tag = SYR
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "taharn_prachachon_samakki"
-	
 	chance = {
 		modifier = {
 			factor = 2
@@ -3103,36 +2524,28 @@ music = {
 			tag = SIA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "tairiku_koshinkyoku"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "talay_chivit"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SIA
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3160,8 +2573,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3174,8 +2587,8 @@ music = {
 			tag = TEX
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3188,8 +2601,8 @@ music = {
 			tag = PRK
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3202,8 +2615,8 @@ music = {
 			tag = PER
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3217,8 +2630,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3237,8 +2650,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3251,8 +2664,8 @@ music = {
 			tag = JAP
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3265,8 +2678,8 @@ music = {
 			tag = JAP
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3279,8 +2692,8 @@ music = {
 			tag = CAN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3293,8 +2706,8 @@ music = {
 			tag = ARG
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3310,8 +2723,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3343,8 +2756,8 @@ music = {
 			has_government = revolutionary_socialist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3380,8 +2793,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3417,8 +2830,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3431,8 +2844,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3450,8 +2863,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3464,8 +2877,8 @@ music = {
 			tag = UAE
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3478,8 +2891,8 @@ music = {
 			tag = JAP
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3493,8 +2906,8 @@ music = {
 			has_government = monarchist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3507,8 +2920,8 @@ music = {
 			tag = SWE
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3521,8 +2934,8 @@ music = {
 			tag = SWE
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3535,8 +2948,8 @@ music = {
 			tag = SWE
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3549,8 +2962,8 @@ music = {
 			tag = GER
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3563,8 +2976,8 @@ music = {
 			tag = HUN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3577,8 +2990,8 @@ music = {
 			tag = SWE
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3591,8 +3004,8 @@ music = {
 			tag = SWE
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3605,8 +3018,8 @@ music = {
 			tag = JAP
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3619,8 +3032,8 @@ music = {
 			tag = AST
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3637,8 +3050,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3654,8 +3067,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3668,8 +3081,8 @@ music = {
 			tag = JAP
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3682,8 +3095,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3696,8 +3109,8 @@ music = {
 			has_government = revolutionary_socialist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3711,8 +3124,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3725,8 +3138,8 @@ music = {
 			capital_scope = { is_on_continent = middle_east }
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3739,8 +3152,8 @@ music = {
 			tag = USA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3753,8 +3166,8 @@ music = {
 			tag = TEX
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3767,8 +3180,8 @@ music = {
 			tag = JAP
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3781,8 +3194,8 @@ music = {
 			tag = YUG
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3802,8 +3215,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3822,8 +3235,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3836,8 +3249,8 @@ music = {
 			tag = CHI
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3850,8 +3263,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3865,8 +3278,8 @@ music = {
 			has_war = no
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3906,8 +3319,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3927,8 +3340,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3961,8 +3374,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -3997,8 +3410,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4019,8 +3432,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4039,8 +3452,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4060,8 +3473,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4079,8 +3492,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4093,8 +3506,8 @@ music = {
 			tag = AMC
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4107,8 +3520,8 @@ music = {
 			tag = PRC
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4121,8 +3534,8 @@ music = {
 			tag = CAN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4141,8 +3554,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4163,8 +3576,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4185,8 +3598,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4199,8 +3612,8 @@ music = {
 			tag = BRA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4218,8 +3631,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4238,8 +3651,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4252,8 +3665,8 @@ music = {
 			tag = JAP
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4266,8 +3679,8 @@ music = {
 			tag = ENG
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4287,8 +3700,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4306,8 +3719,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4326,8 +3739,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4346,8 +3759,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4371,8 +3784,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4385,8 +3798,8 @@ music = {
 			tag = PRC
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4404,8 +3817,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4427,8 +3840,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4441,8 +3854,8 @@ music = {
 			tag = ENG
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4456,8 +3869,8 @@ music = {
 			has_government = monarchist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4476,8 +3889,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4493,8 +3906,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4510,8 +3923,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4525,8 +3938,8 @@ music = {
 			has_war = no
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4539,8 +3952,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4559,8 +3972,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4579,8 +3992,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4593,8 +4006,8 @@ music = {
 			tag = POL
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4607,8 +4020,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4627,8 +4040,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4641,8 +4054,8 @@ music = {
 			tag = ITA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4655,8 +4068,8 @@ music = {
 			tag = ENG
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4685,8 +4098,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4700,8 +4113,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4714,8 +4127,8 @@ music = {
 			tag = MAY
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4728,8 +4141,8 @@ music = {
 			tag = BEL
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4748,8 +4161,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4762,8 +4175,8 @@ music = {
 			tag = ITA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4776,8 +4189,8 @@ music = {
 			tag = ITA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4791,8 +4204,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -4810,17 +4223,15 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "nar_jeg_ser_et_rodt_flag_smaelde"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = DEN
 			OR = {
 			    has_government = communist 
@@ -4828,15 +4239,12 @@ music = {
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "brabanconne"
-	
 	chance = {
 		modifier = {
 			factor = 2
@@ -4844,109 +4252,85 @@ music = {
 			tag = BEL
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ethiopian_communist_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ETH 
 			OR = {
 			    has_government = communist 
 				has_government = national_bolshevik
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
-music = {
-	song = "march_forward_dear_mother_ethiopia"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = ETH 
-			
-			
-		}		
-	}	
-}
+#music = {
+#	song = "march_forward_dear_mother_ethiopia"
+#	chance = {
+#		modifier = {
+#			factor = 2
+#			tag = ETH 
+#			
+#			
+#		}
+#	}
+#}
 
 music = {
 	song = "god_defend_new_zealand"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = NZL
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "azerbaycan_ssr_himni"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = SOV 
 				tag = AZR
 			}
-			has_government = communist
-			
-			
-		}		
-	}	
+			has_government = communist	
+		}
+	}
 }
 
 music = {
 	song = "hail_columbia"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
-music = {
-	song = "99_luftballons"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = GER
-			
-			
-		}		
-	}	
-}
+#music = {
+#	song = "99_luftballons"
+#	chance = {
+#		modifier = {
+#			factor = 2
+#			tag = GER	
+#		}
+#	}
+#}
 
 music = {
 	song = "a_cradle_on_the_barricade"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ALB
 			OR = { 
 			    has_government = communist 
@@ -4954,165 +4338,123 @@ music = {
 				has_government = moderate_socialist
 				has_government = national_bolshevik
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "leader_just_give_us_your_order"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
 			has_government = communist
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "o_canada"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CAN
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "united_front_piano"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    has_government = revolutionary_socialist
 				has_government = moderate_socialist 
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "punakaartin_marssi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FIN
 			OR = {
 			    has_government = communist 
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "que_viva_espana"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SPR
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "lets_go"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV 
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "troika"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV 
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "song_of_homeland_defence"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK 
 			NOT = {
 			    has_government = communist
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "ode_to_the_fatherland"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
-			tag = PRK 
+			tag = PRK
 			NOT = {
 			    has_government = communist
 			}
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
 	song = "wide_is_my_motherland"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
-			
-			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5130,8 +4472,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5152,8 +4494,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5166,8 +4508,8 @@ music = {
 			has_war = no
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5181,8 +4523,8 @@ music = {
 			has_war = no
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5195,8 +4537,8 @@ music = {
 			tag = ENG
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5211,8 +4553,8 @@ music = {
 			has_government = nationalist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5225,8 +4567,8 @@ music = {
 			tag = USA 
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5240,8 +4582,8 @@ music = {
 			has_government = revolutionary_socialist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5259,8 +4601,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5280,8 +4622,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5299,8 +4641,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5313,8 +4655,8 @@ music = {
 			tag = GER
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5328,8 +4670,8 @@ music = {
 			has_government = monarchist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5343,8 +4685,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5361,8 +4703,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5375,8 +4717,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5389,8 +4731,8 @@ music = {
 			tag = MON
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5403,8 +4745,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5422,8 +4764,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5441,8 +4783,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5460,8 +4802,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 #### APRIL UPDATE ####
@@ -5482,8 +4824,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5503,8 +4845,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5527,8 +4869,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5545,14 +4887,14 @@ music = {
 				has_government = monarchist
 				has_government = national_conservative 
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat
 
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5568,13 +4910,13 @@ music = {
 				has_government = nationalist
 				has_government = national_conservative 
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5593,8 +4935,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5614,8 +4956,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5628,8 +4970,8 @@ music = {
 			tag = ARM
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5644,7 +4986,7 @@ music = {
 				has_government = revolutionary_socialist 
                 has_government = moderate_socialist
 				has_government = new_democrat
-				has_government = liberal 
+				has_government = liberal
                 has_government = centrist
 				has_government = national_conservative
 				has_government = monarchist
@@ -5653,8 +4995,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5672,8 +5014,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5686,8 +5028,8 @@ music = {
 			tag = RUS
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5709,8 +5051,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5729,8 +5071,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5748,8 +5090,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5771,8 +5113,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5785,8 +5127,8 @@ music = {
 			tag = SYR
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5801,10 +5143,10 @@ music = {
 				has_government = fascist
                 has_government = nationalist 
                 has_government = monarchist 
-                has_government = national_bolshevik 
+                has_government = national_bolshevik
                 has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat
 				
 
@@ -5815,8 +5157,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5831,10 +5173,10 @@ music = {
 				has_government = fascist
                 has_government = nationalist 
                 has_government = monarchist 
-                has_government = national_bolshevik 
+                has_government = national_bolshevik
                 has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat
 				has_government = moderate_socialist
 				
@@ -5845,8 +5187,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5862,8 +5204,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5876,8 +5218,8 @@ music = {
 			tag = USA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5905,8 +5247,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5940,8 +5282,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5954,8 +5296,8 @@ music = {
 			tag = TUR
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5968,8 +5310,8 @@ music = {
 			tag = USA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -5992,8 +5334,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6011,7 +5353,7 @@ music = {
 				has_government = nationalist 
 				has_government = national_conservative
 		        has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat
 				has_government = moderate_socialist
 				
@@ -6022,8 +5364,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6039,8 +5381,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6055,7 +5397,7 @@ music = {
 				has_government = communist 
 				has_government = revolutionary_socialist
 		        has_government = moderate_socialist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				
 
 
@@ -6064,8 +5406,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6080,10 +5422,10 @@ music = {
 				has_government = fascist 
 				has_government = nationalist
 		        has_government = monarchist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat
 				
 
@@ -6093,8 +5435,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6117,8 +5459,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6134,8 +5476,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6148,8 +5490,8 @@ music = {
 			tag = BRA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6173,8 +5515,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6195,8 +5537,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6220,8 +5562,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6234,8 +5576,8 @@ music = {
 			tag = BRA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6254,8 +5596,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6277,8 +5619,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6298,8 +5640,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6312,8 +5654,8 @@ music = {
 			has_government = monarchist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6334,8 +5676,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6357,8 +5699,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6380,8 +5722,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6403,8 +5745,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6417,8 +5759,8 @@ music = {
 			tag = SAF
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6431,8 +5773,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6451,8 +5793,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6474,8 +5816,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6492,7 +5834,7 @@ music = {
 				has_government = monarchist
 				has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
 
@@ -6501,8 +5843,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6522,8 +5864,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6559,8 +5901,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6596,8 +5938,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6614,7 +5956,7 @@ music = {
 				has_government = monarchist 
 				has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
 
@@ -6623,8 +5965,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6641,7 +5983,7 @@ music = {
 				has_government = monarchist 
 				has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
 
@@ -6650,8 +5992,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6672,7 +6014,7 @@ music = {
 			OR = {
 				has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat 
 
 				
@@ -6680,8 +6022,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6694,8 +6036,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6716,8 +6058,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6733,8 +6075,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6770,8 +6112,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6794,8 +6136,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6815,8 +6157,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6829,8 +6171,8 @@ music = {
 			tag = DEN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6854,15 +6196,15 @@ music = {
 				has_government = monarchist 
 				has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
 				has_government = revolutionary_socialist
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6884,8 +6226,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6907,8 +6249,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6921,8 +6263,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6944,8 +6286,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6964,7 +6306,7 @@ music = {
 				has_government = fascist 
 				has_government = national_conservative
 				has_government = centrist
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
 				has_government = national_bolshevik
@@ -6974,8 +6316,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -6988,15 +6330,15 @@ music = {
 			tag = PRK
 			OR = {
 				has_government = communist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 
 				
 
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7009,15 +6351,15 @@ music = {
 			tag = PRK
 			OR = {
 				has_government = communist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 
 				
 
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7030,7 +6372,7 @@ music = {
 			tag = PRK
 			OR = {
 				has_government = communist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				has_government = revolutionary_socialist
 				has_government = moderate_socialist
 
@@ -7039,8 +6381,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7053,15 +6395,15 @@ music = {
 			tag = PRK
 			OR = {
 				has_government = communist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 
 				
 
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7074,8 +6416,8 @@ music = {
 			tag = SOV
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7088,8 +6430,8 @@ music = {
 			tag = USA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7104,7 +6446,7 @@ music = {
 				has_government = nationalist 
 				has_government = national_conservative 
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat
 				has_government = moderate_socialist
 
@@ -7113,8 +6455,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7127,7 +6469,7 @@ music = {
 			tag = PRK
 			OR = {
 				has_government = communist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				has_government = revolutionary_socialist 
 
 				
@@ -7135,8 +6477,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7155,8 +6497,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7169,8 +6511,8 @@ music = {
 			tag = KIS
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7183,8 +6525,8 @@ music = {
 			tag = MZB
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7206,8 +6548,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7229,8 +6571,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7243,8 +6585,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7257,8 +6599,8 @@ music = {
 			tag = RUS
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7271,7 +6613,7 @@ music = {
 			tag = PRK
 			OR = {
 				has_government = communist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 				has_government = revolutionary_socialist
 
 				
@@ -7279,8 +6621,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7293,15 +6635,15 @@ music = {
 			tag = PRK
 			OR = {
 				has_government = communist 
-				has_government = national_bolshevik 
+				has_government = national_bolshevik
 
 				
 
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7320,8 +6662,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7334,8 +6676,8 @@ music = {
 			tag = USA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7351,8 +6693,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7372,8 +6714,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7393,8 +6735,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7410,7 +6752,7 @@ music = {
 				has_government = national_bolshevik
 				has_government = national_conservative
 				has_government = centrist 
-				has_government = liberal 
+				has_government = liberal
 				has_government = new_democrat
 				has_government = moderate_socialist
 				has_government = revolutionary_socialist
@@ -7420,8 +6762,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7455,8 +6797,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7472,7 +6814,7 @@ music = {
 				has_government = revolutionary_socialist
 				has_government = moderate_socialist
 				has_government = new_democrat 
-				has_government = liberal 
+				has_government = liberal
 				has_government = centrist
 				has_government = national_bolshevik
 
@@ -7481,8 +6823,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7498,8 +6840,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7521,8 +6863,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7558,8 +6900,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7578,8 +6920,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7592,8 +6934,8 @@ music = {
 			tag = FRA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7615,8 +6957,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7629,8 +6971,8 @@ music = {
 			has_government = communist
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7643,8 +6985,8 @@ music = {
 			tag = ICE
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7667,8 +7009,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7681,8 +7023,8 @@ music = {
 			tag = RAJ
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7701,8 +7043,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7724,8 +7066,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7746,8 +7088,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7768,8 +7110,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7782,8 +7124,8 @@ music = {
 			tag = SPR
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7804,8 +7146,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7818,8 +7160,8 @@ music = {
 			tag = FRA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7840,8 +7182,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7862,8 +7204,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7884,8 +7226,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7906,8 +7248,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7928,8 +7270,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7950,8 +7292,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7972,8 +7314,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -7994,8 +7336,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8008,8 +7350,8 @@ music = {
 			tag = FRA
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8030,8 +7372,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8052,8 +7394,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8073,8 +7415,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8096,8 +7438,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8118,8 +7460,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8141,8 +7483,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8164,8 +7506,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8186,8 +7528,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8208,8 +7550,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8231,8 +7573,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8254,8 +7596,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8276,8 +7618,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8298,8 +7640,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8320,8 +7662,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8334,8 +7676,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8348,8 +7690,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8362,8 +7704,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8376,8 +7718,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8390,8 +7732,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8404,8 +7746,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8418,8 +7760,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8432,8 +7774,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8446,8 +7788,8 @@ music = {
 			tag = LIN
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8465,7 +7807,7 @@ music = {
 			    has_government = communist 
 				has_government = moderate_socialist
 				has_government = new_democrat
-				has_government = liberal 
+				has_government = liberal
 				has_government = centrist 
 				has_government = national_conservative 
 				has_government = nationalist 
@@ -8475,8 +7817,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8491,8 +7833,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8508,8 +7850,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8525,8 +7867,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8541,8 +7883,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8557,8 +7899,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8573,8 +7915,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8589,8 +7931,8 @@ music = {
 			}
 			
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8602,8 +7944,8 @@ music = {
 			
 			tag = ROM
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8615,8 +7957,8 @@ music = {
 			
 			tag = ROM
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8628,8 +7970,8 @@ music = {
 			
 			tag = FRA
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8641,8 +7983,8 @@ music = {
 			
 			tag = MON
 			
-		}		
-	}	
+		}
+	}
 }
 
 music = {
@@ -8657,8 +7999,8 @@ music = {
 				tag = NEA
 				tag = PCA
 			}
-		}		
-	}	
+		}
+	}
 }
 
 
