@@ -1045,8 +1045,8 @@ music = {
 }
 
 music = {
-	name = "russian_military_march"
-	file = "russian_military_march.ogg"
+	name = "en_route_instrumental"
+	file = "en_route_instrumental.ogg"
 	volume = 0.65
 }
 
