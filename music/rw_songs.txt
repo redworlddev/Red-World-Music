@@ -2229,7 +2229,7 @@ music = {
 }
 
 music = {
-	song = "russian_military_march"
+	song = "en_route_instrumental"
 	chance = {
 		modifier = {
 			factor = 2
