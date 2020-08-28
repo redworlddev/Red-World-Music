@@ -920,7 +920,7 @@ music = {
 }
 
 music = {
-	song = "greek_army_march"
+	song = "army_marches_on"
 	chance = {
 		modifier = {
 			factor = 2
@@ -959,7 +959,7 @@ music = {
 }
 
 music = {
-	song = "greek_song"
+	song = "zorbas_dance"
 	chance = {
 		modifier = {
 			factor = 2

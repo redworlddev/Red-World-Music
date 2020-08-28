@@ -403,8 +403,8 @@ music = {
 }
 
 music = {
-	name = "greek_army_march"
-	file = "greek_army_march.ogg"
+	name = "army_marches_on"
+	file = "army_marches_on.ogg"
 	volume = 0.65
 }
 
@@ -421,8 +421,8 @@ music = {
 }
 
 music = {
-	name = "greek_song"
-	file = "greek_song.ogg"
+	name = "zorbas_dance"
+	file = "zorbas_dance.ogg"
 	volume = 0.65
 }
 
