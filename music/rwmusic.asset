@@ -613,8 +613,8 @@ music = {
 }
 
 music = {
-	name = "italian_anthem"
-	file = "italian_anthem.ogg"
+	name = "canto_degli_italiani"
+	file = "canto_degli_italiani.ogg"
 	volume = 0.65
 }
 

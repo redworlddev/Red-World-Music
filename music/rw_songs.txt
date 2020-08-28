@@ -1331,7 +1331,7 @@ music = {
 }
 
 music = {
-	song = "italian_anthem"
+	song = "canto_degli_italiani"
 	chance = {
 		modifier = {
 			factor = 2
