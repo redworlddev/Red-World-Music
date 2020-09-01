@@ -4471,8 +4471,10 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-
-			tag = SOV
+			OR = {
+				tag = SOV
+				tag = CUB
+			}
 			OR = {
 			    has_government = communist 
 				has_government = national_bolshevik
