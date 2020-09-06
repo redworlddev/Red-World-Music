@@ -3682,25 +3682,19 @@ music = {
 
 music = {
 	song = "november_uprising"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "blood_type"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
 		}
 	}
@@ -3724,39 +3718,29 @@ music = {
 
 music = {
 	song = "la_ricciolina"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ITA
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "land_of_hope_and_glory"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ENG
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "lbayka_ya_alam_al_orooba"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = UAR 
 				tag = EGY 
@@ -3774,62 +3758,46 @@ music = {
 				tag = TUN
 				tag = ALG
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "learn_from_lei_fengs_good_example"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRC
 			has_government = communist
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "negaraku"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = MAY
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "march_of_the_belgian_paratroopers"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BEL
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "march_of_the_cuban_revolutionaries"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CUB
 			OR = {
 			    has_government = communist 
@@ -3837,22 +3805,16 @@ music = {
 				has_government = national_bolshevik
 				has_government = moderate_socialist
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "simona"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = ITA
-			
-			
 		}
 	}
 }
