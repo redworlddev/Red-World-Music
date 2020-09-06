@@ -1813,8 +1813,8 @@ music = {
 }
 
 music = {
-	name = "gruppa_krovi"
-	file = "gruppa_krovi.ogg"
+	name = "blood_type"
+	file = "blood_type.ogg"
 	volume = 0.65
 }
 

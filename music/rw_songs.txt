@@ -3576,26 +3576,20 @@ music = {
 
 music = {
 	song = "heil_dir_im_siegerkranz"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER 
 			has_government = monarchist
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "afrikaans_internationale"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 			    has_government = communist
@@ -3603,82 +3597,62 @@ music = {
 				has_government = moderate_socialist
 				has_government = national_bolshevik
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "mury"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
 			NOT = {
 			    has_government = communist
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "oblawa"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
 			NOT = {
 			    has_government = communist
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "joi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP 
 			has_war = no
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "kasatschok_loy_loy"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "kong_christian_stod_ved_hojen_mast"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = DEN 
 			OR = {
 			    has_government = nationalist
@@ -3686,19 +3660,15 @@ music = {
 				has_government = national_conservative
 				has_government = centrist
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "royaume_de_france"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FRA
 			OR = {
 			    has_government = monarchist 
@@ -3706,8 +3676,6 @@ music = {
 				has_government = nationalist 
 				has_government = fascist 
 			}
-			
-			
 		}
 	}
 }
@@ -3727,26 +3695,22 @@ music = {
 }
 
 music = {
-	song = "gruppa_krovi"
+	song = "blood_type"
 	
 	chance = {
 		modifier = {
 			factor = 2
 
 			tag = SOV
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "krupp_und_krause"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			OR = {
 			    has_government = communist 
@@ -3754,8 +3718,6 @@ music = {
 				has_government = revolutionary_socialist
 				has_government = moderate_socialist
 			}
-			
-			
 		}
 	}
 }
