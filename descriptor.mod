@@ -1,9 +1,7 @@
-name="Red World Music"
-dependencies={
-	"Red World"
-}
+name="Red World Dev Music"
 tags={
-	"Sound"
+	"Music"
 }
-supported_version="1.9.*"
+supported_version="1.10.*"
 path="mod/Red-World-Music"
+remote_file_id="2166458922"
