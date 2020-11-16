@@ -5,3 +5,24 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 }
+spriteTypes = {
+	spriteType = {
+		name = "GFX_rw_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//rw_pop_album_art.tga"
+		noOfFrames = 2
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = "GFX_rw_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//rw_communism_album_art.tga"
+		noOfFrames = 2
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = "GFX_rw_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//rw_nationalist_album_art.tga"
+		noOfFrames = 2
+	}
+}

@@ -1,0 +1,127 @@
+music_station = "rw_communism_music"
+music = {
+	song = "auferstanden_aus_ruinen"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "albanian_communist_anthem"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ALB
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "alle_waffen_gegen_hitler"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "american_communist_party"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NEA
+				tag = PCA
+			}
+			OR = {
+			    has_government = communist 
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "becsi_munkasindulo"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = HUN
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "bella_ciao_red_army"
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "democratic_republic_of_afghanistan"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = AFG
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "do_you_hear_the_people_sing"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+				has_government = new_democrat
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "en_hilsen_til_jer_kammerater"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = DEN 
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "farewell_of_slavianka"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}
+	}
+}

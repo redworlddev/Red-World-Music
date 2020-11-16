@@ -1,0 +1,30 @@
+music_station = "rw_nationalist_music"
+music = {
+	song = "aj_karmela"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = YUG
+			NOT = {
+			    has_government = communist
+			}
+		}
+	}
+}
+
+
+music = {
+	song = "boze_pravde"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = YUG
+				tag = SER
+			}
+			NOT = {
+			    has_government = communist
+			}
+		}
+	}
+}
