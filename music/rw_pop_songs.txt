@@ -201,3 +201,29 @@ music = {
 		}
 	}
 }
+music = {
+	song = "i_want_a_new_drug"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = LIN
+			
+			
+		}
+	}
+}
+music = {
+	song = "mr_roboto"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = JAP
+			
+			
+		}
+	}
+}
