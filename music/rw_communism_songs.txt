@@ -125,3 +125,15 @@ music = {
 		}
 	}
 }
+music = {
+	song = "katyusha"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				has_government = communist
+			}
+		}
+	}
+}

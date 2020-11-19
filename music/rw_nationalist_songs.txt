@@ -1,5 +1,23 @@
 music_station = "rw_nationalist_music"
 music = {
+	song = "advance_australia_fair"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
+}
+music = {
+	song = "afghan_anthem"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = AFG
+		}
+	}
+}
+music = {
 	song = "aint_i_right"
 	chance = {
 		modifier = {
@@ -47,7 +65,28 @@ music = {
 		}
 	}
 }
-
+music = {
+	song = "america_the_beautiful"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = USA
+				tag = NEA
+				tag = PCA
+			}
+		}
+	}
+}
+music = {
+	song = "battle_hymn_of_the_republic"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
 
 music = {
 	song = "boze_pravde"
@@ -61,6 +100,159 @@ music = {
 			NOT = {
 			    has_government = communist
 			}
+		}
+	}
+}
+music = {
+	song = "cobra_desert"
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = middle_east }
+		}
+	}
+}
+music = {
+	song = "cranes_japanese"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+music = {
+	song = "deus_patria_rei"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			OR = {
+			    tag = POR 
+				tag = BRA
+			}
+			OR = {
+				has_government = monarchist
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "die_wacht_am_rhein"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "dixie_land"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = USA
+				tag = TEX
+			}
+		}
+	}
+}
+music = {
+	song = "dixie_union_verson"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			OR = {
+			    tag = NEA 
+				tag = GRL 
+				tag = ILL 
+			}
+			OR = {
+				has_government = communist 
+				has_government = revolutionary_socialist
+		        has_government = moderate_socialist
+				has_government = new_democrat
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "down_the_river_mother_volga"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			OR = {
+			    tag = SOV 
+				tag = RUS
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "erika_afrikaans"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = SAF
+			OR = {
+				has_government = fascist 
+				has_government = nationalist
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "eternal_glory_to_the_allied_veterans_of_the_pacific_theatre"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = CHI
+			OR = {
+				has_government = fascist 
+				has_government = nationalist 
+				has_government = national_conservative
+				has_government = centrist 
+				has_government = liberal
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "horst_wessel_lied"
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = fascist
+		}
+	}
+}
+music = {
+	song = "i_am_australian"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = AST
 		}
 	}
 }
@@ -83,6 +275,125 @@ music = {
 			}
 			
 			
+		}
+	}
+}
+music = {
+	song = "invincible_eagle_march"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+music = {
+	song = "its_a_long_way_to_mukumbura"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = SAF
+			OR = {
+				has_government = national_conservative 
+				has_government = fascist 
+				has_government = nationalist
+			}
+			
+			
+		}
+	}
+}
+
+music = {
+	song = "stand_up_and_be_counted"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = USA 
+			has_government = fascist 
+			has_government = nationalist
+			
+			
+		}
+	}
+}
+music = {
+	song = "star_spangled_banner"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "stars_and_stripes_forever"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = USA
+				tag = NEA
+			}
+		}
+	}
+}
+music = {
+	song = "under_the_double_eagle"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+			has_government = monarchist
+		}
+	}
+}
+music = {
+	song = "under_the_balkan_stars"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = SOV
+			
+			
+		}
+	}
+}
+music = {
+	song = "we_are_russians_god_is_with_us"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = RUS
+			
+			
+		}
+	}
+}
+music = {
+	song = "we_need_only_victory"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}
+	}
+}
+music = {
+	song = "wide_is_my_motherland"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
 		}
 	}
 }
