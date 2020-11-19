@@ -1,5 +1,236 @@
 music_station = "rw_pop_music"
 music = {
+	song = "al_kapone"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			OR = {
+			    tag = YUG 
+				tag = SER
+			}
+			OR = {
+			    has_government = communist 
+				has_government = moderate_socialist
+				has_government = new_democrat
+				has_government = liberal
+				has_government = centrist 
+				has_government = national_conservative 
+				has_government = nationalist 
+				has_government = fascist 
+				has_government = monarchist 
+				has_government = national_bolshevik
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "annabelle"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "bilgewater"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+music = {
+	song = "bringin_home_the_rain"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+music = {
+	song = "compromise"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			tag = UKR
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "der_kommissar"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = LIN
+			
+			
+		}
+	}
+}
+music = {
+	song = "diggin_my_grave"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+music = {
+	song = "grass_from_home"
+	
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+			
+			
+		}
+	}
+}
+music = {
+	song = "gypsy"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+music = {
+	song = "hip_to_be_square"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = LIN
+			
+			
+		}
+	}
+}
+music = {
+	song = "i_want_a_new_drug"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = LIN
+			
+			
+		}
+	}
+}
+music = {
+	song = "if_it_hadnt_been_for_love"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+music = {
+	song = "mr_roboto"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = JAP
+			
+			
+		}
+	}
+}
+music = {
+	song = "old_devils"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+music = {
 	song = "paint_it_black"
 	chance = {
 		modifier = {
@@ -19,6 +250,29 @@ music = {
 				tag = ULS
 			}
 			has_war = yes
+		}
+	}
+}
+music = {
+	song = "parce_que_tu_crois"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = FRA
+			
+			
+		}
+	}
+}
+music = {
+	song = "rasputin"
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = europe }
+			has_war = no
 		}
 	}
 }
@@ -44,184 +298,6 @@ music = {
 			factor = 2
 
 			tag = LIN
-			
-			
-		}
-	}
-}
-music = {
-	song = "compromise"
-	
-	chance = {
-		modifier = {
-			factor = 2
-		OR = {
-			tag = SOV
-			tag = RUS
-			tag = UKR
-			}
-			
-			
-		}
-	}
-}
-music = {
-	song = "annabelle"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-				tag = MWA
-				tag = ILL
-				tag = MOT
-				tag = LIN
-				tag = ARI
-				tag = UTA
-				tag = TEX
-			}
-		}
-	}
-}
-music = {
-	song = "aint_i_right"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-			    tag = USA
-				tag = ILL 
-				tag = GRL 
-				tag = TEX 
-				tag = MOT
-				tag = LIN 
-				tag = UTA 
-				tag = ARI
-				tag = MWA
-				tag = ALA
-				tag = HAW 
-				tag = CAN
-				tag = AST 
-				tag = ENG
-				tag = IRE
-				tag = ULS 
-				tag = SAF 
-				tag = NZL
-			}
-			NOT = {
-			    OR = {
-				    has_government = communist
-					has_government = revolutionary_socialist
-					has_government = moderate_socialist
-					has_government = national_bolshevik
-				}
-			}
-		}
-	}
-}
-music = {
-	song = "bringin_home_the_rain"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-				tag = MWA
-				tag = ILL
-				tag = MOT
-				tag = LIN
-				tag = ARI
-				tag = UTA
-				tag = TEX
-			}
-		}
-	}
-}
-music = {
-	song = "diggin_my_grave"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-				tag = MWA
-				tag = ILL
-				tag = MOT
-				tag = LIN
-				tag = ARI
-				tag = UTA
-				tag = TEX
-			}
-		}
-	}
-}
-music = {
-	song = "old_devils"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-				tag = MWA
-				tag = ILL
-				tag = MOT
-				tag = LIN
-				tag = ARI
-				tag = UTA
-				tag = TEX
-			}
-		}
-	}
-}
-music = {
-	song = "rasputin"
-	chance = {
-		modifier = {
-			factor = 2
-			capital_scope = { is_on_continent = europe }
-			has_war = no
-		}
-	}
-}
-music = {
-	song = "i_wish_i_was_a_blue_job"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = SAF
-			OR = {
-				has_government = nationalist 
-				has_government = fascist 
-				has_government = national_conservative
-				has_government = centrist
-
-				
-
-			}
-			
-			
-		}
-	}
-}
-music = {
-	song = "i_want_a_new_drug"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = LIN
-			
-			
-		}
-	}
-}
-music = {
-	song = "mr_roboto"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = JAP
 			
 			
 		}

@@ -1,5 +1,41 @@
 music_station = "rw_nationalist_music"
 music = {
+	song = "aint_i_right"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = USA
+				tag = ILL 
+				tag = GRL 
+				tag = TEX 
+				tag = MOT
+				tag = LIN 
+				tag = UTA 
+				tag = ARI
+				tag = MWA
+				tag = ALA
+				tag = HAW 
+				tag = CAN
+				tag = AST 
+				tag = ENG
+				tag = IRE
+				tag = ULS 
+				tag = SAF 
+				tag = NZL
+			}
+			NOT = {
+			    OR = {
+				    has_government = communist
+					has_government = revolutionary_socialist
+					has_government = moderate_socialist
+					has_government = national_bolshevik
+				}
+			}
+		}
+	}
+}
+music = {
 	song = "aj_karmela"
 	chance = {
 		modifier = {
@@ -25,6 +61,28 @@ music = {
 			NOT = {
 			    has_government = communist
 			}
+		}
+	}
+}
+music = {
+	song = "i_wish_i_was_a_blue_job"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = SAF
+			OR = {
+				has_government = nationalist 
+				has_government = fascist 
+				has_government = national_conservative
+				has_government = centrist
+
+				
+
+			}
+			
+			
 		}
 	}
 }

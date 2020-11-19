@@ -229,25 +229,6 @@ music = {
 	}
 }
 
-
-music = {
-	song = "bilgewater"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-				tag = MWA
-				tag = ILL
-				tag = MOT
-				tag = LIN
-				tag = ARI
-				tag = UTA
-				tag = TEX
-			}
-		}
-	}
-}
-
 music = {
 	song = "bjorneborgarnasmarsch"
 	chance = {
@@ -835,24 +816,6 @@ music = {
 }
 
 music = {
-	song = "gypsy"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-				tag = MWA
-				tag = ILL
-				tag = MOT
-				tag = LIN
-				tag = ARI
-				tag = UTA
-				tag = TEX
-			}
-		}
-	}
-}
-
-music = {
 	song = "hail_grenada"
 	chance = {
 		modifier = {
@@ -1079,24 +1042,6 @@ music = {
 		modifier = {
 			factor = 2
 			tag = AST
-		}
-	}
-}
-
-music = {
-	song = "if_it_hadnt_been_for_love"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-				tag = MWA
-				tag = ILL
-				tag = MOT
-				tag = LIN
-				tag = ARI
-				tag = UTA
-				tag = TEX
-			}
 		}
 	}
 }
@@ -6726,20 +6671,6 @@ music = {
 }
 
 music = {
-	song = "parce_que_tu_crois"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = FRA
-			
-			
-		}
-	}
-}
-
-music = {
 	song = "a_l_appel_du_grand_lenine"
 	
 	chance = {
@@ -7080,20 +7011,6 @@ music = {
 }
 
 music = {
-	song = "der_kommissar"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			tag = LIN
-			
-			
-		}
-	}
-}
-
-music = {
 	song = "eddy_huntington_ussr"
 	
 	chance = {
@@ -7136,35 +7053,6 @@ music = {
 }
 
 music = {
-	song = "al_kapone"
-	
-	chance = {
-		modifier = {
-			factor = 2
-
-			OR = {
-			    tag = YUG 
-				tag = SER
-			}
-			OR = {
-			    has_government = communist 
-				has_government = moderate_socialist
-				has_government = new_democrat
-				has_government = liberal
-				has_government = centrist 
-				has_government = national_conservative 
-				has_government = nationalist 
-				has_government = fascist 
-				has_government = monarchist 
-				has_government = national_bolshevik
-			}
-			
-			
-		}
-	}
-}
-
-music = {
 	song = "baikal_amur_mainline"
 	
 	chance = {
@@ -7190,22 +7078,6 @@ music = {
 			tag = SOV
 			tag = RUS
 			tag = UKR
-			}
-			
-			
-		}
-	}
-}
-
-music = {
-	song = "grass_from_home"
-	
-	chance = {
-		modifier = {
-			factor = 2
-		OR = {
-			tag = SOV
-			tag = RUS
 			}
 			
 			
