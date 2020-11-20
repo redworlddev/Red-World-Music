@@ -4,22 +4,16 @@ spriteTypes = {
 		texturefile = "gfx//interface//topbar//musicplayer//rw_album_art.dds"
 		noOfFrames = 2
 	}
-}
-spriteTypes = {
 	spriteType = {
 		name = "GFX_rw_pop_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//rw_pop_album_art.dds"
 		noOfFrames = 2
 	}
-}
-spriteTypes = {
 	spriteType = {
 		name = "GFX_rw_communism_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//rw_communism_album_art.dds"
 		noOfFrames = 2
 	}
-}
-spriteTypes = {
 	spriteType = {
 		name = "GFX_rw_nationalist_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//rw_nationalist_album_art.dds"
