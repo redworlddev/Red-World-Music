@@ -857,11 +857,6 @@ music = {
 	file = "moscow_nights.ogg"
 	volume = 0.65
 }
-music = {
-	name = "mr_roboto"
-	file = "mr_roboto.ogg"
-	volume = 0.65
-}
 
 music = {
 	name = "mugito_heitai"
@@ -956,12 +951,6 @@ music = {
 music = {
 	name = "pa_vikingtog"
 	file = "pa_vikingtog.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "paint_it_black"
-	file = "paint_it_black.ogg"
 	volume = 0.65
 }
 
@@ -1446,26 +1435,8 @@ music = {
 }
 
 music = {
-	name = "annabelle"
-	file = "annabelle.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "bilgewater"
-	file = "bilgewater.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "blue_side_of_the_mountain"
 	file = "blue_side_of_the_mountain.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "bringin_home_the_rain"
-	file = "bringin_home_the_rain.ogg"
 	volume = 0.65
 }
 
@@ -1494,12 +1465,6 @@ music = {
 }
 
 music = {
-	name = "diggin_my_grave"
-	file = "diggin_my_grave.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "dont_forget_the_salvation_front"
 	file = "dont_forget_the_salvation_front.ogg"
 	volume = 0.65
@@ -1518,20 +1483,8 @@ music = {
 }
 
 music = {
-	name = "gypsy"
-	file = "gypsy.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "hathor"
 	file = "hathor.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "if_it_hadnt_been_for_love"
-	file = "if_it_hadnt_been_for_love.ogg"
 	volume = 0.65
 }
 
@@ -1544,18 +1497,6 @@ music = {
 music = {
 	name = "marching_through_georgia"
 	file = "marching_through_georgia.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "old_devils"
-	file = "old_devils.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "rasputin"
-	file = "rasputin.ogg"
 	volume = 0.65
 }
 
@@ -2852,12 +2793,6 @@ music = {
 }
 
 music = {
-	name = "parce_que_tu_crois"
-	file = "parce_que_tu_crois.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "a_l_appel_du_grand_lenine"
 	file = "a_l_appel_du_grand_lenine.ogg"
 	volume = 0.65
@@ -2948,26 +2883,8 @@ music = {
 }
 
 music = {
-	name = "hip_to_be_square"
-	file = "hip_to_be_square.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "blue_monday"
 	file = "blue_monday.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "der_kommissar"
-	file = "der_kommissar.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "i_want_a_new_drug"
-	file = "i_want_a_new_drug.ogg"
 	volume = 0.65
 }
 
@@ -2990,24 +2907,6 @@ music = {
 }
 
 music = {
-	name = "should_i_stay_or_should_i_go"
-	file = "should_i_stay_or_should_i_go.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "the_final_countdown"
-	file = "the_final_countdown.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "al_kapone"
-	file = "al_kapone.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "baikal_amur_mainline"
 	file = "baikal_amur_mainline.ogg"
 	volume = 0.65
@@ -3022,12 +2921,6 @@ music = {
 music = {
 	name = "katioucha_fr"
 	file = "katioucha_fr.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "compromise"
-	file = "compromise.ogg"
 	volume = 0.65
 }
 
@@ -3053,12 +2946,6 @@ music = {
 	name = "red_skies"
 	file = "red_skies.ogg"
 	volume = 0.85
-}
-
-music = {
-	name = "grass_from_home"
-	file = "grass_from_home.ogg"
-	volume = 0.65
 }
 
 music = {
