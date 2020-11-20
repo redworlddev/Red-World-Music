@@ -359,10 +359,10 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-			OR = {
-			    tag = SOV
-				tag = RUS
-			}
+
+			tag = SOV
+			
+			
 		}
 	}
 }
@@ -372,10 +372,10 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-			OR = {
-			    tag = SOV
-				tag = RUS
-			}
+
+			tag = RUS
+			
+			
 		}
 	}
 }
@@ -384,10 +384,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-			OR = {
-			    tag = SOV
-				tag = RUS
-			}
+			tag = SOV
 		}
 	}
 }
@@ -396,10 +393,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-			OR = {
-			    tag = SOV
-				tag = RUS
-			}
+			tag = SOV
 		}
 	}
 }
