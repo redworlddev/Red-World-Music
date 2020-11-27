@@ -36,7 +36,7 @@ music = {
 }
 
 music = {
-	song = "american_communist_party"
+	song = "soviet_anthem_english"
 	chance = {
 		modifier = {
 			factor = 2

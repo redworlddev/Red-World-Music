@@ -85,8 +85,8 @@ music = {
 }
 
 music = {
-	name = "american_communist_party"
-	file = "american_communist_party.ogg"
+	name = "soviet_anthem_english"
+	file = "soviet_anthem_english.ogg"
 	volume = 0.65
 }
 
@@ -1717,8 +1717,8 @@ music = {
 }
 
 music = {
-	name = "afrikaans_internationale"
-	file = "afrikaans_internationale.ogg"
+	name = "internationale_afrikaans"
+	file = "internationale_afrikaans.ogg"
 	volume = 0.65
 }
 
@@ -2823,8 +2823,8 @@ music = {
 }
 
 music = {
-	name = "a_bas_l_etat_policie"
-	file = "a_bas_l_etat_policie.ogg"
+	name = "a_bas_l_etat_policier"
+	file = "a_bas_l_etat_policier.ogg"
 	volume = 0.65
 }
 

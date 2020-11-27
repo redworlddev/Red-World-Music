@@ -3109,7 +3109,7 @@ music = {
 }
 
 music = {
-	song = "afrikaans_internationale"
+	song = "internationale_afrikaans"
 	chance = {
 		modifier = {
 			factor = 2
