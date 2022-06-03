@@ -4336,11 +4336,9 @@ music = {
 
 music = {
 	song = "avante_camarada"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = POR 
 				tag = BRA
@@ -4349,234 +4347,162 @@ music = {
 				has_government = communist 
                 has_government = revolutionary_socialist
 				has_government = national_bolshevik
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "rio_grande_do_sul_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BRA
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "hino_da_independencia"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = BRA
 			OR = {
 				has_government = monarchist 
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "la_marseillaise_de_la_commune"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FRA
 			OR = {
 				has_government = communist 
 				has_government = revolutionary_socialist
 				has_government = moderate_socialist
 				has_government = national_bolshevik
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "solemn_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			has_government = monarchist
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "die_kaplyn"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 				has_government = national_conservative 
 				has_government = fascist 
 				has_government = nationalist
 				has_government = centrist 
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "de_la_rey"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 				has_government = national_conservative 
 				has_government = fascist 
 				has_government = nationalist
-				has_government = centrist 
-
-				
-
+				has_government = centrist
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "afrikanerhart"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 				has_government = national_conservative 
 				has_government = fascist 
 				has_government = nationalist
 				has_government = centrist 
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "zx_dan"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "hail"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "royal_anthem_of_france"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FRA
 			OR = {
-				has_government = monarchist 
-
-				
-
+				has_government = monarchist
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "preussens_gloria"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GER
 			OR = {
 				has_government = fascist 
 				has_government = nationalist 
 				has_government = national_bolshevik
 				has_government = monarchist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "sen_katarzyny_II"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
 			OR = {
 				has_government = fascist 
@@ -4587,44 +4513,30 @@ music = {
 				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "jalta"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = POL
 			OR = {
 				has_government = new_democrat 
 				has_government = moderate_socialist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "the_commonwealth_of_toil"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = NEA
 				tag = GRL
@@ -4649,19 +4561,15 @@ music = {
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "joe_hill"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = NEA
 				tag = GRL
@@ -4686,19 +4594,15 @@ music = {
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "njet_molotoff"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FIN
 			OR = {
 				has_government = fascist 
@@ -4709,23 +4613,16 @@ music = {
 				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "sakkijarven_polkka"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FIN
 			OR = {
 				has_government = fascist 
@@ -4736,23 +4633,16 @@ music = {
 				has_government = liberal
 				has_government = new_democrat 
 				has_government = moderate_socialist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "god_bless_the_usa"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = NEA 
 				tag = PCA 
@@ -4765,77 +4655,55 @@ music = {
 				has_government = national_conservative
 				has_government = centrist 
 				has_government = liberal
-				has_government = new_democrat 
-
-				
-
+				has_government = new_democrat
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "the_battle_is_going_again"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			has_government = communist
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "mecidiye_marsi"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = TUR
 			OR = {
 				has_government = monarchist
 				has_government = nationalist
 				has_government = fascist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "hava_nagila"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = KIS 
 				tag = PAL
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "where_have_all_the_flowers_gone"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = NEA
 				tag = GRL
@@ -4860,19 +4728,15 @@ music = {
 				has_government = revolutionary_socialist
 				has_government = national_bolshevik
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "lore_lore"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = GER 
 				tag = AUS
@@ -4880,58 +4744,40 @@ music = {
 			OR = {
 				has_government = fascist
 				has_government = nationalist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "greek_junta_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = GRE
 			OR = {
 				has_government = fascist
 				has_government = nationalist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "skipper_klements_morgensang"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = DEN
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "and_am_i_born_to_die"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = MOT 
 				tag = LIN 
@@ -4951,79 +4797,57 @@ music = {
 				has_government = moderate_socialist
 				has_government = revolutionary_socialist
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "saleel_sawarim"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = ISL 
 				tag = EGY
 			}
 			OR = {
 				has_government = fascist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "das_sudwesterlied"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 				has_government = nationalist 
 				has_government = fascist 
 				has_government = national_conservative
 				has_government = centrist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "stalin_our_father"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			has_government = communist
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "indomitable_spirit"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = CHI 
 				tag = PRC
@@ -5037,126 +4861,88 @@ music = {
 				has_government = new_democrat 
 				has_government = moderate_socialist
 				has_government = national_bolshevik
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "march_in_step"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
 			OR = {
 				has_government = communist 
 				has_government = national_bolshevik
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "one_against_a_hundred"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
 			OR = {
 				has_government = communist 
 				has_government = national_bolshevik
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "we_will_fly_our_red_flag_forever"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
 			OR = {
 				has_government = communist 
 				has_government = national_bolshevik
 				has_government = revolutionary_socialist
 				has_government = moderate_socialist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "north_korean_army_march"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = PRK
 			OR = {
 				has_government = communist 
 				has_government = national_bolshevik
-
-				
-
 			}
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "anthem_of_the_soviet_cosmonaut_program"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SOV
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "when_johnny_comes_marching_home"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
-			tag = USA
-			
-			
+			OR = {
+			    tag = USA
+				tag = NEA
+			}
 		}
 	}
 }
