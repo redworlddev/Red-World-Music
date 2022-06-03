@@ -137,3 +137,40 @@ music = {
 		}
 	}
 }
+music = {
+	song = "under_the_balkan_stars"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				tag = RUS
+			}
+		}
+	}
+}
+music = {
+	song = "we_need_only_victory"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				tag = RUS
+			}
+		}
+	}
+}
+music = {
+	song = "wide_is_my_motherland"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				tag = RUS
+			}
+		}
+	}
+}

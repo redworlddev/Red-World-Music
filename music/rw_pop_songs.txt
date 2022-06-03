@@ -1,11 +1,9 @@
 music_station = "rw_pop_music"
 music = {
 	song = "al_kapone"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = YUG 
 				tag = SER
@@ -22,8 +20,6 @@ music = {
 				has_government = monarchist 
 				has_government = national_bolshevik
 			}
-			
-			
 		}
 	}
 }
@@ -81,7 +77,6 @@ music = {
 }
 music = {
 	song = "compromise"
-	
 	chance = {
 		modifier = {
 			factor = 2
@@ -90,21 +85,15 @@ music = {
 			tag = RUS
 			tag = UKR
 			}
-			
-			
 		}
 	}
 }
 music = {
 	song = "der_kommissar"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = LIN
-			
-			
 		}
 	}
 }
@@ -159,14 +148,10 @@ music = {
 }
 music = {
 	song = "hip_to_be_square"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = LIN
-			
-			
 		}
 	}
 }
@@ -176,10 +161,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = LIN
-			
-			
 		}
 	}
 }
@@ -206,10 +188,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = JAP
-			
-			
 		}
 	}
 }
@@ -255,14 +234,10 @@ music = {
 }
 music = {
 	song = "parce_que_tu_crois"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = FRA
-			
-			
 		}
 	}
 }
@@ -278,28 +253,29 @@ music = {
 }
 music = {
 	song = "should_i_stay_or_should_i_go"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = LIN
-			
-			
 		}
 	}
 }
 
 music = {
 	song = "the_final_countdown"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = LIN
-			
-			
+		}
+	}
+}
+music = {
+	song = "cranes_japanese"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
 		}
 	}
 }

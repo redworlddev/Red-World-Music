@@ -113,21 +113,11 @@ music = {
 	}
 }
 music = {
-	song = "cranes_japanese"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = JAP
-		}
-	}
-}
-music = {
 	song = "deus_patria_rei"
 	
 	chance = {
 		modifier = {
 			factor = 2
-
 			OR = {
 			    tag = POR 
 				tag = BRA
@@ -135,8 +125,6 @@ music = {
 			OR = {
 				has_government = monarchist
 			}
-			
-			
 		}
 	}
 }
@@ -180,8 +168,6 @@ music = {
 		        has_government = moderate_socialist
 				has_government = new_democrat
 			}
-			
-			
 		}
 	}
 }
@@ -196,35 +182,27 @@ music = {
 			    tag = SOV 
 				tag = RUS
 			}
-			
-			
 		}
 	}
 }
 music = {
 	song = "erika_afrikaans"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 				has_government = fascist 
 				has_government = nationalist
 			}
-			
-			
 		}
 	}
 }
 music = {
 	song = "eternal_glory_to_the_allied_veterans_of_the_pacific_theatre"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = CHI
 			OR = {
 				has_government = fascist 
@@ -258,23 +236,16 @@ music = {
 }
 music = {
 	song = "i_wish_i_was_a_blue_job"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 				has_government = nationalist 
 				has_government = fascist 
 				has_government = national_conservative
 				has_government = centrist
-
-				
-
 			}
-			
-			
 		}
 	}
 }
@@ -308,16 +279,12 @@ music = {
 
 music = {
 	song = "stand_up_and_be_counted"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = USA 
 			has_government = fascist 
 			has_government = nationalist
-			
-			
 		}
 	}
 }
@@ -354,45 +321,8 @@ music = {
 	}
 }
 music = {
-	song = "under_the_balkan_stars"
-	
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-			    tag = SOV
-				tag = RUS
-			}
-		}
-	}
-}
-music = {
 	song = "we_are_russians_god_is_with_us"
 	
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-			    tag = SOV
-				tag = RUS
-			}
-		}
-	}
-}
-music = {
-	song = "we_need_only_victory"
-	chance = {
-		modifier = {
-			factor = 2
-			OR = {
-			    tag = SOV
-				tag = RUS
-			}
-		}
-	}
-}
-music = {
-	song = "wide_is_my_motherland"
 	chance = {
 		modifier = {
 			factor = 2
