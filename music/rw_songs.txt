@@ -3041,15 +3041,15 @@ music = {
 	}
 }
 
-music = {
-	song = "song_of_the_guerrillas"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = PRC
-		}
-	}
-}
+#music = {
+#	song = "song_of_the_guerrillas"
+#	chance = {
+#		modifier = {
+#			factor = 2
+#			tag = PRC
+#		}
+#	}
+#}
 
 music = {
 	song = "himno_de_los_tercios"
