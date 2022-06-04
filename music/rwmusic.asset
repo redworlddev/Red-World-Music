@@ -271,8 +271,8 @@ music = {
 }
 
 music = {
-	name = "densvenskeflygsoldaten"
-	file = "densvenskeflygsoldaten.ogg"
+	name = "den_svenske_flygsoldaten"
+	file = "den_svenske_flygsoldaten.ogg"
 	volume = 0.65
 }
 
@@ -283,8 +283,8 @@ music = {
 }
 
 music = {
-	name = "deutschalnd_uber_alles"
-	file = "deutschalnd_uber_alles.ogg"
+	name = "deutschland_uber_alles"
+	file = "deutschland_uber_alles.ogg"
 	volume = 0.65
 }
 
@@ -553,8 +553,8 @@ music = {
 }
 
 music = {
-	name = "hymne_der_sowjetunion"
-	file = "hymne_der_sowjetunion.ogg"
+	name = "soviet_anthem_german"
+	file = "soviet_anthem_german.ogg"
 	volume = 0.65
 }
 

@@ -385,7 +385,7 @@ music = {
 }
 
 music = {
-	song = "densvenskeflygsoldaten"
+	song = "den_svenske_flygsoldaten"
 	chance = {
 		modifier = {
 			factor = 2
@@ -405,7 +405,7 @@ music = {
 }
 
 music = {
-	song = "deutschalnd_uber_alles"
+	song = "deutschland_uber_alles"
 	chance = {
 		modifier = {
 			factor = 2
@@ -913,7 +913,7 @@ music = {
 }
 
 music = {
-	song = "hymne_der_sowjetunion"
+	song = "soviet_anthem_german"
 	chance = {
 		modifier = {
 			factor = 2
