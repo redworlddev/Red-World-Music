@@ -67,6 +67,12 @@ music = {
 }
 
 music = {
+	name = "al_kapone"
+	file = "al_kapone.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "allahu_akbar"
 	file = "allahu_akbar.ogg"
 	volume = 0.65
@@ -79,14 +85,20 @@ music = {
 }
 
 music = {
+	name = "america_dont_mess_around"
+	file = "america_dont_mess_around.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "america_the_beautiful"
 	file = "america_the_beautiful.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "soviet_anthem_english"
-	file = "soviet_anthem_english.ogg"
+	name = "annabelle"
+	file = "annabelle.ogg"
 	volume = 0.65
 }
 
@@ -163,6 +175,12 @@ music = {
 }
 
 music = {
+	name = "bilgewater"
+	file = "bilgewater.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "bjorneborgarnasmarsch"
 	file = "bjorneborgarnasmarsch.ogg"
 	volume = 0.65
@@ -225,6 +243,12 @@ music = {
 music = {
 	name = "columbia_gem_of_the_ocean"
 	file = "columbia_gem_of_the_ocean.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "compromise"
+	file = "compromise.ogg"
 	volume = 0.65
 }
 
@@ -549,12 +573,6 @@ music = {
 music = {
 	name = "hussars_march"
 	file = "hussars_march.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "soviet_anthem_german"
-	file = "soviet_anthem_german.ogg"
 	volume = 0.65
 }
 
@@ -1003,6 +1021,12 @@ music = {
 }
 
 music = {
+	name = "rasputin"
+	file = "rasputin.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "red_army_is_the_strongest"
 	file = "red_army_is_the_strongest.ogg"
 	volume = 0.65
@@ -1141,6 +1165,18 @@ music = {
 }
 
 music = {
+	name = "soviet_anthem_english"
+	file = "soviet_anthem_english.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "soviet_anthem_german"
+	file = "soviet_anthem_german.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "ss_marschiert_infeindesland_estonian"
 	file = "ss_marschiert_infeindesland_estonian.ogg"
 	volume = 0.65
@@ -1245,6 +1281,12 @@ music = {
 music = {
 	name = "the_blue_cloth"
 	file = "the_blue_cloth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "the_final_countdown"
+	file = "the_final_countdown.ogg"
 	volume = 0.65
 }
 
@@ -2931,12 +2973,6 @@ music = {
 }
 
 music = {
-	name = "america_dont_mess_around"
-	file = "america_dont_mess_around.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "noi_iubim_partidul"
 	file = "noi_iubim_partidul.ogg"
 	volume = 0.65
@@ -2961,36 +2997,17 @@ music = {
 }
 
 music = {
+	name = "bringin_home_the_rain"
+	file = "bringin_home_the_rain.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "cranes"
 	file = "cranes.ogg"
 	volume = 0.85
 }
 
-music = {
-	name = "al_kapone"
-	file = "al_kapone.ogg"
-	volume = 0.65
-}
-music = {
-	name = "annabelle"
-	file = "annabelle.ogg"
-	volume = 0.65
-}
-music = {
-	name = "bilgewater"
-	file = "bilgewater.ogg"
-	volume = 0.65
-}
-music = {
-	name = "bringin_home_the_rain"
-	file = "bringin_home_the_rain.ogg"
-	volume = 0.65
-}
-music = {
-	name = "compromise"
-	file = "compromise.ogg"
-	volume = 0.65
-}
 music = {
 	name = "der_kommissar"
 	file = "der_kommissar.ogg"
@@ -3046,19 +3063,9 @@ music = {
 	file = "parce_que_tu_crois.ogg"
 	volume = 0.65
 }
-music = {
-	name = "rasputin"
-	file = "rasputin.ogg"
-	volume = 0.65
-}
+
 music = {
 	name = "should_i_stay_or_should_i_go"
 	file = "should_i_stay_or_should_i_go.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "the_final_countdown"
-	file = "the_final_countdown.ogg"
 	volume = 0.65
 }
