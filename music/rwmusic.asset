@@ -913,8 +913,8 @@ music = {
 }
 
 music = {
-	name = "narsolenlyserklart"
-	file = "narsolenlyserklart.ogg"
+	name = "nar_solen_lyser_klart"
+	file = "nar_solen_lyser_klart.ogg"
 	volume = 0.65
 }
 

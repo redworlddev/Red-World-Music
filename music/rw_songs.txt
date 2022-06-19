@@ -1528,7 +1528,7 @@ music = {
 }
 
 music = {
-	song = "narsolenlyserklart"
+	song = "nar_solen_lyser_klart"
 	chance = {
 		modifier = {
 			factor = 2
