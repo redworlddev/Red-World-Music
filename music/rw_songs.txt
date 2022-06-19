@@ -1381,7 +1381,7 @@ music = {
 }
 
 music = {
-	song = "marciacarolusrex"
+	song = "marcia_carolus_rex"
 	chance = {
 		modifier = {
 			factor = 2

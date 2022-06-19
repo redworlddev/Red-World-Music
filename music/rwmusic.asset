@@ -841,8 +841,8 @@ music = {
 }
 
 music = {
-	name = "marciacarolusrex"
-	file = "marciacarolusrex.ogg"
+	name = "marcia_carolus_rex"
+	file = "marcia_carolus_rex.ogg"
 	volume = 0.65
 }
 
