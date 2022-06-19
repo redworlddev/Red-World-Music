@@ -151,6 +151,12 @@ music = {
 }
 
 music = {
+	name = "bandiera_rossa"
+	file = "bandiera_rossa.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "becsi_munkasindulo"
 	file = "becsi_munkasindulo.ogg"
 	volume = 0.65
@@ -301,6 +307,12 @@ music = {
 }
 
 music = {
+	name = "der_kommissar"
+	file = "der_kommissar.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "der_offene_aufmarsch"
 	file = "der_offene_aufmarsch.ogg"
 	volume = 0.65
@@ -315,6 +327,12 @@ music = {
 music = {
 	name = "die_wacht_am_rhein"
 	file = "die_wacht_am_rhein.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "diggin_my_grave"
+	file = "diggin_my_grave.ogg"
 	volume = 0.65
 }
 
@@ -655,14 +673,14 @@ music = {
 }
 
 music = {
-	name = "japanese_katyusha"
-	file = "japanese_katyusha.ogg"
+	name = "katyusha_japanese"
+	file = "katyusha_japanese.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "japanese_warszawianka"
-	file = "japanese_warszawianka.ogg"
+	name = "warszawianka_japanese"
+	file = "warszawianka_japanese.ogg"
 	volume = 0.65
 }
 
@@ -939,6 +957,12 @@ music = {
 music = {
 	name = "ode_to_newfoundland"
 	file = "ode_to_newfoundland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "old_devils"
+	file = "old_devils.ogg"
 	volume = 0.65
 }
 
@@ -2745,12 +2769,6 @@ music = {
 }
 
 music = {
-	name = "bandiera_rossa"
-	file = "bandiera_rossa.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "how_beautiful_is_cuba"
 	file = "how_beautiful_is_cuba.ogg"
 	volume = 0.65
@@ -3009,16 +3027,6 @@ music = {
 }
 
 music = {
-	name = "der_kommissar"
-	file = "der_kommissar.ogg"
-	volume = 0.65
-}
-music = {
-	name = "diggin_my_grave"
-	file = "diggin_my_grave.ogg"
-	volume = 0.65
-}
-music = {
 	name = "grass_from_home"
 	file = "grass_from_home.ogg"
 	volume = 0.65
@@ -3048,11 +3056,7 @@ music = {
 	file = "mr_roboto.ogg"
 	volume = 0.65
 }
-music = {
-	name = "old_devils"
-	file = "old_devils.ogg"
-	volume = 0.65
-}
+
 music = {
 	name = "paint_it_black"
 	file = "paint_it_black.ogg"

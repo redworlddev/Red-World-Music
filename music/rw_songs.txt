@@ -1045,7 +1045,7 @@ music = {
 }
 
 music = {
-	song = "japanese_katyusha"
+	song = "katyusha_japanese"
 	chance = {
 		modifier = {
 			factor = 2
@@ -1061,7 +1061,7 @@ music = {
 }
 
 music = {
-	song = "japanese_warszawianka"
+	song = "warszawianka_japanese"
 	chance = {
 		modifier = {
 			factor = 2
