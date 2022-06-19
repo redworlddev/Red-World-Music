@@ -184,7 +184,7 @@ music = {
 }
 
 music = {
-	song = "bjorneborgarnasmarsch"
+	song = "bjorne_borgarnas_marsch"
 	chance = {
 		modifier = {
 			factor = 2
@@ -783,7 +783,7 @@ music = {
 }
 
 music = {
-	song = "hemvarnetsmarsch"
+	song = "hem_varnets_marsch"
 	chance = {
 		modifier = {
 			factor = 2
@@ -1185,7 +1185,7 @@ music = {
 }
 
 music = {
-	song = "kustartillerietsdefileringsmarsch"
+	song = "kust_artilleriets_defilerings_marsch"
 	chance = {
 		modifier = {
 			factor = 2
@@ -2062,7 +2062,7 @@ music = {
 }
 
 music = {
-	song = "svealivgardesdefileringsmarsch"
+	song = "svea_livgardes_defilerings_marsch"
 	chance = {
 		modifier = {
 			factor = 2
@@ -2072,7 +2072,7 @@ music = {
 }
 
 music = {
-	song = "swedish_national_anthem"
+	song = "du_gamla_du_fria"
 	chance = {
 		modifier = {
 			factor = 2
@@ -2457,7 +2457,7 @@ music = {
 }
 
 music = {
-	song = "vastkustensmarinkommandosmarsch"
+	song = "vast_kustens_marin_kommandos_marsch"
 	chance = {
 		modifier = {
 			factor = 2

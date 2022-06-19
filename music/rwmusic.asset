@@ -187,8 +187,8 @@ music = {
 }
 
 music = {
-	name = "bjorneborgarnasmarsch"
-	file = "bjorneborgarnasmarsch.ogg"
+	name = "bjorne_borgarnas_marsch"
+	file = "bjorne_borgarnas_marsch.ogg"
 	volume = 0.65
 }
 
@@ -511,8 +511,8 @@ music = {
 }
 
 music = {
-	name = "hemvarnetsmarsch"
-	file = "hemvarnetsmarsch.ogg"
+	name = "hem_varnets_marsch"
+	file = "hem_varnets_marsch.ogg"
 	volume = 0.65
 }
 
@@ -751,8 +751,8 @@ music = {
 }
 
 music = {
-	name = "kustartillerietsdefileringsmarsch"
-	file = "kustartillerietsdefileringsmarsch.ogg"
+	name = "kust_artilleriets_defilerings_marsch"
+	file = "kust_artilleriets_defilerings_marsch.ogg"
 	volume = 0.65
 }
 
@@ -1231,14 +1231,14 @@ music = {
 }
 
 music = {
-	name = "svealivgardesdefileringsmarsch"
-	file = "svealivgardesdefileringsmarsch.ogg"
+	name = "svea_livgardes_defilerings_marsch"
+	file = "svea_livgardes_defilerings_marsch.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "swedish_national_anthem"
-	file = "swedish_national_anthem.ogg"
+	name = "du_gamla_du_fria"
+	file = "du_gamla_du_fria.ogg"
 	volume = 0.65
 }
 
