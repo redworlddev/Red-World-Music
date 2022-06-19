@@ -1,8 +1,7 @@
 # Red-World-Music
-
 In memory of Kaiser1871
 
-The music mod for Red World
+The music mod for Red World.
 
 To use:
 
