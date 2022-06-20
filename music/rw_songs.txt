@@ -60,7 +60,7 @@ music = {
 }
 
 music = {
-	song = "akatsukiniInoru"
+	song = "akatsukini_inoru"
 	chance = {
 		modifier = {
 			factor = 2
@@ -2407,7 +2407,7 @@ music = {
 }
 
 music = {
-	song = "underblagulfana"
+	song = "under_blagul_fana"
 	chance = {
 		modifier = {
 			factor = 2
@@ -2417,7 +2417,7 @@ music = {
 }
 
 music = {
-	song = "undersveabaner"
+	song = "under_svea_baner"
 	chance = {
 		modifier = {
 			factor = 2
@@ -2467,7 +2467,7 @@ music = {
 }
 
 music = {
-	song = "viddagensslut"
+	song = "vid_dagens_slut"
 	chance = {
 		modifier = {
 			factor = 2
@@ -2507,6 +2507,14 @@ music = {
 				has_government = national_bolshevik
 			}
 		}
+	}
+}
+
+music = {
+	song = "dap_prampi_mesa_chokchey"
+	modifier = {
+		factor = 0
+		tag = SOV
 	}
 }
 
@@ -4155,7 +4163,7 @@ music = {
 }
 
 music = {
-	song = "bragg_which_side_are_you_on"
+	song = "which_side_are_you_on_bragg"
 	chance = {
 		modifier = {
 			factor = 2

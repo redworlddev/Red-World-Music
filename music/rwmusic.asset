@@ -1,6 +1,49 @@
 #### Red World ####
 
 music = {
+	name = "2049"
+	file = "2049.ogg"
+	volume = 0.65
+}
+
+#music = {
+#	name = "99_luftballons"
+#	file = "99_luftballons.ogg"
+#	volume = 0.65
+#}
+
+
+music = {
+	name = "a_bas_l_etat_policier"
+	file = "a_bas_l_etat_policier.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "a_cradle_on_the_barricade"
+	file = "a_cradle_on_the_barricade.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "a_l_appel_du_grand_lenine"
+	file = "a_l_appel_du_grand_lenine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "a_sprengisandi_at_sprengisandur"
+	file = "a_sprengisandi_at_sprengisandur.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "accept_the_best_wishes_of_the_people"
+	file = "accept_the_best_wishes_of_the_people.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "advance_australia_fair"
 	file = "advance_australia_fair.ogg"
 	volume = 0.65
@@ -25,6 +68,12 @@ music = {
 }
 
 music = {
+	name = "afrikanerhart"
+	file = "afrikanerhart.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "against_the_cold_morning"
 	file = "against_the_cold_morning.ogg"
 	volume = 0.65
@@ -43,14 +92,32 @@ music = {
 }
 
 music = {
+	name = "aint_i_right"
+	file = "aint_i_right.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "aj_karmela"
 	file = "aj_karmela.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "akatsukiniInoru"
-	file = "akatsukiniInoru.ogg"
+	name = "akatsukini_inoru"
+	file = "akatsukini_inoru.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "al_kapone"
+	file = "al_kapone.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "alas_rojas"
+	file = "alas_rojas.ogg"
 	volume = 0.65
 }
 
@@ -67,12 +134,6 @@ music = {
 }
 
 music = {
-	name = "al_kapone"
-	file = "al_kapone.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "allahu_akbar"
 	file = "allahu_akbar.ogg"
 	volume = 0.65
@@ -81,6 +142,18 @@ music = {
 music = {
 	name = "alle_waffen_gegen_hitler"
 	file = "alle_waffen_gegen_hitler.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "amazing_grace"
+	file = "amazing_grace.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ambitions_to_the_sky"
+	file = "ambitions_to_the_sky.ogg"
 	volume = 0.65
 }
 
@@ -97,14 +170,56 @@ music = {
 }
 
 music = {
+	name = "and_am_i_born_to_die"
+	file = "and_am_i_born_to_die.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "annabelle"
 	file = "annabelle.ogg"
 	volume = 0.65
 }
 
 music = {
+	name = "anthem_of_the_mongolian_pioneers"
+	file = "anthem_of_the_mongolian_pioneers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "anthem_of_the_soviet_cosmonaut_program"
+	file = "anthem_of_the_soviet_cosmonaut_program.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "anthem_of_whampoa_military_academy"
+	file = "anthem_of_whampoa_military_academy.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "arawashi_no_uta"
 	file = "arawashi_no_uta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "armed_forces_medley"
+	file = "armed_forces_medley.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "army_marches_on"
+	file = "army_marches_on.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "au_31_du_mois_d_aout"
+	file = "au_31_du_mois_d_aout.ogg"
 	volume = 0.65
 }
 
@@ -441,12 +556,6 @@ music = {
 music = {
 	name = "gouchin"
 	file = "gouchin.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "army_marches_on"
-	file = "army_marches_on.ogg"
 	volume = 0.65
 }
 
@@ -1333,12 +1442,6 @@ music = {
 }
 
 music = {
-	name = "the_peronist_march"
-	file = "the_peronist_march.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "the_sacred_war"
 	file = "the_sacred_war.ogg"
 	volume = 0.65
@@ -1387,14 +1490,14 @@ music = {
 }
 
 music = {
-	name = "underblagulfana"
-	file = "underblagulfana.ogg"
+	name = "under_blagul_fana"
+	file = "under_blagul_fana.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "undersveabaner"
-	file = "undersveabaner.ogg"
+	name = "under_svea_baner"
+	file = "under_svea_baner.ogg"
 	volume = 0.65
 }
 
@@ -1417,14 +1520,14 @@ music = {
 }
 
 music = {
-	name = "vastkustensmarinkommandosmarsch"
-	file = "vastkustensmarinkommandosmarsch.ogg"
+	name = "vast_kustens_marin_kommandos_marsch"
+	file = "vast_kustens_marin_kommandos_marsch.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "viddagensslut"
-	file = "viddagensslut.ogg"
+	name = "vid_dagens_slut"
+	file = "vid_dagens_slut.ogg"
 	volume = 0.65
 }
 
@@ -1519,8 +1622,8 @@ music = {
 }
 
 music = {
-	name = "dap_prampi_mesa chokchey"
-	file = "dap_prampi_mesa chokchey.ogg"
+	name = "dap_prampi_mesa_chokchey"
+	file = "dap_prampi_mesa_chokchey.ogg"
 	volume = 0.65
 }
 
@@ -1591,38 +1694,8 @@ music = {
 }
 
 music = {
-	name = "anthem_of_whampoa_military_academy"
-	file = "anthem_of_whampoa_military_academy.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "soldat"
 	file = "soldat.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "2049"
-	file = "2049.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "aint_i_right"
-	file = "aint_i_right.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "alas_rojas"
-	file = "alas_rojas.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "amazing_grace"
-	file = "amazing_grace.ogg"
 	volume = 0.65
 }
 
@@ -1950,18 +2023,6 @@ music = {
 	volume = 0.65
 }
 
-#music = {
-#	name = "99_luftballons"
-#	file = "99_luftballons.ogg"
-#	volume = 0.65
-#}
-
-music = {
-	name = "a_cradle_on_the_barricade"
-	file = "a_cradle_on_the_barricade.ogg"
-	volume = 0.65
-}
-
 music = {
 	name = "leader_just_give_us_your_order"
 	file = "leader_just_give_us_your_order.ogg"
@@ -2059,12 +2120,6 @@ music = {
 }
 
 music = {
-	name = "armed_forces_medley"
-	file = "armed_forces_medley.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "uz_marsala_tita"
 	file = "uz_marsala_tita.ogg"
 	volume = 0.65
@@ -2119,12 +2174,6 @@ music = {
 }
 
 music = {
-	name = "anthem_of_the_mongolian_pioneers"
-	file = "anthem_of_the_mongolian_pioneers.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "under_the_balkan_stars"
 	file = "under_the_balkan_stars.ogg"
 	volume = 0.65
@@ -2159,12 +2208,6 @@ music = {
 music = {
 	name = "the_beiyang_fleet"
 	file = "the_beiyang_fleet.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "ambitions_to_the_sky"
-	file = "ambitions_to_the_sky.ogg"
 	volume = 0.65
 }
 
@@ -2253,12 +2296,6 @@ music = {
 }
 
 music = {
-	name = "au_31_du_mois_d_aout"
-	file = "au_31_du_mois_d_aout.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "the_connaught_rangers"
 	file = "the_connaught_rangers.ogg"
 	volume = 0.65
@@ -2277,8 +2314,8 @@ music = {
 }
 
 music = {
-	name = "bragg_which_side_are_you_on"
-	file = "bragg_which_side_are_you_on.ogg"
+	name = "which_side_are_you_on_bragg"
+	file = "which_side_are_you_on_bragg.ogg"
 	volume = 0.65
 }
 
@@ -2409,12 +2446,6 @@ music = {
 }
 
 music = {
-	name = "afrikanerhart"
-	file = "afrikanerhart.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "zx_dan"
 	file = "zx_dan.ogg"
 	volume = 0.65
@@ -2523,12 +2554,6 @@ music = {
 }
 
 music = {
-	name = "and_am_i_born_to_die"
-	file = "and_am_i_born_to_die.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "saleel_sawarim"
 	file = "saleel_sawarim.ogg"
 	volume = 0.65
@@ -2579,12 +2604,6 @@ music = {
 music = {
 	name = "north_korean_army_march"
 	file = "north_korean_army_march.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "anthem_of_the_soviet_cosmonaut_program"
-	file = "anthem_of_the_soviet_cosmonaut_program.ogg"
 	volume = 0.65
 }
 
@@ -2679,12 +2698,6 @@ music = {
 }
 
 music = {
-	name = "accept_the_best_wishes_of_the_people"
-	file = "accept_the_best_wishes_of_the_people.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "where_are_you_dear_general"
 	file = "where_are_you_dear_general.ogg"
 	volume = 0.65
@@ -2747,12 +2760,6 @@ music = {
 music = {
 	name = "march_of_zhukov"
 	file = "march_of_zhukov.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "a_sprengisandi_at_sprengisandur"
-	file = "a_sprengisandi_at_sprengisandur.ogg"
 	volume = 0.65
 }
 
@@ -2853,12 +2860,6 @@ music = {
 }
 
 music = {
-	name = "a_l_appel_du_grand_lenine"
-	file = "a_l_appel_du_grand_lenine.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "les_nouveaux_partisans"
 	file = "les_nouveaux_partisans.ogg"
 	volume = 0.65
@@ -2879,12 +2880,6 @@ music = {
 music = {
 	name = "quand_fera_t_il_jour_camarade"
 	file = "quand_fera_t_il_jour_camarade.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "a_bas_l_etat_policier"
-	file = "a_bas_l_etat_policier.ogg"
 	volume = 0.65
 }
 
