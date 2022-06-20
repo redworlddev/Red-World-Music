@@ -2292,7 +2292,7 @@ music = {
 }
 
 music = {
-	song = "the_warsawien"
+	song = "warszawianka_english"
 	chance = {
 		modifier = {
 			factor = 2
