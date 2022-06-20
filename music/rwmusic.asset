@@ -230,8 +230,32 @@ music = {
 }
 
 music = {
+	name = "auferstanden_aus_ruinen_instrumental"
+	file = "auferstanden_aus_ruinen_instrumental.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "avante"
 	file = "avante.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "avante_camarada"
+	file = "avante_camarada.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "avante_camaradas"
+	file = "avante_camaradas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ay_carmela"
+	file = "ay_carmela.ogg"
 	volume = 0.65
 }
 
@@ -242,8 +266,38 @@ music = {
 }
 
 music = {
+	name = "azerbaycan_ssr_himni"
+	file = "azerbaycan_ssr_himni.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "baath_anthem"
+	file = "baath_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "baikal_amur_mainline"
+	file = "baikal_amur_mainline.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "bakudan_sanyushi"
 	file = "bakudan_sanyushi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bandera_del_reino_de_albania"
+	file = "bandera_del_reino_de_albania.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bandiera_rossa"
+	file = "bandiera_rossa.ogg"
 	volume = 0.65
 }
 
@@ -266,8 +320,8 @@ music = {
 }
 
 music = {
-	name = "bandiera_rossa"
-	file = "bandiera_rossa.ogg"
+	name = "baviera"
+	file = "baviera.ogg"
 	volume = 0.65
 }
 
@@ -308,8 +362,56 @@ music = {
 }
 
 music = {
+	name = "blood_type"
+	file = "blood_type.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "blue_monday"
+	file = "blue_monday.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "blue_side_of_the_mountain"
+	file = "blue_side_of_the_mountain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bonnie_blue_flag"
+	file = "bonnie_blue_flag.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bosnak_savas_sarkisi"
+	file = "bosnak_savas_sarkisi.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "boze_pravde"
 	file = "boze_pravde.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "brabanconne"
+	file = "brabanconne.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bringin_home_the_rain"
+	file = "bringin_home_the_rain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "british_grenadiers_march"
+	file = "british_grenadiers_march.ogg"
 	volume = 0.65
 }
 
@@ -322,6 +424,24 @@ music = {
 music = {
 	name = "bulgarian_anthem"
 	file = "bulgarian_anthem.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cancion_mixteca"
+	file = "cancion_mixteca.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "canto_degli_italiani"
+	file = "canto_degli_italiani.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "cara_al_sol"
+	file = "cara_al_sol.ogg"
 	volume = 0.65
 }
 
@@ -754,12 +874,6 @@ music = {
 music = {
 	name = "istiklal_marsi"
 	file = "istiklal_marsi.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "canto_degli_italiani"
-	file = "canto_degli_italiani.ogg"
 	volume = 0.65
 }
 
@@ -1604,18 +1718,6 @@ music = {
 }
 
 music = {
-	name = "blue_side_of_the_mountain"
-	file = "blue_side_of_the_mountain.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "cancion_mixteca"
-	file = "cancion_mixteca.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "corcovado"
 	file = "corcovado.ogg"
 	volume = 0.65
@@ -1682,12 +1784,6 @@ music = {
 }
 
 music = {
-	name = "ay_carmela"
-	file = "ay_carmela.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "venceremos"
 	file = "venceremos.ogg"
 	volume = 0.65
@@ -1696,36 +1792,6 @@ music = {
 music = {
 	name = "soldat"
 	file = "soldat.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "baath_anthem"
-	file = "baath_anthem.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "auferstanden_aus_ruinen_instrumental"
-	file = "auferstanden_aus_ruinen_instrumental.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "bandera_del_reino_de_albania"
-	file = "bandera_del_reino_de_albania.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "bosnak_savas_sarkisi"
-	file = "bosnak_savas_sarkisi.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "cara_al_sol"
-	file = "cara_al_sol.ogg"
 	volume = 0.65
 }
 
@@ -1762,12 +1828,6 @@ music = {
 music = {
 	name = "die_rote_front"
 	file = "die_rote_front.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "avante_camaradas"
-	file = "avante_camaradas.ogg"
 	volume = 0.65
 }
 
@@ -1898,12 +1958,6 @@ music = {
 }
 
 music = {
-	name = "blood_type"
-	file = "blood_type.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "krupp_und_krause"
 	file = "krupp_und_krause.ogg"
 	volume = 0.65
@@ -1988,12 +2042,6 @@ music = {
 }
 
 music = {
-	name = "brabanconne"
-	file = "brabanconne.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "ethiopian_communist_anthem"
 	file = "ethiopian_communist_anthem.ogg"
 	volume = 0.65
@@ -2008,12 +2056,6 @@ music = {
 music = {
 	name = "god_defend_new_zealand"
 	file = "god_defend_new_zealand.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "azerbaycan_ssr_himni"
-	file = "azerbaycan_ssr_himni.ogg"
 	volume = 0.65
 }
 
@@ -2104,12 +2146,6 @@ music = {
 music = {
 	name = "tears_in_the_rain"
 	file = "tears_in_the_rain.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "british_grenadiers_march"
-	file = "british_grenadiers_march.ogg"
 	volume = 0.65
 }
 
@@ -2326,12 +2362,6 @@ music = {
 }
 
 music = {
-	name = "bonnie_blue_flag"
-	file = "bonnie_blue_flag.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "l_hymne_du_parti_socialiste_francais"
 	file = "l_hymne_du_parti_socialiste_francais.ogg"
 	volume = 0.65
@@ -2388,12 +2418,6 @@ music = {
 music = {
 	name = "himno_del_cristo_rey"
 	file = "himno_del_cristo_rey.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "avante_camarada"
-	file = "avante_camarada.ogg"
 	volume = 0.65
 }
 
@@ -2800,12 +2824,6 @@ music = {
 }
 
 music = {
-	name = "baviera"
-	file = "baviera.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "laissez_tomber_les_filles"
 	file = "laissez_tomber_les_filles.ogg"
 	volume = 0.65
@@ -2938,12 +2956,6 @@ music = {
 }
 
 music = {
-	name = "blue_monday"
-	file = "blue_monday.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "eddy_huntington_ussr"
 	file = "eddy_hungtington_ussr.ogg"
 	volume = 0.65
@@ -2958,12 +2970,6 @@ music = {
 music = {
 	name = "take_my_breath_away"
 	file = "take_my_breath_away.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "baikal_amur_mainline"
-	file = "baikal_amur_mainline.ogg"
 	volume = 0.65
 }
 
@@ -3006,12 +3012,6 @@ music = {
 music = {
 	name = "hot_summer"
 	file = "hot_summer.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "bringin_home_the_rain"
-	file = "bringin_home_the_rain.ogg"
 	volume = 0.65
 }
 
