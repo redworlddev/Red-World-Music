@@ -664,7 +664,7 @@ music = {
 }
 
 music = {
-	song = "greek_internationale"
+	song = "internationale_greek"
 	chance = {
 		modifier = {
 			factor = 2
