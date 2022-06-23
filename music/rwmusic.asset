@@ -1052,6 +1052,18 @@ music = {
 }
 
 music = {
+	name = "hayalim_almonim"
+	file = "hayalim_almonim.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "heil_dir_im_siegerkranz"
+	file = "heil_dir_im_siegerkranz.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "hej_sloveni"
 	file = "hej_sloveni.ogg"
 	volume = 0.65
@@ -1076,6 +1088,12 @@ music = {
 }
 
 music = {
+	name = "het_wilhelmus"
+	file = "het_wilhelmus.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "hey_slovaks"
 	file = "hey_slovaks.ogg"
 	volume = 0.65
@@ -1088,6 +1106,30 @@ music = {
 }
 
 music = {
+	name = "himno_de_los_tercios"
+	file = "himno_de_los_tercios.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "himno_del_cristo_rey"
+	file = "himno_del_cristo_rey.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hino_a_internacional_comunista"
+	file = "hino_a_internacional_comunista.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hino_da_independencia"
+	file = "hino_da_independencia.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "hino_da_proclamacao_da_republica"
 	file = "hino_da_proclamacao_da_republica.ogg"
 	volume = 0.65
@@ -1096,6 +1138,12 @@ music = {
 music = {
 	name = "hino_do_movimento_dos_trabalhadores_sem_terra"
 	file = "hino_do_movimento_dos_trabalhadores_sem_terra.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hip_to_be_square"
+	file = "hip_to_be_square.ogg"
 	volume = 0.65
 }
 
@@ -2102,26 +2150,8 @@ music = {
 }
 
 music = {
-	name = "himno_de_los_tercios"
-	file = "himno_de_los_tercios.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "hino_a_internacional_comunista"
-	file = "hino_a_internacional_comunista.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "i_vow_to_thee_my_country"
 	file = "i_vow_to_thee_my_country.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "heil_dir_im_siegerkranz"
-	file = "heil_dir_im_siegerkranz.ogg"
 	volume = 0.65
 }
 
@@ -2440,12 +2470,6 @@ music = {
 }
 
 music = {
-	name = "het_wilhelmus"
-	file = "het_wilhelmus.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "south_african_anthem"
 	file = "south_african_anthem.ogg"
 	volume = 0.65
@@ -2566,20 +2590,8 @@ music = {
 }
 
 music = {
-	name = "himno_del_cristo_rey"
-	file = "himno_del_cristo_rey.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "rio_grande_do_sul_anthem"
 	file = "rio_grande_do_sul_anthem.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "hino_da_independencia"
-	file = "hino_da_independencia.ogg"
 	volume = 0.65
 }
 
@@ -2748,12 +2760,6 @@ music = {
 music = {
 	name = "we_are_friends_forever"
 	file = "we_are_friends_forever.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "hayalim_almonim"
-	file = "hayalim_almonim.ogg"
 	volume = 0.65
 }
 
@@ -3021,11 +3027,6 @@ music = {
 	volume = 0.65
 }
 
-music = {
-	name = "hip_to_be_square"
-	file = "hip_to_be_square.ogg"
-	volume = 0.65
-}
 music = {
 	name = "i_want_a_new_drug"
 	file = "i_want_a_new_drug.ogg"

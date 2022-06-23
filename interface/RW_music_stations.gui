@@ -1,13 +1,13 @@
 guiTypes = {
 	containerWindowType = {
 		name = "rw_music_faceplate"
-		position = { x =0 y=0 }
+		position = { x = 0 y = 0 }
 		size = { width = 590 height = 46 }
 
-		iconType ={
+		iconType = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
-			position = { x= 0 y = 0 }
+			position = { x = 0 y = 0 }
 			alwaystransparent = yes
 		}
 
@@ -15,7 +15,7 @@ guiTypes = {
 			name = "track_name"
 			position = { x = 72 y = 16 }
 			font = "hoi_20b"
-			text = "Roger Pontare - Nar vindarna viskar mitt namn"
+			text = "debug text remove later"
 			maxWidth = 450
 			maxHeight = 25
 			format = center
@@ -75,9 +75,9 @@ guiTypes = {
 			position = { x = 100 y = 45}
 			size = { width = 75 height = 18 }
 			tileSize = { width = 12 height = 12}
-			maxValue =100
-			minValue =0
-			stepSize =1
+			maxValue = 100
+			minValue = 0
+			stepSize = 1
 			startValue = 50
 			horizontal = yes
 			orientation = lower_left
@@ -87,14 +87,14 @@ guiTypes = {
 			slider = {
 				name = "Slider"	
 				quadTextureSprite = "GFX_scroll_drager"
-				position = { x=0 y = 1 }
+				position = { x = 0 y = 1 }
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
 
 			track = {
 				name = "Track"
 				quadTextureSprite = "GFX_volume_track"
-				position = { x=0 y = 3 }
+				position = { x = 0 y = 3 }
 				alwaystransparent = yes
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
@@ -110,7 +110,7 @@ guiTypes = {
 		}
 	}
 
-	containerWindowType={
+	containerWindowType = {
 		name = "rw_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
@@ -121,23 +121,24 @@ guiTypes = {
 			clicksound = decisions_ui_button
 		}
 	}
-	#pop
-		containerWindowType = {
+
+#pop
+	containerWindowType = {
 		name = "rw_pop_music_faceplate"
-		position = { x =0 y=0 }
+		position = { x = 0 y = 0 }
 		size = { width = 590 height = 46 }
 
-		iconType ={
+		iconType = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
-			position = { x= 0 y = 0 }
+			position = { x = 0 y = 0 }
 			alwaystransparent = yes
 		}
 		instantTextboxType = {
 			name = "track_name"
 			position = { x = 72 y = 16 }
 			font = "hoi_20b"
-			text = "Roger Pontare - Nar vindarna viskar mitt namn"
+			text = "debug text remove later"
 			maxWidth = 450
 			maxHeight = 25
 			format = center
@@ -197,9 +198,9 @@ guiTypes = {
 			position = { x = 100 y = 45}
 			size = { width = 75 height = 18 }
 			tileSize = { width = 12 height = 12}
-			maxValue =100
-			minValue =0
-			stepSize =1
+			maxValue = 100
+			minValue = 0
+			stepSize = 1
 			startValue = 50
 			horizontal = yes
 			orientation = lower_left
@@ -209,14 +210,14 @@ guiTypes = {
 			slider = {
 				name = "Slider"	
 				quadTextureSprite = "GFX_scroll_drager"
-				position = { x=0 y = 1 }
+				position = { x = 0 y = 1 }
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
 
 			track = {
 				name = "Track"
 				quadTextureSprite = "GFX_volume_track"
-				position = { x=0 y = 3 }
+				position = { x = 0 y = 3 }
 				alwaystransparent = yes
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
@@ -231,7 +232,8 @@ guiTypes = {
 			clicksound = click_close
 		}
 	}
-	containerWindowType={
+
+	containerWindowType = {
 		name = "rw_pop_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
@@ -242,23 +244,25 @@ guiTypes = {
 			clicksound = decisions_ui_button
 		}
 	}
-	#communism
+
+#communism
 	containerWindowType = {
 		name = "rw_communism_music_faceplate"
-		position = { x =0 y=0 }
+		position = { x = 0 y = 0 }
 		size = { width = 590 height = 46 }
 
-		iconType ={
+		iconType = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
-			position = { x= 0 y = 0 }
+			position = { x = 0 y = 0 }
 			alwaystransparent = yes
 		}
+
 		instantTextboxType = {
 			name = "track_name"
 			position = { x = 72 y = 16 }
 			font = "hoi_20b"
-			text = "Roger Pontare - Nar vindarna viskar mitt namn"
+			text = "debug text remove later"
 			maxWidth = 450
 			maxHeight = 25
 			format = center
@@ -318,9 +322,9 @@ guiTypes = {
 			position = { x = 100 y = 45}
 			size = { width = 75 height = 18 }
 			tileSize = { width = 12 height = 12}
-			maxValue =100
-			minValue =0
-			stepSize =1
+			maxValue = 100
+			minValue = 0
+			stepSize = 1
 			startValue = 50
 			horizontal = yes
 			orientation = lower_left
@@ -330,14 +334,14 @@ guiTypes = {
 			slider = {
 				name = "Slider"	
 				quadTextureSprite = "GFX_scroll_drager"
-				position = { x=0 y = 1 }
+				position = { x = 0 y = 1 }
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
 
 			track = {
 				name = "Track"
 				quadTextureSprite = "GFX_volume_track"
-				position = { x=0 y = 3 }
+				position = { x = 0 y = 3 }
 				alwaystransparent = yes
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
@@ -352,7 +356,8 @@ guiTypes = {
 			clicksound = click_close
 		}
 	}
-	containerWindowType={
+
+	containerWindowType = {
 		name = "rw_communism_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
@@ -363,23 +368,25 @@ guiTypes = {
 			clicksound = decisions_ui_button
 		}
 	}
-	#nationalist
+
+#nationalist
 	containerWindowType = {
 		name = "rw_nationalist_music_faceplate"
-		position = { x =0 y=0 }
+		position = { x = 0 y = 0 }
 		size = { width = 590 height = 46 }
 
-		iconType ={
+		iconType = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
-			position = { x= 0 y = 0 }
+			position = { x = 0 y = 0 }
 			alwaystransparent = yes
 		}
+
 		instantTextboxType = {
 			name = "track_name"
 			position = { x = 72 y = 16 }
 			font = "hoi_20b"
-			text = "Roger Pontare - Nar vindarna viskar mitt namn"
+			text = "debug text remove later"
 			maxWidth = 450
 			maxHeight = 25
 			format = center
@@ -439,9 +446,9 @@ guiTypes = {
 			position = { x = 100 y = 45}
 			size = { width = 75 height = 18 }
 			tileSize = { width = 12 height = 12}
-			maxValue =100
-			minValue =0
-			stepSize =1
+			maxValue = 100
+			minValue = 0
+			stepSize = 1
 			startValue = 50
 			horizontal = yes
 			orientation = lower_left
@@ -451,14 +458,14 @@ guiTypes = {
 			slider = {
 				name = "Slider"	
 				quadTextureSprite = "GFX_scroll_drager"
-				position = { x=0 y = 1 }
+				position = { x = 0 y = 1 }
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
 
 			track = {
 				name = "Track"
 				quadTextureSprite = "GFX_volume_track"
-				position = { x=0 y = 3 }
+				position = { x = 0 y = 3 }
 				alwaystransparent = yes
 				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
 			}
@@ -472,8 +479,9 @@ guiTypes = {
 			Orientation = "LOWER_LEFT"
 			clicksound = click_close
 		}
-		}
-		containerWindowType={
+	}
+	
+	containerWindowType = {
 		name = "rw_nationalist_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
