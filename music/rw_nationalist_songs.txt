@@ -1,4 +1,5 @@
 music_station = "rw_nationalist_music"
+
 music = {
 	song = "advance_australia_fair"
 	chance = {
@@ -8,6 +9,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "afghan_anthem"
 	chance = {
@@ -17,6 +19,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "aint_i_right"
 	chance = {
@@ -53,6 +56,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "aj_karmela"
 	chance = {
@@ -65,6 +69,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "america_the_beautiful"
 	chance = {
@@ -78,6 +83,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "battle_hymn_of_the_republic"
 	chance = {
@@ -103,6 +109,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "cobra_desert"
 	chance = {
@@ -112,6 +119,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "deus_patria_rei"
 	
@@ -128,6 +136,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "die_wacht_am_rhein"
 	chance = {
@@ -150,6 +159,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "dixie_union_verson"
 	
@@ -171,6 +181,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "down_the_river_mother_volga"
 	
@@ -185,6 +196,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "erika_afrikaans"
 	chance = {
@@ -198,6 +210,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "eternal_glory_to_the_allied_veterans_of_the_pacific_theatre"
 	chance = {
@@ -216,6 +229,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "horst_wessel_lied"
 	chance = {
@@ -225,6 +239,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "i_am_australian"
 	chance = {
@@ -234,6 +249,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "i_wish_i_was_a_blue_job"
 	chance = {
@@ -249,6 +265,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "invincible_eagle_march"
 	chance = {
@@ -258,6 +275,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "its_a_long_way_to_mukumbura"
 	
@@ -288,6 +306,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "star_spangled_banner"
 	chance = {
@@ -310,6 +329,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "under_the_double_eagle"
 	chance = {
@@ -320,6 +340,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "we_are_russians_god_is_with_us"
 	
@@ -333,3 +354,4 @@ music = {
 		}
 	}
 }
+

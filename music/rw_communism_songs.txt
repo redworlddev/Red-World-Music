@@ -1,17 +1,4 @@
 music_station = "rw_communism_music"
-music = {
-	song = "auferstanden_aus_ruinen"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = GER
-			OR = {
-			    has_government = communist
-				has_government = revolutionary_socialist
-			}
-		}
-	}
-}
 
 music = {
 	song = "albanian_communist_anthem"
@@ -36,16 +23,13 @@ music = {
 }
 
 music = {
-	song = "soviet_anthem_english"
+	song = "auferstanden_aus_ruinen"
 	chance = {
 		modifier = {
 			factor = 2
+			tag = GER
 			OR = {
-				tag = NEA
-				tag = PCA
-			}
-			OR = {
-			    has_government = communist 
+			    has_government = communist
 				has_government = revolutionary_socialist
 			}
 		}
@@ -125,6 +109,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "katyusha"
 	chance = {
@@ -137,6 +122,24 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "soviet_anthem_english"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NEA
+				tag = PCA
+			}
+			OR = {
+			    has_government = communist 
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
 music = {
 	song = "under_the_balkan_stars"
 	
@@ -150,6 +153,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "we_need_only_victory"
 	chance = {
@@ -162,6 +166,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "wide_is_my_motherland"
 	chance = {
@@ -174,3 +179,4 @@ music = {
 		}
 	}
 }
+

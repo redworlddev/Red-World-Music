@@ -1,4 +1,5 @@
 music_station = "rw_pop_music"
+
 music = {
 	song = "al_kapone"
 	chance = {
@@ -23,6 +24,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "annabelle"
 	chance = {
@@ -58,6 +60,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "bringin_home_the_rain"
 	chance = {
@@ -75,6 +78,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "compromise"
 	chance = {
@@ -88,6 +92,17 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "cranes_japanese"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
 music = {
 	song = "der_kommissar"
 	chance = {
@@ -97,6 +112,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "diggin_my_grave"
 	chance = {
@@ -114,6 +130,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "grass_from_home"
 	
@@ -129,6 +146,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "gypsy"
 	chance = {
@@ -146,6 +164,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "hip_to_be_square"
 	chance = {
@@ -155,6 +174,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "i_want_a_new_drug"
 	
@@ -165,6 +185,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "if_it_hadnt_been_for_love"
 	chance = {
@@ -182,6 +203,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "mr_roboto"
 	
@@ -192,6 +214,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "old_devils"
 	chance = {
@@ -209,6 +232,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "paint_it_black"
 	chance = {
@@ -232,6 +256,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "parce_que_tu_crois"
 	chance = {
@@ -241,6 +266,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "rasputin"
 	chance = {
@@ -251,6 +277,7 @@ music = {
 		}
 	}
 }
+
 music = {
 	song = "should_i_stay_or_should_i_go"
 	chance = {
@@ -270,12 +297,4 @@ music = {
 		}
 	}
 }
-music = {
-	song = "cranes_japanese"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = JAP
-		}
-	}
-}
+
