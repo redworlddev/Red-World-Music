@@ -355,3 +355,444 @@ music = {
 	}
 }
 
+music = {
+	song = "afrikanerhart"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SAF
+			OR = {
+				has_government = national_conservative 
+				has_government = fascist 
+				has_government = nationalist
+				has_government = centrist 
+			}
+		}
+	}
+}
+
+music = {
+	song = "ageyo_hinomaru"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "aikoku_koshinkyoku"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "allahu_akbar"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = LBA
+		}
+	}
+}
+
+music = {
+	song = "ambitions_to_the_sky"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = PRC 
+				tag = CHI
+			}
+			OR = {
+			    has_government = nationalist
+				has_government = fascist
+				has_government = national_conservative
+				has_government = centrist
+			}
+		}
+	}
+}
+
+music = {
+	song = "america_dont_mess_around"
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+		}
+	}
+}
+
+music = {
+	song = "anthem_of_whampoa_military_academy"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = CHI
+		}
+	}
+}
+
+music = {
+	song = "arawashi_no_uta"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "armed_forces_medley"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA 
+		}
+	}
+}
+
+music = {
+	song = "army_marches_on"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GRE
+		}
+	}
+}
+
+music = {
+	song = "au_31_du_mois_d_aout"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+			OR = {
+				has_government = fascist
+                has_government = nationalist 
+                has_government = monarchist 
+                has_government = national_bolshevik
+                has_government = national_conservative
+				has_government = centrist 
+				has_government = liberal
+				has_government = new_democrat
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "avante"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = BRA
+			OR = {
+			    has_government = fascist
+				has_government = nationalist
+				has_government = monarchist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "avante_camaradas"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = BRA
+		}
+	}
+}
+
+music = {
+	song = "aye_mere_watan_ke_logon"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = RAJ
+		}
+	}
+}
+
+music = {
+	song = "baath_anthem"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = UAR 
+				tag = EGY 
+				tag = SYR 
+				tag = PAL
+				tag = JOR 
+				tag = LEB
+				tag = IRQ 
+				tag = SAU 
+				tag = UAE 
+				tag = OMA 
+				tag = YEM 
+				tag = QAT
+				tag = LBA
+				tag = TUN
+				tag = ALG
+			}
+			OR = {
+			    has_government = nationalist
+				has_government = national_bolshevik
+				has_government = revolutionary_socialist
+				has_government = fascist
+			}
+		}
+	}
+}
+
+music = {
+	song = "bakudan_sanyushi"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "banzai_hitora_yuugento"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "battoutai"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "baviera"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SPR
+			OR = {
+				has_government = fascist 
+				has_government = nationalist
+				has_government = monarchist
+			}
+		}
+	}
+}
+
+music = {
+	song = "beiei_gekimetsu"
+	chance = {
+		modifier = {
+			factor = 2
+
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "bjorne_borgarnas_marsch"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SWE
+		}
+	}
+}
+
+music = {
+	song = "bonnie_blue_flag"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "bosnak_savas_sarkisi"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = BOS
+			OR = {
+			    has_government = fascist
+				has_government = nationalist
+				has_government = monarchist 
+				has_government = national_conservative
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "brabanconne"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = BEL
+		}
+	}
+}
+
+music = {
+	song = "canto_degli_italiani"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}
+	}
+}
+
+music = {
+	song = "cara_al_sol"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SPR
+			OR = {
+			    has_government = fascist
+				has_government = nationalist
+				has_government = monarchist 
+			}
+		}
+	}
+}
+
+music = {
+	song = "ceddin_deden"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = TUR
+		}
+	}
+}
+
+music = {
+	song = "chant_du_depart"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}
+	}
+}
+
+music = {
+	song = "chester"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = AMC
+		}
+	}
+}
+
+music = {
+	song = "chilean_anthem"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = CHL
+		}
+	}
+}
+
+music = {
+	song = "chinese_republican_anthem"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = PRC
+				tag = CHI
+			}
+			OR = {
+				has_government = nationalist 
+				has_government = national_conservative
+		        has_government = centrist 
+				has_government = liberal
+				has_government = new_democrat
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "columbia_gem_of_the_ocean"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "come_all_you_bold_canadians"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = CAN
+		}
+	}
+}
+
+music = {
+	song = "comrade_in_arms"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "czerwona_holota"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = POL 
+			NOT = {
+			    OR = {
+				    has_government = communist
+					has_government = revolutionary_socialist
+				}
+			}
+		}
+	}
+}

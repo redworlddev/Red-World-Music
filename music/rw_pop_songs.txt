@@ -298,3 +298,447 @@ music = {
 	}
 }
 
+#music = {
+#	song = "99_luftballons"
+#	chance = {
+#		modifier = {
+#			factor = 2
+#			tag = GER	
+#		}
+#	}
+#}
+
+music = {
+	song = "ali_baba"
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = middle_east }
+		}
+	}
+}
+
+music = {
+	song = "blood_type"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}
+	}
+}
+
+music = {
+	song = "blue_monday"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = LIN
+		}
+	}
+}
+
+music = {
+	song = "blue_side_of_the_mountain"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "corcovado"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = BRA
+		}
+	}
+}
+
+music = {
+	song = "cranes"
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			tag = UKR
+			tag = BLR
+			tag = KZH
+			}
+		}
+	}
+}
+
+music = {
+	song = "das_lied"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "eddy_huntington_ussr"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = LIN
+		}
+	}
+}
+
+music = {
+	song = "hot_summer"
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			}
+		}
+	}
+}
+
+music = {
+	song = "la_barca_de_oro"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = MEX
+		}
+	}
+}
+
+music = {
+	song = "red_skies"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = USA
+				tag = NEA
+				tag = PCA
+				tag = ILL
+				tag = LIN
+				tag = CAN
+				tag = ENG
+				tag = NZL
+				tag = AST
+				tag = GRL
+			}
+		}
+	}
+}
+
+music = {
+	song = "simply_irresistible"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = LIN
+		}
+	}
+}
+
+music = {
+	song = "soldat"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}
+	}
+}
+
+music = {
+	song = "take_my_breath_away"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = LIN
+		}
+	}
+}
+
+music = {
+	song = "ya_sidi"
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = middle_east }
+		}
+	}
+}
+
+music = {
+	song = "2049"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "judgement_day"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "a_sprengisandi_at_sprengisandur"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ICE
+		}
+	}
+}
+
+music = {
+	song = "and_am_i_born_to_die"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MOT 
+				tag = LIN 
+				tag = MWA 
+				tag = ILL 
+				tag = TEX 
+				tag = UTA 
+				tag = ARI
+			}
+			OR = {
+			    has_government = nationalist 
+				has_government = monarchist 
+				has_government = national_conservative
+				has_government = centrist 
+				has_government = liberal
+				has_government = new_democrat 
+				has_government = moderate_socialist
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "danny_boy"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = IRE 
+				tag = ULS
+			}
+		}
+	}
+}
+
+music = {
+	song = "drink_the_water"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "fire_in_the_blood"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "flames"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "flight"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "gens_du_pays"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = CAN
+		}
+	}
+}
+
+music = {
+	song = "gospel_plow"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "hathor"
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = middle_east }
+		}
+	}
+}
+
+music = {
+	song = "ill_fly_away"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "jalta"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = POL
+			OR = {
+				has_government = new_democrat 
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "joi"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP 
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "kigenni_sen_roku_hyakunen"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "klin_runag_thong"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "kraisang_krai_liang"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "laissez_tomber_les_filles"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}
+	}
+}
