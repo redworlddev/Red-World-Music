@@ -1011,6 +1011,16 @@ music = {
 }
 
 music = {
+	song = "waltzing_matilda"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
+}
+
+music = {
 	song = "we_are_forging"
 	chance = {
 		modifier = {

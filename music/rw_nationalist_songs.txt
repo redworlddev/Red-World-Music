@@ -331,17 +331,6 @@ music = {
 }
 
 music = {
-	song = "under_the_double_eagle"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = GER
-			has_government = monarchist
-		}
-	}
-}
-
-music = {
 	song = "we_are_russians_god_is_with_us"
 	
 	chance = {
