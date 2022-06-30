@@ -742,3 +742,300 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "mon_rak_siang_kradung"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "my_least_favourite_life"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "northwest_passage"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = CAN
+				tag = GRL
+				tag = ALA
+			}
+		}
+	}
+}
+
+music = {
+	song = "oblawa"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = POL
+			NOT = {
+			    has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "on_your_way"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "our_neighbor"
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			tag = UKR
+			tag = BLR
+			tag = KZH
+			}
+		}
+	}
+}
+
+music = {
+	song = "pale_rider"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "perb_khao"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "rot_und_schwartz"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "sari_gelin"
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = middle_east }
+		}
+	}
+}
+
+music = {
+	song = "seglatforommasten"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SWE
+		}
+	}
+}
+
+music = {
+	song = "siang_priak_chak_matupum"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "suliko"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "sultans_palace"
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = middle_east }
+		}
+	}
+}
+
+music = {
+	song = "sweet_dreams"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = LIN
+		}
+	}
+}
+
+music = {
+	song = "taharn_prachachon_samakki"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "talay_chivit"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "tears_in_the_rain"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "the_angry_river"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_fire_burns"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "ungmonpakarringon"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SWE
+		}
+	}
+}
+
+music = {
+	song = "waiting_around_to_die"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "we_are_forging"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "yuve_yuve_yu"	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = MON
+		}
+	}
+}
+
+music = {
+	song = "zx_dan"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SAF
+		}
+	}
+}
