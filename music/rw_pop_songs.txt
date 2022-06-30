@@ -1049,3 +1049,21 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "devil_at_the_door"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
