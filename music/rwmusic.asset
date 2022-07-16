@@ -1221,8 +1221,8 @@ music = {
 }
 
 music = {
-	name = "hungarian_bella_ciao"
-	file = "hungarian_bella_ciao.ogg"
+	name = "bella_ciao_hungarian"
+	file = "bella_ciao_hungarian.ogg"
 	volume = 0.65
 }
 

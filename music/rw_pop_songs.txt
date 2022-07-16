@@ -1067,3 +1067,21 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "lone_pine_hill"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+		}
+	}
+}
