@@ -42,9 +42,11 @@ music = {
 
 music = {
 	song = "dap_prampi_mesa_chokchey"
-	modifier = {
-		factor = 0
-		tag = SOV
+	chance = {
+		modifier = {
+			factor = 0
+			tag = SOV
+		}
 	}
 }
 
