@@ -66,7 +66,6 @@ music = {
 	}
 }
 
-
 music = {
 	song = "el_abanderado_de_la_tradicion"
 	chance = {
@@ -276,6 +275,21 @@ music = {
 }
 
 music = {
+	song = "march_of_the_preobrazhensky_regiment"
+	chance = {
+		modifier = {
+			OR = {
+			    tag = SOV 
+				tag = RUS
+			}
+			OR = {
+				has_government = monarchist
+			}
+		}
+	}
+}
+
+music = {
 	song = "ottoman_march"
 	chance = {
 		modifier = {
@@ -351,6 +365,23 @@ music = {
 }
 
 music = {
+	song = "siberian_riflemens_march"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = RUS
+			OR = {
+				has_government = fascist 
+				has_government = nationalist 
+				has_government = monarchist 
+				has_government = national_conservative
+				has_government = centrist
+			}
+		}
+	}
+}
+
+music = {
 	song = "solemn_march"
 	chance = {
 		modifier = {
@@ -359,6 +390,27 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "svea_livgardes_defilerings_marsch"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SWE
+		}
+	}
+}
+
+music = {
+	song = "the_afsharids"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PER
+		}
+	}
+}
+
 
 music = {
 	song = "the_prayer_of_russians"
@@ -382,69 +434,6 @@ music = {
 		modifier = {
 			factor = 2
 			tag = UAE
-		}
-	}
-}
-
-music = {
-	song = "vast_kustens_marin_kommandos_marsch"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = SWE
-		}
-	}
-}
-
-music = {
-	song = "waltz_of_the_flowers"
-	chance = {
-		modifier = {
-			factor = 2
-			has_war = no
-		}
-	}
-}
-
-music = {
-	song = "wir_wollen_unseren_alten_kaiser_wilhelm_wiederhaben"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = GER
-			has_government = monarchist
-		}
-	}
-}
-
-music = {
-	song = "march_of_the_preobrazhensky_regiment"
-	chance = {
-		modifier = {
-			OR = {
-			    tag = SOV 
-				tag = RUS
-			}
-			OR = {
-				has_government = monarchist
-			}
-		}
-	}
-}
-
-music = {
-	song = "siberian_riflemens_march"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = RUS
-			OR = {
-				has_government = fascist 
-				has_government = nationalist 
-				has_government = monarchist 
-				has_government = national_conservative
-				has_government = centrist
-			}
 		}
 	}
 }
@@ -481,7 +470,7 @@ music = {
 }
 
 music = {
-	song = "svea_livgardes_defilerings_marsch"
+	song = "vast_kustens_marin_kommandos_marsch"
 	chance = {
 		modifier = {
 			factor = 2
@@ -491,11 +480,23 @@ music = {
 }
 
 music = {
-	song = "the_afsharids"
+	song = "waltz_of_the_flowers"
 	chance = {
 		modifier = {
 			factor = 2
-			tag = PER
+			has_war = no
 		}
 	}
 }
+
+music = {
+	song = "wir_wollen_unseren_alten_kaiser_wilhelm_wiederhaben"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+			has_government = monarchist
+		}
+	}
+}
+
