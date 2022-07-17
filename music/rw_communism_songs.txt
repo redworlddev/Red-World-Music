@@ -1521,3 +1521,935 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "moscow_nights"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "nar_jeg_ser_et_rodt_flag_smaelde"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = DEN
+			OR = {
+			    has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "never_cross_a_picket_line"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = ENG 
+				tag = IRE 
+				tag = ULS
+				tag = CAN 
+				tag = AST 
+				tag = NZL 
+				tag = SAF
+			}
+			OR = {
+				has_government = communist 
+				has_government = revolutionary_socialist
+		        has_government = moderate_socialist
+				has_government = new_democrat
+			}
+		}
+	}
+}
+
+music = {
+	song = "no_motherland_without_you"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+		}
+	}
+}
+
+music = {
+	song = "noi_iubim_partidul"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ROM
+			OR = {
+				has_government = communist
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "north_korean_army_march"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			OR = {
+				has_government = communist 
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "olur_my_boyle_olur_mu"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = TUR
+		}
+	}
+}
+
+music = {
+	song = "on_towards_the_red_morning"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "one_against_a_hundred"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			OR = {
+				has_government = communist 
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "partisans_song"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "peace_is_on_our_bayonet"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+		}
+	}
+}
+
+music = {
+	song = "peace_is_victory"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "pla_anthem"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRC 
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "punakaartin_marssi"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FIN
+			OR = {
+			    has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "quand_fera_t_il_jour_camarade"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+			OR = {
+				has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "red_army_is_the_strongest"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "rote_flieger"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER 
+			OR = {
+			    has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "skipper_klements_morgensang"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = DEN
+		}
+	}
+}
+
+music = {
+	song = "socialist_world_republic"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "soldiers_road"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			OR = {
+				has_government = communist 
+				has_government = national_bolshevik
+				has_government = revolutionary_socialist 
+			}
+		}
+	}
+}
+
+music = {
+	song = "solidaritatslied"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "solidarity_forever"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    has_government = revolutionary_socialist
+				has_government = national_bolshevik
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "song_of_the_american_unemployed"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}
+	}
+}
+
+music = {
+	song = "song_of_the_cudgel"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "song_of_the_french_volunteers"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+			OR = {
+				has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "song_of_the_red_flag"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "song_of_the_volga_tractor"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "stalin_our_father"
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "tear_the_fascists_down"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = NEA
+				tag = GRL
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = LIN
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "tenesa_teramed"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ETH
+			OR = {
+			    has_government = communist 
+				has_government = national_bolshevik
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "thank_you_comrade_kim_jong_il"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+		}
+	}
+}
+
+music = {
+	song = "thatcherites"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
+			OR = {
+				has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+				has_government = new_democrat 
+				has_government = liberal
+				has_government = centrist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "thats_us_speaking"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SOV
+				tag = CUB
+			}
+			OR = {
+			    has_government = communist 
+				has_government = national_bolshevik
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_amurian_waves"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "the_battle_is_going_again"
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "the_blue_cloth"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "the_commonwealth_of_toil"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = NEA
+				tag = GRL
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = UTA
+				tag = ARI
+				tag = TEX
+				tag = CAN
+				tag = ALA
+				tag = HAW
+				tag = ENG
+				tag = IRE
+				tag = ULS
+				tag = AST
+				tag = NZL
+				tag = SAF
+			}
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_red_sun_must_illuminate_taiwan"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRC
+			OR = {
+			    has_government = communist 
+				has_government = national_bolshevik
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_sacred_war"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_united_front"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = NEA
+				tag = GRL
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = UTA
+				tag = ARI
+				tag = TEX
+				tag = CAN
+				tag = ALA
+				tag = HAW
+				tag = ENG
+				tag = IRE
+				tag = ULS
+				tag = AST
+				tag = NZL
+				tag = SAF
+			}
+			has_government = revolutionary_socialist
+		}
+	}
+}
+
+music = {
+	song = "there_far_away_across_the_river"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = SOV 
+				tag = RUS
+			}
+		}
+	}
+}
+
+music = {
+	song = "third_army_of_the_kla"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			OR = {
+				has_government = communist 
+                has_government = national_bolshevik
+				has_government = revolutionary_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "this_land_is_your_land"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = NEA
+				tag = GRL
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = UTA
+				tag = ARI
+				tag = TEX
+				tag = CAN
+				tag = ALA
+				tag = HAW
+				tag = ENG
+				tag = IRE
+				tag = ULS
+				tag = AST
+				tag = NZL
+				tag = SAF
+			}
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "toi_toi_toi"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}
+	}
+}
+
+music = {
+	song = "trei_culori"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ROM
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "troika"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV 
+		}
+	}
+}
+
+music = {
+	song = "united_front_piano"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    has_government = revolutionary_socialist
+				has_government = moderate_socialist 
+			}
+		}
+	}
+}
+
+music = {
+	song = "united_front_russian"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+			OR = {
+			    has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "unsere_panzerdivision"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "uttoroindulo"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = HUN
+		}
+	}
+}
+
+music = {
+	song = "uz_marsala_tita"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = YUG 
+			has_government = revolutionary_socialist
+		}
+	}
+}
+
+music = {
+	song = "venceremos"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = CHL
+			OR = {
+			    has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+				has_government = new_democrat
+			}
+		}
+	}
+}
+
+music = {
+	song = "we_are_friends_forever"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+			OR = {
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "we_know_nobody_but_you"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			OR = {
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "we_walk_the_path_of_tito"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = YUG
+		}
+	}
+}
+
+music = {
+	song = "we_will_fly_our_red_flag_forever"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			OR = {
+				has_government = communist 
+				has_government = national_bolshevik
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+			}
+		}
+	}
+}
+
+music = {
+	song = "werin_barikadan"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = KUR 
+			OR = {
+			    has_government = revolutionary_socialist
+				has_government = moderate_socialist
+				has_government = communist
+			}
+		}
+	}
+}
+
+music = {
+	song = "when_that_day_comes"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRC
+		}
+	}
+}
+
+music = {
+	song = "where_are_you_dear_general"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			OR = {
+				has_government = communist 
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "where_have_all_the_flowers_gone"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = NEA
+				tag = GRL
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = UTA
+				tag = ARI
+				tag = TEX
+				tag = CAN
+				tag = ALA
+				tag = HAW
+				tag = ENG
+				tag = IRE
+				tag = ULS
+				tag = AST
+				tag = NZL
+				tag = SAF
+			}
+			OR = {
+			    has_government = communist
+				has_government = revolutionary_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "which_side_are_you_on"
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = revolutionary_socialist
+		}
+	}
+}
+
+music = {
+	song = "which_side_are_you_on_bragg"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+			    tag = ENG 
+				tag = IRE 
+				tag = ULS
+				tag = CAN 
+				tag = AST 
+				tag = NZL 
+				tag = SAF
+			}
+			OR = {
+				has_government = communist 
+				has_government = revolutionary_socialist
+		        has_government = moderate_socialist
+				has_government = new_democrat
+			}
+		}
+	}
+}
+
+music = {
+	song = "without_the_communist_party_there_would_be_no_new_china"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRC
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "workers_from_vienna"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP 
+			has_government = communist
+		}
+	}
+}
+
+music = {
+	song = "zimmerwald"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+			OR = {
+				has_government = communist 
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+				has_government = national_bolshevik
+			}
+		}
+	}
+}

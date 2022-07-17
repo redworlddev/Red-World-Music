@@ -489,3 +489,13 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "the_afsharids"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PER
+		}
+	}
+}
