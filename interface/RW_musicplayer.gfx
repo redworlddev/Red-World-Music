@@ -1,7 +1,7 @@
 spriteTypes = {
 	spriteType = {
-		name = "GFX_rw_album_art"
-		texturefile = "gfx/interface/topbar/musicplayer/rw_album_art.dds"
+		name = "GFX_rw_monarchist_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/rw_monarchist_album_art.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
