@@ -32,7 +32,7 @@ music_station = "rw_communism_music"
 #}
 
 music = {
-	song = "a_bas_l_etat_policie"
+	song = "a_bas_l_etat_policier"
 	chance = {
 		modifier = {
 			factor = 2

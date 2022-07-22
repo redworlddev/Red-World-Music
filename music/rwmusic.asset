@@ -1569,12 +1569,6 @@ music = {
 }
 
 music = {
-	name = "lama_bada_yatathana"
-	file = "lama_bada_yatathana.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "land_of_hope_and_glory"
 	file = "land_of_hope_and_glory.ogg"
 	volume = 0.65
@@ -1961,6 +1955,12 @@ music = {
 music = {
 	name = "november_uprising"
 	file = "november_uprising.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "oblawa"
+	file = "oblawa.ogg"
 	volume = 0.65
 }
 
@@ -2867,12 +2867,6 @@ music = {
 music = {
 	name = "warszawianka"
 	file = "warszawianka.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "warszawianka_english"
-	file = "warszawianka_english.ogg"
 	volume = 0.65
 }
 
