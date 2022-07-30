@@ -1,35 +1,35 @@
 music_station = "rw_communism_music"
 
-#music = {
-#	song = "leader_just_give_us_your_order"
-#	chance = {
-#		modifier = {
-#			factor = 2
-#			tag = PRK
-#			has_government = communist
-#		}
-#	}
-#}
+music = {
+	song = "leader_just_give_us_your_order"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRK
+			has_government = communist
+		}
+	}
+}
 
-#music = {
-#	song = "march_forward_dear_mother_ethiopia"
-#	chance = {
-#		modifier = {
-#			factor = 2
-#			tag = ETH 
-#		}
-#	}
-#}
+music = {
+	song = "march_forward_dear_mother_ethiopia"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ETH 
+		}
+	}
+}
 
-#music = {
-#	song = "song_of_the_guerrillas"
-#	chance = {
-#		modifier = {
-#			factor = 2
-#			tag = PRC
-#		}
-#	}
-#}
+music = {
+	song = "song_of_the_guerrillas"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = PRC
+		}
+	}
+}
 
 music = {
 	song = "a_bas_l_etat_policier"

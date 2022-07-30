@@ -1,14 +1,14 @@
 music_station = "rw_pop_music"
 
-#music = {
-#	song = "99_luftballons"
-#	chance = {
-#		modifier = {
-#			factor = 2
-#			tag = GER	
-#		}
-#	}
-#}
+music = {
+	song = "99_luftballons"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER	
+		}
+	}
+}
 
 music = {
 	song = "2049"
