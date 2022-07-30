@@ -970,7 +970,7 @@ music = {
 }
 
 music = {
-	song = "katyusha"
+	song = "katyusha_russian"
 	chance = {
 		modifier = {
 			factor = 2

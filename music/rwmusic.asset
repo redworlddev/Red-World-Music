@@ -1425,8 +1425,8 @@ music = {
 }
 
 music = {
-	name = "katyusha"
-	file = "katyusha.ogg"
+	name = "katyusha_russian"
+	file = "katyusha_russian.ogg"
 	volume = 0.65
 }
 
@@ -2049,8 +2049,8 @@ music = {
 }
 
 music = {
-	name = "panzerlied"
-	file = "panzerlied.ogg"
+	name = "panzerlied_german"
+	file = "panzerlied_german.ogg"
 	volume = 0.65
 }
 

@@ -2011,7 +2011,7 @@ music = {
 }
 
 music = {
-	song = "panzerlied"
+	song = "panzerlied_german"
 	chance = {
 		modifier = {
 			factor = 2
