@@ -3,20 +3,14 @@
 #### APRIL UPDATE ####
 
 music = {
-	name = "99_luftballons"
-	file = "99_luftballons.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "march_forward_dear_mother_ethiopia"
-	file = "march_forward_dear_mother_ethiopia.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "2049"
 	file = "2049.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "99_luftballons"
+	file = "99_luftballons.ogg"
 	volume = 0.65
 }
 
@@ -765,12 +759,6 @@ music = {
 }
 
 music = {
-	name = "eddy_huntington_ussr"
-	file = "eddy_hungtington_ussr.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "egypt_bilady"
 	file = "egypt_bilady.ogg"
 	volume = 0.65
@@ -885,6 +873,11 @@ music = {
 }
 
 music = {
+	name = "generalissimo_kim_il_sung_is_with_us"
+	file = "generalissimo_kim_il_sung_is_with_us.ogg"
+}
+
+music = {
 	name = "gens_du_pays"
 	file = "gens_du_pays.ogg"
 	volume = 0.65
@@ -972,6 +965,11 @@ music = {
 	name = "grass_from_home"
 	file = "grass_from_home.ogg"
 	volume = 0.65
+}
+
+music = {
+	name = "greece_never_dies"
+	file = "greece_never_dies.ogg"
 }
 
 music = {
@@ -1275,6 +1273,11 @@ music = {
 }
 
 music = {
+	name = "if_there_is_war_tomorrow"
+	file = "if_there_is_war_tomorrow.ogg"
+}
+
+music = {
 	name = "ikoku_no_oka"
 	file = "ikoku_no_oka.ogg"
 	volume = 0.65
@@ -1383,6 +1386,11 @@ music = {
 }
 
 music = {
+	name = "jerusalem"
+	file = "jerusalem.ogg"
+}
+
+music = {
 	name = "joe_hill"
 	file = "joe_hill.ogg"
 	volume = 0.65
@@ -1425,14 +1433,14 @@ music = {
 }
 
 music = {
-	name = "katyusha_russian"
-	file = "katyusha_russian.ogg"
+	name = "katyusha_japanese"
+	file = "katyusha_japanese.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "katyusha_japanese"
-	file = "katyusha_japanese.ogg"
+	name = "katyusha_russian"
+	file = "katyusha_russian.ogg"
 	volume = 0.65
 }
 
@@ -1470,6 +1478,11 @@ music = {
 	name = "klin_runag_thong"
 	file = "klin_runag_thong.ogg"
 	volume = 0.65
+}
+
+music = {
+	name = "komm_gib_mir_deine_hand"
+	file = "komm_gib_mir_deine_hand.ogg"
 }
 
 music = {
@@ -1683,6 +1696,12 @@ music = {
 }
 
 music = {
+	name = "march_forward_dear_mother_ethiopia"
+	file = "march_forward_dear_mother_ethiopia.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "march_in_step"
 	file = "march_in_step.ogg"
 	volume = 0.65
@@ -1839,6 +1858,11 @@ music = {
 }
 
 music = {
+	name = "mother_anarchy_rock"
+	file = "mother_anarchy_rock.ogg"
+}
+
+music = {
 	name = "mr_roboto"
 	file = "mr_roboto.ogg"
 	volume = 0.65
@@ -1959,14 +1983,14 @@ music = {
 }
 
 music = {
-	name = "oblawa"
-	file = "oblawa.ogg"
+	name = "o_canada"
+	file = "o_canada.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "o_canada"
-	file = "o_canada.ogg"
+	name = "oblawa"
+	file = "oblawa.ogg"
 	volume = 0.65
 }
 
@@ -2109,6 +2133,11 @@ music = {
 }
 
 music = {
+	name = "poker_face"
+	file = "poker_face.ogg"
+}
+
+music = {
 	name = "preussens_gloria"
 	file = "preussens_gloria.ogg"
 	volume = 0.65
@@ -2159,6 +2188,12 @@ music = {
 music = {
 	name = "red_army_is_the_strongest"
 	file = "red_army_is_the_strongest.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "red_army_is_the_strongest_japanese"
+	file = "red_army_is_the_strongest_japanese.ogg"
 	volume = 0.65
 }
 
@@ -2412,6 +2447,11 @@ music = {
 	name = "south_african_anthem"
 	file = "south_african_anthem.ogg"
 	volume = 0.65
+}
+
+music = {
+	name = "soviet_air_force_march"
+	file = "soviet_air_force_march.ogg"
 }
 
 music = {
@@ -2703,6 +2743,11 @@ music = {
 }
 
 music = {
+	name = "toxic"
+	file = "toxic.ogg"
+}
+
+music = {
 	name = "transvaalse_volkslied"
 	file = "transvaalse_volkslied.ogg"
 	volume = 0.65
@@ -2787,6 +2832,12 @@ music = {
 }
 
 music = {
+	name = "ussr_eddy_huntington"
+	file = "ussr_eddy_huntington.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "uttoroindulo"
 	file = "uttoroindulo.ogg"
 	volume = 0.65
@@ -2796,6 +2847,11 @@ music = {
 	name = "uz_marsala_tita"
 	file = "uz_marsala_tita.ogg"
 	volume = 0.65
+}
+
+music = {
+	name = "valerie"
+	file = "valerie.ogg"
 }
 
 music = {
@@ -3021,12 +3077,6 @@ music = {
 }
 
 music = {
-	name = "workers_from_vienna"
-	file = "workers_from_vienna.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "ya_sidi"
 	file = "ya_sidi.ogg"
 	volume = 0.65
@@ -3072,4 +3122,9 @@ music = {
 	name = "zx_dan"
 	file = "zx_dan.ogg"
 	volume = 0.65
+}
+
+music = { 
+	name = "red_army_is_the_strongest_hungarian"
+	file = "red_army_is_the_strongest_hungarian.ogg"
 }

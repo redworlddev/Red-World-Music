@@ -1025,6 +1025,16 @@ music = {
 }
 
 music = {
+	song = "greece_never_dies"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GRE
+		}
+	}
+}
+
+music = {
 	song = "greek_junta_anthem"
 	chance = {
 		modifier = {
@@ -1442,19 +1452,15 @@ music = {
 
 music = {
 	song = "its_a_long_way_to_mukumbura"
-	
 	chance = {
 		modifier = {
 			factor = 2
-
 			tag = SAF
 			OR = {
 				has_government = national_conservative 
 				has_government = fascist 
 				has_government = nationalist
 			}
-			
-			
 		}
 	}
 }
@@ -1485,6 +1491,17 @@ music = {
 		modifier = {
 			factor = 2
 			tag = RAJ
+		}
+	}
+}
+
+music = {
+	song = "jerusalem"
+	chance = {
+		modifier = {
+			factor = 2 
+			tag = ENG
+			has_war = no
 		}
 	}
 }
@@ -2320,7 +2337,6 @@ music = {
 			factor = 2
 			OR = {
 			    tag = FIN
-				tag = SOV
 				tag = EST
 				tag = LAT
 				tag = LIT
@@ -2654,13 +2670,19 @@ music = {
 
 music = {
 	song = "we_are_russians_god_is_with_us"
-	
 	chance = {
 		modifier = {
 			factor = 2
 			OR = {
 			    tag = SOV
 				tag = RUS
+			}
+			OR = {
+				has_government = fascist
+				has_government = nationalist
+				has_government = national_bolshevik
+				has_government = national_conservative
+				has_government = centrist
 			}
 		}
 	}

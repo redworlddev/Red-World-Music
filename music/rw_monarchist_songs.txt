@@ -411,7 +411,6 @@ music = {
 	}
 }
 
-
 music = {
 	song = "the_prayer_of_russians"
 	chance = {

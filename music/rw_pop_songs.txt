@@ -1,22 +1,22 @@
 music_station = "rw_pop_music"
 
 music = {
-	song = "99_luftballons"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = GER	
-		}
-	}
-}
-
-music = {
 	song = "2049"
 	chance = {
 		modifier = {
 			factor = 2
 			tag = JAP
 			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "99_luftballons"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER	
 		}
 	}
 }
@@ -136,6 +136,15 @@ music = {
 		modifier = {
 			factor = 2
 			tag = SOV
+			has_war = no
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				tag = SOV
+				tag = RUS
+			}
+			has_war = yes
 		}
 	}
 }
@@ -191,11 +200,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-		OR = {
-			tag = SOV
-			tag = RUS
-			tag = UKR
+			OR = {
+				tag = SOV
+				tag = RUS
+				tag = UKR
 			}
+			has_war = no
 		}
 	}
 }
@@ -232,6 +242,7 @@ music = {
 		modifier = {
 			factor = 2
 			tag = JAP
+			has_war = no
 		}
 	}
 }
@@ -255,6 +266,7 @@ music = {
 		modifier = {
 			factor = 2
 			tag = GER
+			has_war = no
 		}
 	}
 }
@@ -319,16 +331,6 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
-		}
-	}
-}
-
-music = {
-	song = "eddy_huntington_ussr"
-	chance = {
-		modifier = {
-			factor = 2
-			tag = LIN
 		}
 	}
 }
@@ -401,7 +403,6 @@ music = {
 
 music = {
 	song = "grass_from_home"
-	
 	chance = {
 		modifier = {
 			factor = 2
@@ -409,8 +410,7 @@ music = {
 			tag = SOV
 			tag = RUS
 			}
-			
-			
+			has_war = no
 		}
 	}
 }
@@ -449,6 +449,12 @@ music = {
 		modifier = {
 			factor = 2
 			tag = LIN
+			has_war = no
+		}
+		modifier = {
+			factor = 1.8
+			tag = LIN
+			has_war = yes
 		}
 	}
 }
@@ -468,7 +474,6 @@ music = {
 
 music = {
 	song = "i_want_a_new_drug"
-	
 	chance = {
 		modifier = {
 			factor = 2
@@ -552,6 +557,19 @@ music = {
 				tag = UTA
 				tag = TEX
 			}
+			has_war = no
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				tag = MWA
+				tag = ILL
+				tag = MOT
+				tag = ARI
+				tag = UTA
+				tag = TEX
+			}
+			has_war = yes
 		}
 	}
 }
@@ -572,6 +590,17 @@ music = {
 		modifier = {
 			factor = 2
 			tag = SIA
+		}
+	}
+}
+
+music = {
+	song = "komm_gib_mir_deine_hand"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
+			has_war = no
 		}
 	}
 }
@@ -636,7 +665,6 @@ music = {
 
 music = {
 	song = "mr_roboto"
-	
 	chance = {
 		modifier = {
 			factor = 2
@@ -730,6 +758,7 @@ music = {
 			tag = BLR
 			tag = KZH
 			}
+			has_war = no
 		}
 	}
 }
@@ -797,6 +826,19 @@ music = {
 }
 
 music = {
+	song = "poker_face"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = { 
+				tag = NEA
+				tag = ILL
+			}
+		}
+	}
+}
+
+music = {
 	song = "rasputin"
 	chance = {
 		modifier = {
@@ -823,6 +865,15 @@ music = {
 				tag = NZL
 				tag = AST
 				tag = GRL
+			}
+			OR = {
+				has_government = moderate_socialist
+				has_government = new_democrat
+				has_government = liberal
+				has_government = centrist
+				has_government = national_conservative
+				has_government = nationalist
+				has_government = fascist
 			}
 		}
 	}
@@ -883,8 +934,13 @@ music = {
 	song = "simply_irresistible"
 	chance = {
 		modifier = {
+			factor = 1.5
+			tag = LIN
+		}
+		modifier = {
 			factor = 2
 			tag = LIN
+			has_war = no
 		}
 	}
 }
@@ -894,7 +950,19 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-			tag = SOV
+			OR = {
+				tag = SOV
+				tag = RUS
+			}
+			has_war = no
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				tag = SOV
+				tag = RUS
+			}
+			has_war = yes
 		}
 	}
 }
@@ -995,6 +1063,21 @@ music = {
 			factor = 2
 			tag = LIN
 		}
+		modifier = {
+			factor = 50
+			tag = LIN
+			has_war = yes
+		}
+		modifier = {
+			factor = 2
+			tag = GRL
+			has_government = fascist
+		}
+		modifier = {
+			factor = 1.5
+			tag = USA
+			has_war = yes
+		}
 	}
 }
 
@@ -1009,11 +1092,41 @@ music = {
 }
 
 music = {
+	song = "toxic"
+	chance = {
+		modifier = {
+			factor = 2 
+			tag = PCA
+		}
+	}
+}
+
+music = {
 	song = "ungmonpakarringon"
 	chance = {
 		modifier = {
 			factor = 2
 			tag = SWE
+		}
+	}
+}
+
+music = {
+	song = "ussr_eddy_huntington"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = LIN
+		}
+	}
+}
+
+music = {
+	song = "valerie"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
 		}
 	}
 }
@@ -1042,6 +1155,7 @@ music = {
 		modifier = {
 			factor = 2
 			tag = AST
+			has_war = no
 		}
 	}
 }
