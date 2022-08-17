@@ -113,6 +113,27 @@ music = {
 }
 
 music = {
+	song = "atomic"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				has_government = moderate_socialist
+				has_government = new_democrat
+				has_government = liberal
+				has_government = centrist
+				has_government = national_conservative
+			}
+			OR = {
+				tag = ENG
+				tag = NEA
+				tag = AMC
+			}
+		}
+	}
+}
+
+music = {
 	song = "bilgewater"
 	chance = {
 		modifier = {
@@ -190,6 +211,27 @@ music = {
 				tag = ARI
 				tag = UTA
 				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
+	song = "common_people"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				has_government = moderate_socialist
+				has_government = new_democrat
+				has_government = liberal
+				has_government = centrist
+				has_government = national_conservative
+			}
+			OR = {
+				tag = ENG
+				tag = NEA
+				tag = AMC
 			}
 		}
 	}
@@ -439,6 +481,27 @@ music = {
 		modifier = {
 			factor = 2
 			capital_scope = { is_on_continent = middle_east }
+		}
+	}
+}
+
+music = {
+	song = "heart_of_glass"
+	modifier = {
+		factor = 2
+		OR = {
+			tag = APC
+			tag = CAN
+			tag = AST
+			tag = AMC
+			tag = GRL
+			tag = SWE
+			tag = NZL
+			tag = NOR
+			tag = DEN
+			tag = IRE
+			tag = SCO
+			tag = ULS
 		}
 	}
 }
@@ -833,6 +896,20 @@ music = {
 			OR = { 
 				tag = NEA
 				tag = ILL
+			}
+		}
+	}
+}
+
+music = {
+	song = "private_idaho"
+	chance = {
+		modifier = {
+			factor = 2 
+			OR = {
+				tag = LIN
+				tag = NEA
+				tag = AMC
 			}
 		}
 	}

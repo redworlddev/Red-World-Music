@@ -219,6 +219,12 @@ music = {
 }
 
 music = {
+	name = "atomic"
+	file = "atomic.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "au_31_du_mois_d_aout"
 	file = "au_31_du_mois_d_aout.ogg"
 	volume = 0.65
@@ -537,6 +543,12 @@ music = {
 }
 
 music = {
+	name = "common_people"
+	file = "common_people.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "compromise"
 	file = "compromise.ogg"
 	volume = 0.65
@@ -795,6 +807,12 @@ music = {
 }
 
 music = {
+	name = "enver_hoxha_tungjatjeta"
+	file = "enver_hoxha_tungjatjeta.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "erika_afrikaans"
 	file = "erika_afrikaans.ogg"
 	volume = 0.65
@@ -875,6 +893,7 @@ music = {
 music = {
 	name = "generalissimo_kim_il_sung_is_with_us"
 	file = "generalissimo_kim_il_sung_is_with_us.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -970,6 +989,7 @@ music = {
 music = {
 	name = "greece_never_dies"
 	file = "greece_never_dies.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -1069,6 +1089,12 @@ music = {
 }
 
 music = {
+	name = "heart_of_glass"
+	file = "heart_of_glass.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "heil_dir_im_siegerkranz"
 	file = "heil_dir_im_siegerkranz.ogg"
 	volume = 0.65
@@ -1089,6 +1115,12 @@ music = {
 music = {
 	name = "hem_varnets_marsch"
 	file = "hem_varnets_marsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "heres_to_you_nicola_and_bart"
+	file = "heres_to_you_nicola_and_bart.ogg"
 	volume = 0.65
 }
 
@@ -1275,6 +1307,7 @@ music = {
 music = {
 	name = "if_there_is_war_tomorrow"
 	file = "if_there_is_war_tomorrow.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -1388,6 +1421,7 @@ music = {
 music = {
 	name = "jerusalem"
 	file = "jerusalem.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -1483,6 +1517,7 @@ music = {
 music = {
 	name = "komm_gib_mir_deine_hand"
 	file = "komm_gib_mir_deine_hand.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -1860,6 +1895,7 @@ music = {
 music = {
 	name = "mother_anarchy_rock"
 	file = "mother_anarchy_rock.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -2135,6 +2171,7 @@ music = {
 music = {
 	name = "poker_face"
 	file = "poker_face.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -2146,6 +2183,12 @@ music = {
 music = {
 	name = "primavera"
 	file = "primavera.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "private_idaho"
+	file = "private_idaho.ogg"
 	volume = 0.65
 }
 
@@ -2452,6 +2495,7 @@ music = {
 music = {
 	name = "soviet_air_force_march"
 	file = "soviet_air_force_march.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -2745,6 +2789,7 @@ music = {
 music = {
 	name = "toxic"
 	file = "toxic.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -2852,6 +2897,7 @@ music = {
 music = {
 	name = "valerie"
 	file = "valerie.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -3127,4 +3173,5 @@ music = {
 music = { 
 	name = "red_army_is_the_strongest_hungarian"
 	file = "red_army_is_the_strongest_hungarian.ogg"
+	volume = 0.65
 }

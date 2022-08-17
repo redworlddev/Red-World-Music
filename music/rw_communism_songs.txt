@@ -642,6 +642,17 @@ music = {
 }
 
 music = {
+	song = "enver_hoxha_tungjatjeta"
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ALB
+			has_government = communist
+		}
+	}
+}
+
+music = {
 	song = "ethiopian_communist_anthem"
 	chance = {
 		modifier = {
@@ -735,6 +746,24 @@ music = {
 		modifier = {
 			factor = 2
 			tag = JAP
+		}
+	}
+}
+
+music = {
+	song = "heres_to_you_nicola_and_bart"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NEA
+				tag = AMC
+				tag = ITA
+			}
+			OR = {
+				has_government = revolutionary_socialist
+				has_government = moderate_socialist
+			}
 		}
 	}
 }
