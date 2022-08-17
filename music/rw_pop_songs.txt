@@ -487,21 +487,23 @@ music = {
 
 music = {
 	song = "heart_of_glass"
-	modifier = {
-		factor = 2
-		OR = {
-			tag = APC
-			tag = CAN
-			tag = AST
-			tag = AMC
-			tag = GRL
-			tag = SWE
-			tag = NZL
-			tag = NOR
-			tag = DEN
-			tag = IRE
-			tag = SCO
-			tag = ULS
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = APC
+					tag = CAN
+				tag = AST
+				tag = AMC
+				tag = GRL
+				tag = SWE
+				tag = NZL
+				tag = NOR
+				tag = DEN
+				tag = IRE
+				tag = SCO
+				tag = ULS
+			}
 		}
 	}
 }
