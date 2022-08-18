@@ -129,6 +129,12 @@ music = {
 }
 
 music = {
+	name = "alejandro"
+	file = "alejandro.ogg"
+	volume = 0.65 
+}
+
+music = {
 	name = "ali_baba"
 	file = "ali_baba.ogg"
 	volume = 0.65
@@ -2043,6 +2049,12 @@ music = {
 }
 
 music = {
+	name = "oktobersong"
+	file = "oktobersong.ogg"
+	volume = 0.65 
+}
+
+music = {
 	name = "old_devils"
 	file = "old_devils.ogg"
 	volume = 0.65
@@ -2051,6 +2063,12 @@ music = {
 music = {
 	name = "olur_my_boyle_olur_mu"
 	file = "olur_my_boyle_olur_mu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "on_melancholy_hill"
+	file = "on_melancholy_hill.ogg"
 	volume = 0.65
 }
 
@@ -2175,6 +2193,12 @@ music = {
 }
 
 music = {
+	name = "power_and_the_passion"
+	file = "power_and_the_passion.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "preussens_gloria"
 	file = "preussens_gloria.ogg"
 	volume = 0.65
@@ -2231,6 +2255,12 @@ music = {
 music = {
 	name = "red_army_is_the_strongest"
 	file = "red_army_is_the_strongest.ogg"
+	volume = 0.65
+}
+
+music = { 
+	name = "red_army_is_the_strongest_hungarian"
+	file = "red_army_is_the_strongest_hungarian.ogg"
 	volume = 0.65
 }
 
@@ -2445,6 +2475,12 @@ music = {
 }
 
 music = {
+	name = "song_about_yuri_gagarin"
+	file = "song_about_yuri_gagarin.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "song_of_homeland_defence"
 	file = "song_of_homeland_defence.ogg"
 	volume = 0.65
@@ -2640,6 +2676,12 @@ music = {
 	name = "thatcherites"
 	file = "thatcherites.ogg"
 	volume = 0.65
+}
+
+music = {
+	name = "thats_life"
+	file = "thats_life.ogg"
+	volume = 0.65 
 }
 
 music = {
@@ -3167,11 +3209,5 @@ music = {
 music = {
 	name = "zx_dan"
 	file = "zx_dan.ogg"
-	volume = 0.65
-}
-
-music = { 
-	name = "red_army_is_the_strongest_hungarian"
-	file = "red_army_is_the_strongest_hungarian.ogg"
 	volume = 0.65
 }

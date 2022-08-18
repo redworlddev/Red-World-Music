@@ -16,7 +16,17 @@ music = {
 	chance = {
 		modifier = {
 			factor = 2
-			tag = GER	
+			OR = {
+				tag = GER
+				tag = AUS
+				tag = BAV
+			}
+		}
+		modifier = {
+			factor = 1
+			OR = {
+				has_spirit = idea_eu_member
+			}
 		}
 	}
 }
@@ -51,6 +61,33 @@ music = {
 				has_government = fascist 
 				has_government = monarchist 
 				has_government = national_bolshevik
+			}
+		}
+	}
+}
+
+music = {
+	song = "alejandro"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = AMC
+				tag = NEA
+				tag = GRL
+			}
+		}
+		modifier = {
+			factor = 1
+			OR = {
+				tag = CAN
+				tag = USA
+				tag = ILL
+				tag = ENG
+				tag = IRE
+				tag = ULS
+				tag = SCO
+				tag = QUE
 			}
 		}
 	}
@@ -802,6 +839,41 @@ music = {
 }
 
 music = {
+	song = "on_melancholy_hill"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = ENG
+				tag = SCO
+				tag = ULS
+				tag = IRE
+				tag = SWE
+				tag = AST
+				tag = CAN
+				tag = NZL
+			}
+		}
+		modifier = {
+			factor = 1
+			OR = {
+				tag = NEA
+				tag = USA
+				tag = PCA
+				tag = HAW
+				tag = HOL
+				tag = BEL
+				tag = FRA
+				tag = POR
+				tag = NOR
+				tag = FIN
+				tag = DEN
+			}
+		}
+	}
+}
+
+music = {
 	song = "on_your_way"
 	chance = {
 		modifier = {
@@ -898,6 +970,23 @@ music = {
 			OR = { 
 				tag = NEA
 				tag = ILL
+			}
+		}
+	}
+}
+
+music = {
+	song = "power_and_the_passion"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NZL
+				tag = AST
+				tag = NRT
+				tag = NSW
+				tag = QLD
+				tag = WAS
 			}
 		}
 	}
@@ -1113,6 +1202,39 @@ music = {
 			factor = 2
 			tag = JAP
 			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "thats_life"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = GRL
+				tag = USA
+				tag = AMC
+				tag = MWA
+				tag = ILL
+				tag = ARI
+				tag = TEX
+				tag = MOT
+			}
+		}
+		modifier = {
+			factor = 1 
+			OR = {
+				tag = LIN
+				tag = CAN
+				tag = NEA
+				tag = PCA
+				tag = MEX
+				tag = AST
+				tag = NZL
+				tag = HAW
+				tag = JAP
+			}
 		}
 	}
 }

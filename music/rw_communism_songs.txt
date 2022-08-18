@@ -1583,6 +1583,26 @@ music = {
 }
 
 music = {
+	song = "oktobersong"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				has_government = revolutionary_socialist
+				has_government = communist
+				has_government = moderate_socialist
+			}
+			OR = {
+				has_government = GER
+				has_government = BAV
+				has_government = AUS
+				has_government = LUX
+			}
+		}
+	}
+}
+
+music = {
 	song = "olur_my_boyle_olur_mu"
 	chance = {
 		modifier = {
@@ -1820,6 +1840,29 @@ music = {
 				tag = SAF
 				tag = NZL
 			}
+		}
+	}
+}
+
+music = {
+	song = "song_about_yuri_gagarin"
+	chance = {
+		modifier = {
+			factor = 2
+			has_government = communist
+			OR = {
+				tag = BUL
+				tag = RUS
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 1
+			tag = RUS
+		}
+		modifier = {
+			factor = 1
+			has_idea = idea_eu_member
 		}
 	}
 }
