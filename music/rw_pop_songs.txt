@@ -1258,6 +1258,19 @@ music = {
 }
 
 music = {
+	song = "the_devil_went_down_to_georgia"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = USA
+				tag = TEX
+			}
+		}
+	}
+}
+
+music = {
 	song = "the_final_countdown"
 	chance = {
 		modifier = {

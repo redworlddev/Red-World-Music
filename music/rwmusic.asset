@@ -2745,6 +2745,12 @@ music = {
 }
 
 music = {
+	name = "the_devil_went_down_to_georgia"
+	file = "the_devil_went_down_to_georgia.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "the_final_countdown"
 	file = "the_final_countdown.ogg"
 	volume = 0.65
