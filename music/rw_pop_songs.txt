@@ -1405,6 +1405,22 @@ music = {
 }
 
 music = {
+	song = "zvezda_po_imeni_solntse"
+	chance = {
+		modifier = {
+			factor = 2
+		OR = {
+			tag = SOV
+			tag = RUS
+			tag = UKR
+			tag = BLR
+			tag = KZH
+			}
+		}
+	}
+}
+
+music = {
 	song = "zx_dan"
 	chance = {
 		modifier = {
