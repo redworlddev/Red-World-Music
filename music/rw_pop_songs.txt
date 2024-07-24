@@ -728,6 +728,43 @@ music = {
 }
 
 music = {
+	song = "lady_in_black"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = NEA
+				tag = CAN
+				tag = AST
+				tag = NZL
+				tag = IRE
+				tag = SCO
+				tag = ULS
+				tag = ENG
+				tag = USA
+				tag = PCA
+			}
+		}
+		modifier = {
+			factor = 3
+			OR = {
+				tag = NEA
+				tag = CAN
+				tag = AST
+				tag = NZL
+				tag = IRE
+				tag = SCO
+				tag = ULS
+				tag = ENG
+				tag = USA
+				tag = PCA
+			}
+			has_war = yes
+		}
+	}
+}
+
+music = {
 	song = "laissez_tomber_les_filles"
 	chance = {
 		modifier = {
