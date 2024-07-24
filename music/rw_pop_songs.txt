@@ -708,6 +708,22 @@ music = {
 }
 
 music = {
+	song = "kosmicheskiye_sny"
+	chance = {
+		modifier = {
+			factor = 2
+			OR = {
+				tag = SOV
+				tag = RUS
+				tag = UKR
+				tag = BLR
+				tag = KZH
+			}
+		}
+	}
+}
+
+music = {
 	song = "kraisang_krai_liang"
 	chance = {
 		modifier = {
