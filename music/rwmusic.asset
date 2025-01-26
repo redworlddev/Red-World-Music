@@ -351,8 +351,8 @@ music = {
 }
 
 music = {
-	name = "bella_ciao"
-	file = "bella_ciao.ogg"
+	name = "bella_ciao_rw"
+	file = "bella_ciao_rw.ogg"
 	volume = 0.65
 }
 
@@ -2355,8 +2355,8 @@ music = {
 }
 
 music = {
-	name = "sakkijarven_polkka"
-	file = "sakkijarven_polkka.ogg"
+	name = "sakkijarven_polkka_rw"
+	file = "sakkijarven_polkka_rw.ogg"
 	volume = 0.65
 }
 

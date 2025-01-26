@@ -25,7 +25,7 @@ music = {
 		modifier = {
 			factor = 1
 			OR = {
-				has_spirit = idea_eu_member
+				has_idea = idea_eu_member
 			}
 		}
 	}

@@ -2189,7 +2189,7 @@ music = {
 }
 
 music = {
-	song = "sakkijarven_polkka"
+	song = "sakkijarven_polkka_rw"
 	chance = {
 		modifier = {
 			factor = 2
